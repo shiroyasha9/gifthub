@@ -1,38 +1,184 @@
-.App {
-  text-align: center;
+/* Global Styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Headings and paragraph */
+h1 {
+  color: #2e3138;
+  font-weight: 600;
+  font-size: 3rem;
+  opacity: 0.8;
+}
+h2,
+p {
+  color: #343a40;
+  font-weight: 500;
+  opacity: 0.8;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h3 {
+  color: #495057;
+  font-weight: 700;
+  opacity: 0.8;
 }
 
-.App-header {
-  background-color: #282c34;
+/* Main and UI Glass */
+main {
+  font-family: 'Poppins', sans-serif;
   min-height: 100vh;
+  background: linear-gradient(to right top, #fadde1, #ff87ab);
+  margin: auto;
+  padding: 3.2rem 0;
+}
+
+.main-container {
+  display: grid;
+  place-items: center;
+  min-width: 100%;
+}
+
+.glass {
+  width: 75%;
+  min-height: 85vh;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+  );
+  border-radius: 2rem;
+  z-index: 5;
+  -webkit-backdrop-filter: blur(2rem);
+  backdrop-filter: blur(2rem);
+}
+
+/* Circles */
+.circle1,
+.circle2 {
+  background: white;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.3)
+  );
+  height: 20rem;
+  width: 20rem;
+  position: absolute;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.circle1 {
+  top: 5rem;
+  right: 10rem;
+}
+.circle2 {
+  bottom: 5%;
+  left: 10%;
+}
+
+/* Dashboard */
+.dashboard {
+  text-align: center;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.4)
+  );
+  border-radius: 2rem;
+  margin: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: space-between;
+}
+
+/* User */
+.user-img {
+  border-radius: 50%;
+  height: 8rem;
+  width: auto;
+  margin: 0;
+  margin-top: 1rem;
+  margin-bottom: 0.2rem;
+}
+
+/* Links */
+.link {
+  display: flex;
+  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin: 2rem 0rem;
+  padding: 1rem 5rem;
+  position: relative;
+  z-index: 1;
+  background: none;
 }
 
-.App-link {
-  color: #61dafb;
+.link::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0.3rem;
+  width: 97.5%;
+  height: 100%;
+  background: linear-gradient(to right top, #fadde1, #ff87ab);
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  z-index: -1;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.link:hover {
+  cursor: pointer;
+}
+
+.link:hover::before {
+  opacity: 1;
+}
+
+.link h2 {
+  margin: 0rem 1rem;
+}
+
+/* .link:hover {
+  background: linear-gradient(to right top, #fadde1, #ff87ab); 
+  background: black; 
+  cursor: pointer; 
+} */
+
+/* .link:before {
+  position: relative;
+  margin: 2rem 0rem;
+  padding: 1rem 5rem;
+  display: block;
+  background-image: none;
+}
+
+.link:after {
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  content: '';
+  opacity: 0;
+  background-image: linear-gradient(to right top, #fadde1, #ff87ab);
+  transition: all 0.5s ease-in-out;
+}
+
+.link:hover:after {
+  opacity: 1;
+} */
+
+/* Logo */
+.logo {
+  margin-top: 0.2rem;
+  margin-bottom: 2rem;
+}
+
+.logo img {
+  height: 8rem;
 }
