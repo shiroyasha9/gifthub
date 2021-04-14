@@ -4,6 +4,7 @@
   --gunmetal: #343a40;
   --dark-purple: #301934;
   --violet: #47126b;
+  --purple: #b666f5;
   --amaranth-purple: #ab274f;
   --amaranth: #e62e50;
   --sienna: #e97451;
@@ -11,13 +12,41 @@
   --platinum: #e5e5e5;
   --cultured: #f2f2f2;
   --sunrise: #ffdb00;
+  --spacing: 0.1rem;
+  --max-width: 1170px;
 }
 
 /* Global Styling */
-* {
+*,
+::after,
+::before {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-image: url('./assets/newbg.png');
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: var(--spacing);
+  text-transform: capitalize;
+  line-height: 1.25;
 }
 
 /* Headings and paragraph */
@@ -25,28 +54,26 @@ h1 {
   color: var(--dark-purple);
   font-weight: 600;
   font-size: 3rem;
-  opacity: 0.8;
 }
 h2,
 p {
   color: var(--gunmetal);
   font-weight: 500;
-  opacity: 0.8;
+  font-size: 2rem;
 }
 
 h3 {
   color: var(--violet);
   font-weight: 700;
-  opacity: 0.8;
+  font-size: 1.25rem;
 }
 
 /* Main and UI Glass */
 main {
-  font-family: 'Poppins', sans-serif;
   min-height: 100vh;
-  background: var(--amaranth);
-  margin: auto;
-  padding: 3.2rem 0;
+  /* background: var(--amaranth); */
+  display: flex;
+  margin: 0 auto;
 }
 
 .main-container {
@@ -56,7 +83,8 @@ main {
 }
 
 .glass {
-  width: 75%;
+  margin: 0 auto;
+  width: 70vw;
   min-height: 85vh;
   background: linear-gradient(
     to right bottom,
@@ -83,6 +111,7 @@ main {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
+  overflow: hidden;
 }
 
 /* User */
@@ -92,7 +121,7 @@ main {
   width: auto;
   margin: 0;
   margin-top: 1rem;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.5rem;
 }
 
 /* Links */
@@ -100,10 +129,10 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0rem 0rem;
   padding: 1.7rem 4.7rem;
   background: none;
   transition: all 0.2s ease-in-out;
+  max-width: inherit;
 }
 
 .link h2 {
@@ -114,11 +143,20 @@ main {
 
 .link:hover {
   cursor: pointer;
-  background: var(--yellow);
+  background: var(--purple);
 }
 
 .link:hover h2 {
-  color: #000;
+  color: #fff;
+}
+
+.link-icon {
+  color: var(--amaranth);
+  transition: all 0.2s ease-in-out;
+}
+
+.link:hover .link-icon {
+  color: #fff;
 }
 
 /* Logo */
@@ -129,4 +167,9 @@ main {
 
 .logo img {
   height: 8rem;
+}
+
+.col {
+  padding: 0;
+  margin: 0;
 }
