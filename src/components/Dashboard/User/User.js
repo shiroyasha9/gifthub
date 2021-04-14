@@ -1,11 +1,17 @@
-import React, { useState } from 'react';
-import Avatar from '../../../assets/222544.jpg';
+import React from 'react';
+import Guest from '../../../assets/guest.jpg';
 
-const User = ({ user }) => {
+const User = ({ auth }) => {
   return (
     <div className="user">
-      <img src={Avatar} alt="avatar" className="user-img" />
-      <h3 style={{ color: '#212529' }}>{user ? 'Mubin' : 'Guest User'}</h3>
+      <img
+        src={auth.currentUser?.photoURL ?? Guest}
+        alt="avatar"
+        className="user-img"
+      />
+      <h3 style={{ color: '#212529' }}>
+        {auth.currentUser?.displayName ?? 'Guest User'}
+      </h3>
     </div>
   );
 };
