@@ -5,7 +5,7 @@ import { TiMediaRewind } from 'react-icons/ti';
 import { HiGift } from 'react-icons/hi';
 import { IoIosInformationCircle } from 'react-icons/io';
 
-const Links = ({ auth, user, firebase }) => {
+const Links = ({ auth, user, firebase, changeShow }) => {
   const signIn = () => {
     const provider = new firebase.auth.GoogleAuthProvider();
     auth.signInWithPopup(provider);
@@ -27,8 +27,14 @@ const Links = ({ auth, user, firebase }) => {
           text={user ? 'Logout' : 'Login'}
         />
       </div>
+      <div
+        onClick={() => {
+          changeShow('home');
+        }}
+      >
+        <Link Icon={HiGift} text="Suggest" />
+      </div>
 
-      <Link Icon={HiGift} text="Suggest" />
       <Link Icon={TiMediaRewind} text="History" />
       <Link Icon={IoIosInformationCircle} text="About" />
     </div>

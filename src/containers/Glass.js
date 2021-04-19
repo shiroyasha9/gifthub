@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Container from 'react-bootstrap/Container';
 import Dashboard from '../components/Dashboard/Dashboard';
-import Content from '../components/Content/Content';
+import Content from '../components/Contents/Content';
 import Row from 'react-bootstrap/Row';
 import firebase from 'firebase/app';
 import 'firebase/auth';
@@ -21,13 +21,22 @@ const auth = firebase.auth();
 
 const Glass = () => {
   const [user] = useAuthState(auth);
+  const [show, setShow] = useState('home');
+  const changeShow = page => {
+    setShow(page);
+  };
   return (
     <div>
       <main>
         <Container className="main-container">
           <Row className="glass">
-            <Dashboard auth={auth} user={user} firebase={firebase} />
-            <Content />
+            <Dashboard
+              auth={auth}
+              user={user}
+              firebase={firebase}
+              changeShow={changeShow}
+            />
+            <Content auth={auth} show={show} changeShow={changeShow} />
           </Row>
         </Container>
       </main>

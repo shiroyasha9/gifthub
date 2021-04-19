@@ -1,0 +1,18 @@
+appdirs==1.4.4
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+black==19.10b0
+certifi==2020.12.5
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+mypy-extensions==0.4.3
+pathspec==0.7.0
+python-dotenv==0.17.0
+regex @ file:///C:/ci/regex_1617569893741/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+typed-ast @ file:///C:/ci/typed-ast_1610466535590/work
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
+Werkzeug==1.0.1
+wincertstore==0.2
