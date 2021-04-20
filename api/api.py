@@ -86,6 +86,7 @@ def gifthub(age, gender, relation, ocassion, interest1, interest2, budget):
     )
     output = dtree.predict(df)
     output = str(output[0])
+    prediction = output
     output = output.split(",")  # output list ready ex. ['Audio Sunglasses', ' Gaming Console']
 
     out_lst = []
@@ -97,11 +98,11 @@ def gifthub(age, gender, relation, ocassion, interest1, interest2, budget):
 
     sor_out_lst = sorted(out_lst, key=lambda i: i["price_num"])  # sorting all the scraped items
     if user_input[0][6] == 0:
-        return sor_out_lst[: len(sor_out_lst) // 3]
+        return [prediction , sor_out_lst[: len(sor_out_lst) // 3]]
     elif user_input[0][6] == 1:
-        return sor_out_lst[len(sor_out_lst) // 3 : 2 * (len(sor_out_lst) // 3)]
+        return [prediction, sor_out_lst[len(sor_out_lst) // 3 : 2 * (len(sor_out_lst) // 3)]]
     else:
-        return sor_out_lst[2 * (len(sor_out_lst) // 3) :]
+        return [prediction , sor_out_lst[2 * (len(sor_out_lst) // 3) :]]
 
 
 # ghout = gifthub([[1,0,0,0,0,0,0]])[0:2]
@@ -112,38 +113,24 @@ def gifthub(age, gender, relation, ocassion, interest1, interest2, budget):
 def api():
     # this is the array I am passing from frontend
     json_data = flask.request.json
-    age = int(json_data[0])
-    gender = int(json_data[1])
-    relation = int(json_data[2])
-    ocassion = int(json_data[3])
-    interest1 = int(json_data[4])
-    interest2 = int(json_data[5])
-    budget = int(json_data[6])
-
+    if json_data != None:
+        age = int(json_data[0])
+        gender = int(json_data[1])
+        relation = int(json_data[2])
+        ocassion = int(json_data[3])
+        interest1 = int(json_data[4])
+        interest2 = int(json_data[5])
+        budget = int(json_data[6])
+    else:
+        return "MUFFIN OP"
     print(json_data)
     ghout = gifthub(age, gender, relation, ocassion, interest1, interest2, budget)[0:2]
-    print(gifthub(age, gender, relation, ocassion, interest1, interest2, budget))
-    link1 = ghout[0]["link"]
-    image1 = ghout[0]["img"]
-    title1 = ghout[0]["title"]
-    price1 = ghout[0]["price"]
-
-    link2 = ghout[1]["link"]
-    image2 = ghout[1]["img"]
-    title2 = ghout[1]["title"]
-    price2 = ghout[1]["price"]
+    
+    
     # Just trying to return something
     return {
-        "suggest1": title1,
-        "link1": link1,
-        "image1": image1,
-        "price1": price1,
-        "suggest2": title2,
-        "link2": link2,
-        "image2": image2,
-        "price2": price2,
+        "output": ghout
     }
-
 
 if __name__ == "__main__":
     app.run(debug=True)
