@@ -1,0 +1,3601 @@
+age,gender,relation,occasion,interest_1,interest_2,budget,gift
+0,0,1,0,0,0,0,"Football, Football Player Poster"
+0,0,1,0,0,1,0,"Basketball, BasketBall Player Poster"
+0,0,1,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+0,0,1,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+0,0,1,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+0,0,1,0,0,5,0,"Running Shoes, Headband"
+0,0,1,0,0,6,0,"Tennis Racket, Headband"
+0,0,1,0,0,7,0,"Chess Board, Board Game"
+0,0,1,0,0,8,0,"Volleyball, Waterbottle"
+0,0,1,0,0,9,0,"Boxing Gloves, Boxer Poster"
+0,0,1,0,0,10,0,"Skates, Headband"
+0,0,1,0,0,11,0,"Rugby Ball, Sports Towel"
+0,0,1,0,0,13,0,Fishing Accessories
+0,0,1,0,0,12,0,"Cycling Accessories, Waterbottle"
+0,0,1,0,0,0,1,"Football Shoes, Football"
+0,0,1,0,0,1,1,Basketball Shoes
+0,0,1,0,0,2,1,Hockey Shoes
+0,0,1,0,0,3,1,"Cricket Shoes, Cricket Bat"
+0,0,1,0,0,4,1,"Badminton Shoes, Badminton Racket"
+0,0,1,0,0,5,1,"Fitness Watch, Treadmill"
+0,0,1,0,0,6,1,"Tennis Racket, Tennis Shoes"
+0,0,1,0,0,7,1,"Carrom Board, Board Game"
+0,0,1,0,0,8,1,Volleyball Shoes
+0,0,1,0,0,9,1,Boxing Shoes
+0,0,1,0,0,10,1,"Skates, Fitness Watch"
+0,0,1,0,0,11,1,Rugby Accessories
+0,0,1,0,0,13,1,"Fishing Rod, Fishing Chair"
+0,0,1,0,0,12,1,Cycling Accessories
+0,0,1,0,0,0,2,Football Accessories
+0,0,1,0,0,1,2,Basketball Accessories
+0,0,1,0,0,2,2,Hockey Accessories
+0,0,1,0,0,3,2,Cricket Accessories
+0,0,1,0,0,4,2,Cricket Accessories
+0,0,1,0,0,5,2,"Fitness Watch, Treadmill"
+0,0,1,0,0,6,2,Tennis Accessories
+0,0,1,0,0,7,2,Cue Sports Accessories
+0,0,1,0,0,8,2,Volleyball Accessories
+0,0,1,0,0,9,2,Boxing Accessories
+0,0,1,0,0,10,2,Skating Accessories
+0,0,1,0,0,11,2,Rugby Accessories
+0,0,1,0,0,13,2,"Fishing Boat, Fishing Accessories"
+0,0,1,0,0,12,2,"Cycle, Cycling Accessories"
+0,1,1,0,0,0,0,"Football, Football Player Poster"
+0,1,1,0,0,1,0,"Basketball, BasketBall Player Poster"
+0,1,1,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+0,1,1,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+0,1,1,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+0,1,1,0,0,5,0,"Running Shoes, Headband"
+0,1,1,0,0,6,0,"Tennis Racket, Headband"
+0,1,1,0,0,7,0,"Chess Board, Board Game"
+0,1,1,0,0,8,0,"Volleyball, Waterbottle"
+0,1,1,0,0,9,0,"Boxing Gloves, Boxer Poster"
+0,1,1,0,0,10,0,"Skates, Headband"
+0,1,1,0,0,11,0,"Rugby Ball, Sports Towel"
+0,1,1,0,0,13,0,Fishing Accessories
+0,1,1,0,0,12,0,"Cycling Accessories, Waterbottle"
+0,1,1,0,0,0,1,"Football Shoes, Football"
+0,1,1,0,0,1,1,Basketball Shoes
+0,1,1,0,0,2,1,Hockey Shoes
+0,1,1,0,0,3,1,"Cricket Shoes, Cricket Bat"
+0,1,1,0,0,4,1,"Badminton Shoes, Badminton Racket"
+0,1,1,0,0,5,1,"Fitness Watch, Treadmill"
+0,1,1,0,0,6,1,"Tennis Racket, Tennis Shoes"
+0,1,1,0,0,7,1,"Carrom Board, Board Game"
+0,1,1,0,0,8,1,Volleyball Shoes
+0,1,1,0,0,9,1,Boxing Shoes
+0,1,1,0,0,10,1,"Skates, Fitness Watch"
+0,1,1,0,0,11,1,Rugby Accessories
+0,1,1,0,0,13,1,"Fishing Rod, Fishing Chair"
+0,1,1,0,0,12,1,Cycling Accessories
+0,1,1,0,0,0,2,Football Accessories
+0,1,1,0,0,1,2,Basketball Accessories
+0,1,1,0,0,2,2,Hockey Accessories
+0,1,1,0,0,3,2,Cricket Accessories
+0,1,1,0,0,4,2,Cricket Accessories
+0,1,1,0,0,5,2,"Fitness Watch, Treadmill"
+0,1,1,0,0,6,2,Tennis Accessories
+0,1,1,0,0,7,2,Cue Sports Accessories
+0,1,1,0,0,8,2,Volleyball Accessories
+0,1,1,0,0,9,2,Boxing Accessories
+0,1,1,0,0,10,2,Skating Accessories
+0,1,1,0,0,11,2,Rugby Accessories
+0,1,1,0,0,13,2,"Fishing Boat, Fishing Accessories"
+0,1,1,0,0,12,2,"Cycle, Cycling Accessories"
+0,0,0,0,0,0,0,"Football, Football Player Poster"
+0,0,0,0,0,1,0,"Basketball, BasketBall Player Poster"
+0,0,0,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+0,0,0,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+0,0,0,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+0,0,0,0,0,5,0,"Running Shoes, Headband"
+0,0,0,0,0,6,0,"Tennis Racket, Headband"
+0,0,0,0,0,7,0,"Chess Board, Board Game"
+0,0,0,0,0,8,0,"Volleyball, Waterbottle"
+0,0,0,0,0,9,0,"Boxing Gloves, Boxer Poster"
+0,0,0,0,0,10,0,"Skates, Headband"
+0,0,0,0,0,11,0,"Rugby Ball, Sports Towel"
+0,0,0,0,0,13,0,Fishing Accessories
+0,0,0,0,0,12,0,"Cycling Accessories, Waterbottle"
+0,0,0,0,0,0,1,"Football Shoes, Football"
+0,0,0,0,0,1,1,Basketball Shoes
+0,0,0,0,0,2,1,Hockey Shoes
+0,0,0,0,0,3,1,"Cricket Shoes, Cricket Bat"
+0,0,0,0,0,4,1,"Badminton Shoes, Badminton Racket"
+0,0,0,0,0,5,1,"Fitness Watch, Treadmill"
+0,0,0,0,0,6,1,"Tennis Racket, Tennis Shoes"
+0,0,0,0,0,7,1,"Carrom Board, Board Game"
+0,0,0,0,0,8,1,Volleyball Shoes
+0,0,0,0,0,9,1,Boxing Shoes
+0,0,0,0,0,10,1,"Skates, Fitness Watch"
+0,0,0,0,0,11,1,Rugby Accessories
+0,0,0,0,0,13,1,"Fishing Rod, Fishing Chair"
+0,0,0,0,0,12,1,Cycling Accessories
+0,0,0,0,0,0,2,Football Accessories
+0,0,0,0,0,1,2,Basketball Accessories
+0,0,0,0,0,2,2,Hockey Accessories
+0,0,0,0,0,3,2,Cricket Accessories
+0,0,0,0,0,4,2,Cricket Accessories
+0,0,0,0,0,5,2,"Fitness Watch, Treadmill"
+0,0,0,0,0,6,2,Tennis Accessories
+0,0,0,0,0,7,2,Cue Sports Accessories
+0,0,0,0,0,8,2,Volleyball Accessories
+0,0,0,0,0,9,2,Boxing Accessories
+0,0,0,0,0,10,2,Skating Accessories
+0,0,0,0,0,11,2,Rugby Accessories
+0,0,0,0,0,13,2,"Fishing Boat, Fishing Accessories"
+0,0,0,0,0,12,2,"Cycle, Cycling Accessories"
+0,1,0,0,0,0,0,"Football, Football Player Poster"
+0,1,0,0,0,1,0,"Basketball, BasketBall Player Poster"
+0,1,0,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+0,1,0,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+0,1,0,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+0,1,0,0,0,5,0,"Running Shoes, Headband"
+0,1,0,0,0,6,0,"Tennis Racket, Headband"
+0,1,0,0,0,7,0,"Chess Board, Board Game"
+0,1,0,0,0,8,0,"Volleyball, Waterbottle"
+0,1,0,0,0,9,0,"Boxing Gloves, Boxer Poster"
+0,1,0,0,0,10,0,"Skates, Headband"
+0,1,0,0,0,11,0,"Rugby Ball, Sports Towel"
+0,1,0,0,0,13,0,Fishing Accessories
+0,1,0,0,0,12,0,"Cycling Accessories, Waterbottle"
+0,1,0,0,0,0,1,"Football Shoes, Football"
+0,1,0,0,0,1,1,Basketball Shoes
+0,1,0,0,0,2,1,Hockey Shoes
+0,1,0,0,0,3,1,"Cricket Shoes, Cricket Bat"
+0,1,0,0,0,4,1,"Badminton Shoes, Badminton Racket"
+0,1,0,0,0,5,1,"Fitness Watch, Treadmill"
+0,1,0,0,0,6,1,"Tennis Racket, Tennis Shoes"
+0,1,0,0,0,7,1,"Carrom Board, Board Game"
+0,1,0,0,0,8,1,Volleyball Shoes
+0,1,0,0,0,9,1,Boxing Shoes
+0,1,0,0,0,10,1,"Skates, Fitness Watch"
+0,1,0,0,0,11,1,Rugby Accessories
+0,1,0,0,0,13,1,"Fishing Rod, Fishing Chair"
+0,1,0,0,0,12,1,Cycling Accessories
+0,1,0,0,0,0,2,Football Accessories
+0,1,0,0,0,1,2,Basketball Accessories
+0,1,0,0,0,2,2,Hockey Accessories
+0,1,0,0,0,3,2,Cricket Accessories
+0,1,0,0,0,4,2,Cricket Accessories
+0,1,0,0,0,5,2,"Fitness Watch, Treadmill"
+0,1,0,0,0,6,2,Tennis Accessories
+0,1,0,0,0,7,2,Cue Sports Accessories
+0,1,0,0,0,8,2,Volleyball Accessories
+0,1,0,0,0,9,2,Boxing Accessories
+0,1,0,0,0,10,2,Skating Accessories
+0,1,0,0,0,11,2,Rugby Accessories
+0,1,0,0,0,13,2,"Fishing Boat, Fishing Accessories"
+0,1,0,0,0,12,2,"Cycle, Cycling Accessories"
+0,0,1,1,0,0,0,"Football, Football Player Poster"
+0,0,1,1,0,1,0,"Basketball, BasketBall Player Poster"
+0,0,1,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+0,0,1,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+0,0,1,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+0,0,1,1,0,5,0,"Running Shoes, Headband"
+0,0,1,1,0,6,0,"Tennis Racket, Headband"
+0,0,1,1,0,7,0,"Chess Board, Board Game"
+0,0,1,1,0,8,0,"Volleyball, Waterbottle"
+0,0,1,1,0,9,0,"Boxing Gloves, Boxer Poster"
+0,0,1,1,0,10,0,"Skates, Headband"
+0,0,1,1,0,11,0,"Rugby Ball, Sports Towel"
+0,0,1,1,0,13,0,Fishing Accessories
+0,0,1,1,0,12,0,"Cycling Accessories, Waterbottle"
+0,0,1,1,0,0,1,"Football Shoes, Football"
+0,0,1,1,0,1,1,Basketball Shoes
+0,0,1,1,0,2,1,Hockey Shoes
+0,0,1,1,0,3,1,"Cricket Shoes, Cricket Bat"
+0,0,1,1,0,4,1,"Badminton Shoes, Badminton Racket"
+0,0,1,1,0,5,1,"Fitness Watch, Treadmill"
+0,0,1,1,0,6,1,"Tennis Racket, Tennis Shoes"
+0,0,1,1,0,7,1,"Carrom Board, Board Game"
+0,0,1,1,0,8,1,Volleyball Shoes
+0,0,1,1,0,9,1,Boxing Shoes
+0,0,1,1,0,10,1,"Skates, Fitness Watch"
+0,0,1,1,0,11,1,Rugby Accessories
+0,0,1,1,0,13,1,"Fishing Rod, Fishing Chair"
+0,0,1,1,0,12,1,Cycling Accessories
+0,0,1,1,0,0,2,Football Accessories
+0,0,1,1,0,1,2,Basketball Accessories
+0,0,1,1,0,2,2,Hockey Accessories
+0,0,1,1,0,3,2,Cricket Accessories
+0,0,1,1,0,4,2,Cricket Accessories
+0,0,1,1,0,5,2,"Fitness Watch, Treadmill"
+0,0,1,1,0,6,2,Tennis Accessories
+0,0,1,1,0,7,2,Cue Sports Accessories
+0,0,1,1,0,8,2,Volleyball Accessories
+0,0,1,1,0,9,2,Boxing Accessories
+0,0,1,1,0,10,2,Skating Accessories
+0,0,1,1,0,11,2,Rugby Accessories
+0,0,1,1,0,13,2,"Fishing Boat, Fishing Accessories"
+0,0,1,1,0,12,2,"Cycle, Cycling Accessories"
+0,1,1,1,0,0,0,"Football, Football Player Poster"
+0,1,1,1,0,1,0,"Basketball, BasketBall Player Poster"
+0,1,1,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+0,1,1,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+0,1,1,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+0,1,1,1,0,5,0,"Running Shoes, Headband"
+0,1,1,1,0,6,0,"Tennis Racket, Headband"
+0,1,1,1,0,7,0,"Chess Board, Board Game"
+0,1,1,1,0,8,0,"Volleyball, Waterbottle"
+0,1,1,1,0,9,0,"Boxing Gloves, Boxer Poster"
+0,1,1,1,0,10,0,"Skates, Headband"
+0,1,1,1,0,11,0,"Rugby Ball, Sports Towel"
+0,1,1,1,0,13,0,Fishing Accessories
+0,1,1,1,0,12,0,"Cycling Accessories, Waterbottle"
+0,1,1,1,0,0,1,"Football Shoes, Football"
+0,1,1,1,0,1,1,Basketball Shoes
+0,1,1,1,0,2,1,Hockey Shoes
+0,1,1,1,0,3,1,"Cricket Shoes, Cricket Bat"
+0,1,1,1,0,4,1,"Badminton Shoes, Badminton Racket"
+0,1,1,1,0,5,1,"Fitness Watch, Treadmill"
+0,1,1,1,0,6,1,"Tennis Racket, Tennis Shoes"
+0,1,1,1,0,7,1,"Carrom Board, Board Game"
+0,1,1,1,0,8,1,Volleyball Shoes
+0,1,1,1,0,9,1,Boxing Shoes
+0,1,1,1,0,10,1,"Skates, Fitness Watch"
+0,1,1,1,0,11,1,Rugby Accessories
+0,1,1,1,0,13,1,"Fishing Rod, Fishing Chair"
+0,1,1,1,0,12,1,Cycling Accessories
+0,1,1,1,0,0,2,Football Accessories
+0,1,1,1,0,1,2,Basketball Accessories
+0,1,1,1,0,2,2,Hockey Accessories
+0,1,1,1,0,3,2,Cricket Accessories
+0,1,1,1,0,4,2,Cricket Accessories
+0,1,1,1,0,5,2,"Fitness Watch, Treadmill"
+0,1,1,1,0,6,2,Tennis Accessories
+0,1,1,1,0,7,2,Cue Sports Accessories
+0,1,1,1,0,8,2,Volleyball Accessories
+0,1,1,1,0,9,2,Boxing Accessories
+0,1,1,1,0,10,2,Skating Accessories
+0,1,1,1,0,11,2,Rugby Accessories
+0,1,1,1,0,13,2,"Fishing Boat, Fishing Accessories"
+0,1,1,1,0,12,2,"Cycle, Cycling Accessories"
+0,0,0,1,0,0,0,"Football, Football Player Poster"
+0,0,0,1,0,1,0,"Basketball, BasketBall Player Poster"
+0,0,0,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+0,0,0,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+0,0,0,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+0,0,0,1,0,5,0,"Running Shoes, Headband"
+0,0,0,1,0,6,0,"Tennis Racket, Headband"
+0,0,0,1,0,7,0,"Chess Board, Board Game"
+0,0,0,1,0,8,0,"Volleyball, Waterbottle"
+0,0,0,1,0,9,0,"Boxing Gloves, Boxer Poster"
+0,0,0,1,0,10,0,"Skates, Headband"
+0,0,0,1,0,11,0,"Rugby Ball, Sports Towel"
+0,0,0,1,0,13,0,Fishing Accessories
+0,0,0,1,0,12,0,"Cycling Accessories, Waterbottle"
+0,0,0,1,0,0,1,"Football Shoes, Football"
+0,0,0,1,0,1,1,Basketball Shoes
+0,0,0,1,0,2,1,Hockey Shoes
+0,0,0,1,0,3,1,"Cricket Shoes, Cricket Bat"
+0,0,0,1,0,4,1,"Badminton Shoes, Badminton Racket"
+0,0,0,1,0,5,1,"Fitness Watch, Treadmill"
+0,0,0,1,0,6,1,"Tennis Racket, Tennis Shoes"
+0,0,0,1,0,7,1,"Carrom Board, Board Game"
+0,0,0,1,0,8,1,Volleyball Shoes
+0,0,0,1,0,9,1,Boxing Shoes
+0,0,0,1,0,10,1,"Skates, Fitness Watch"
+0,0,0,1,0,11,1,Rugby Accessories
+0,0,0,1,0,13,1,"Fishing Rod, Fishing Chair"
+0,0,0,1,0,12,1,Cycling Accessories
+0,0,0,1,0,0,2,Football Accessories
+0,0,0,1,0,1,2,Basketball Accessories
+0,0,0,1,0,2,2,Hockey Accessories
+0,0,0,1,0,3,2,Cricket Accessories
+0,0,0,1,0,4,2,Cricket Accessories
+0,0,0,1,0,5,2,"Fitness Watch, Treadmill"
+0,0,0,1,0,6,2,Tennis Accessories
+0,0,0,1,0,7,2,Cue Sports Accessories
+0,0,0,1,0,8,2,Volleyball Accessories
+0,0,0,1,0,9,2,Boxing Accessories
+0,0,0,1,0,10,2,Skating Accessories
+0,0,0,1,0,11,2,Rugby Accessories
+0,0,0,1,0,13,2,"Fishing Boat, Fishing Accessories"
+0,0,0,1,0,12,2,"Cycle, Cycling Accessories"
+0,1,0,1,0,0,0,"Football, Football Player Poster"
+0,1,0,1,0,1,0,"Basketball, BasketBall Player Poster"
+0,1,0,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+0,1,0,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+0,1,0,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+0,1,0,1,0,5,0,"Running Shoes, Headband"
+0,1,0,1,0,6,0,"Tennis Racket, Headband"
+0,1,0,1,0,7,0,"Chess Board, Board Game"
+0,1,0,1,0,8,0,"Volleyball, Waterbottle"
+0,1,0,1,0,9,0,"Boxing Gloves, Boxer Poster"
+0,1,0,1,0,10,0,"Skates, Headband"
+0,1,0,1,0,11,0,"Rugby Ball, Sports Towel"
+0,1,0,1,0,13,0,Fishing Accessories
+0,1,0,1,0,12,0,"Cycling Accessories, Waterbottle"
+0,1,0,1,0,0,1,"Football Shoes, Football"
+0,1,0,1,0,1,1,Basketball Shoes
+0,1,0,1,0,2,1,Hockey Shoes
+0,1,0,1,0,3,1,"Cricket Shoes, Cricket Bat"
+0,1,0,1,0,4,1,"Badminton Shoes, Badminton Racket"
+0,1,0,1,0,5,1,"Fitness Watch, Treadmill"
+0,1,0,1,0,6,1,"Tennis Racket, Tennis Shoes"
+0,1,0,1,0,7,1,"Carrom Board, Board Game"
+0,1,0,1,0,8,1,Volleyball Shoes
+0,1,0,1,0,9,1,Boxing Shoes
+0,1,0,1,0,10,1,"Skates, Fitness Watch"
+0,1,0,1,0,11,1,Rugby Accessories
+0,1,0,1,0,13,1,"Fishing Rod, Fishing Chair"
+0,1,0,1,0,12,1,Cycling Accessories
+0,1,0,1,0,0,2,Football Accessories
+0,1,0,1,0,1,2,Basketball Accessories
+0,1,0,1,0,2,2,Hockey Accessories
+0,1,0,1,0,3,2,Cricket Accessories
+0,1,0,1,0,4,2,Cricket Accessories
+0,1,0,1,0,5,2,"Fitness Watch, Treadmill"
+0,1,0,1,0,6,2,Tennis Accessories
+0,1,0,1,0,7,2,Cue Sports Accessories
+0,1,0,1,0,8,2,Volleyball Accessories
+0,1,0,1,0,9,2,Boxing Accessories
+0,1,0,1,0,10,2,Skating Accessories
+0,1,0,1,0,11,2,Rugby Accessories
+0,1,0,1,0,13,2,"Fishing Boat, Fishing Accessories"
+0,1,0,1,0,12,2,"Cycle, Cycling Accessories"
+0,0,1,0,1,14,0,"Oil Paint, Acrylic Paint"
+0,0,1,0,1,15,0,"Spray Paint, Respirator Mask"
+0,0,1,0,1,16,0,Doodle Accessories
+0,0,1,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+0,0,1,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+0,0,1,0,1,16,1,Doodle Accessories
+0,0,1,0,1,14,2,"Painting Chest, Easel"
+0,0,1,0,1,15,2,Spray Paint Accessories
+0,0,1,0,1,16,2,Graphic Tablet
+0,1,1,0,1,14,0,"Oil Paint, Acrylic Paint"
+0,1,1,0,1,15,0,"Spray Paint, Respirator Mask"
+0,1,1,0,1,16,0,Doodle Accessories
+0,1,1,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+0,1,1,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+0,1,1,0,1,16,1,Doodle Accessories
+0,1,1,0,1,14,2,"Painting Chest, Easel"
+0,1,1,0,1,15,2,Spray Paint Accessories
+0,1,1,0,1,16,2,Graphic Tablet
+0,0,0,0,1,14,0,"Oil Paint, Acrylic Paint"
+0,0,0,0,1,15,0,"Spray Paint, Respirator Mask"
+0,0,0,0,1,16,0,Doodle Accessories
+0,0,0,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+0,0,0,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+0,0,0,0,1,16,1,Doodle Accessories
+0,0,0,0,1,14,2,"Painting Chest, Easel"
+0,0,0,0,1,15,2,Spray Paint Accessories
+0,0,0,0,1,16,2,Graphic Tablet
+0,1,0,0,1,14,0,"Oil Paint, Acrylic Paint"
+0,1,0,0,1,15,0,"Spray Paint, Respirator Mask"
+0,1,0,0,1,16,0,Doodle Accessories
+0,1,0,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+0,1,0,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+0,1,0,0,1,16,1,Doodle Accessories
+0,1,0,0,1,14,2,"Painting Chest, Easel"
+0,1,0,0,1,15,2,Spray Paint Accessories
+0,1,0,0,1,16,2,Graphic Tablet
+0,0,1,1,1,14,0,"Oil Paint, Acrylic Paint"
+0,0,1,1,1,15,0,"Spray Paint, Respirator Mask"
+0,0,1,1,1,16,0,Doodle Accessories
+0,0,1,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+0,0,1,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+0,0,1,1,1,16,1,Doodle Accessories
+0,0,1,1,1,14,2,"Painting Chest, Easel"
+0,0,1,1,1,15,2,Spray Paint Accessories
+0,0,1,1,1,16,2,Graphic Tablet
+0,1,1,1,1,14,0,"Oil Paint, Acrylic Paint"
+0,1,1,1,1,15,0,"Spray Paint, Respirator Mask"
+0,1,1,1,1,16,0,Doodle Accessories
+0,1,1,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+0,1,1,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+0,1,1,1,1,16,1,Doodle Accessories
+0,1,1,1,1,14,2,"Painting Chest, Easel"
+0,1,1,1,1,15,2,Spray Paint Accessories
+0,1,1,1,1,16,2,Graphic Tablet
+0,0,0,1,1,14,0,"Oil Paint, Acrylic Paint"
+0,0,0,1,1,15,0,"Spray Paint, Respirator Mask"
+0,0,0,1,1,16,0,Doodle Accessories
+0,0,0,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+0,0,0,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+0,0,0,1,1,16,1,Doodle Accessories
+0,0,0,1,1,14,2,"Painting Chest, Easel"
+0,0,0,1,1,15,2,Spray Paint Accessories
+0,0,0,1,1,16,2,Graphic Tablet
+0,1,0,1,1,14,0,"Oil Paint, Acrylic Paint"
+0,1,0,1,1,15,0,"Spray Paint, Respirator Mask"
+0,1,0,1,1,16,0,Doodle Accessories
+0,1,0,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+0,1,0,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+0,1,0,1,1,16,1,Doodle Accessories
+0,1,0,1,1,14,2,"Painting Chest, Easel"
+0,1,0,1,1,15,2,Spray Paint Accessories
+0,1,0,1,1,16,2,Graphic Tablet
+0,0,1,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+0,0,1,0,2,18,0,Gaming Accessories
+0,0,1,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+0,0,1,0,2,17,1,"Portable SSD, Gaming Chair"
+0,0,1,0,2,18,1,"Gaming Chair, Wireless Controller"
+0,0,1,0,2,19,1,"Gaming Chair, Powerbank"
+0,0,1,0,2,17,2,"Gaming Laptop, Graphics Card"
+0,0,1,0,2,18,2,"Audio Sunglasses, Gaming Console"
+0,0,1,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+0,1,1,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+0,1,1,0,2,18,0,Gaming Accessories
+0,1,1,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+0,1,1,0,2,17,1,"Portable SSD, Gaming Chair"
+0,1,1,0,2,18,1,"Gaming Chair, Wireless Controller"
+0,1,1,0,2,19,1,"Gaming Chair, Powerbank"
+0,1,1,0,2,17,2,"Gaming Laptop, Graphics Card"
+0,1,1,0,2,18,2,"Audio Sunglasses, Gaming Console"
+0,1,1,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+0,0,0,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+0,0,0,0,2,18,0,Gaming Accessories
+0,0,0,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+0,0,0,0,2,17,1,"Portable SSD, Gaming Chair"
+0,0,0,0,2,18,1,"Gaming Chair, Wireless Controller"
+0,0,0,0,2,19,1,"Gaming Chair, Powerbank"
+0,0,0,0,2,17,2,"Gaming Laptop, Graphics Card"
+0,0,0,0,2,18,2,"Audio Sunglasses, Gaming Console"
+0,0,0,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+0,1,0,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+0,1,0,0,2,18,0,Gaming Accessories
+0,1,0,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+0,1,0,0,2,17,1,"Portable SSD, Gaming Chair"
+0,1,0,0,2,18,1,"Gaming Chair, Wireless Controller"
+0,1,0,0,2,19,1,"Gaming Chair, Powerbank"
+0,1,0,0,2,17,2,"Gaming Laptop, Graphics Card"
+0,1,0,0,2,18,2,"Audio Sunglasses, Gaming Console"
+0,1,0,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+0,0,1,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+0,0,1,1,2,18,0,Gaming Accessories
+0,0,1,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+0,0,1,1,2,17,1,"Portable SSD, Gaming Chair"
+0,0,1,1,2,18,1,"Gaming Chair, Wireless Controller"
+0,0,1,1,2,19,1,"Gaming Chair, Powerbank"
+0,0,1,1,2,17,2,"Gaming Laptop, Graphics Card"
+0,0,1,1,2,18,2,"Audio Sunglasses, Gaming Console"
+0,0,1,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+0,1,1,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+0,1,1,1,2,18,0,Gaming Accessories
+0,1,1,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+0,1,1,1,2,17,1,"Portable SSD, Gaming Chair"
+0,1,1,1,2,18,1,"Gaming Chair, Wireless Controller"
+0,1,1,1,2,19,1,"Gaming Chair, Powerbank"
+0,1,1,1,2,17,2,"Gaming Laptop, Graphics Card"
+0,1,1,1,2,18,2,"Audio Sunglasses, Gaming Console"
+0,1,1,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+0,0,0,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+0,0,0,1,2,18,0,Gaming Accessories
+0,0,0,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+0,0,0,1,2,17,1,"Portable SSD, Gaming Chair"
+0,0,0,1,2,18,1,"Gaming Chair, Wireless Controller"
+0,0,0,1,2,19,1,"Gaming Chair, Powerbank"
+0,0,0,1,2,17,2,"Gaming Laptop, Graphics Card"
+0,0,0,1,2,18,2,"Audio Sunglasses, Gaming Console"
+0,0,0,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+0,1,0,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+0,1,0,1,2,18,0,Gaming Accessories
+0,1,0,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+0,1,0,1,2,17,1,"Portable SSD, Gaming Chair"
+0,1,0,1,2,18,1,"Gaming Chair, Wireless Controller"
+0,1,0,1,2,19,1,"Gaming Chair, Powerbank"
+0,1,0,1,2,17,2,"Gaming Laptop, Graphics Card"
+0,1,0,1,2,18,2,"Audio Sunglasses, Gaming Console"
+0,1,0,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+0,0,1,0,3,20,0,"Classical Music Book, Tambourine"
+0,0,1,0,3,21,0,"Western Music Book, Harmonica"
+0,0,1,0,3,22,0,"Earphone, Melody Music Book"
+0,0,1,0,3,20,1,"Metronome, Sitar"
+0,0,1,0,3,21,1,"Guitar, Violin"
+0,0,1,0,3,22,1,"Portable Speaker, Wireless Earphone"
+0,0,1,0,3,20,2,"Harmonium, Veena"
+0,0,1,0,3,21,2,"Grand Piano, Drum Set"
+0,0,1,0,3,22,2,"DJ Mixer, Launchpad"
+0,0,1,0,4,23,0,"Dough Whisk, Apron"
+0,0,1,0,4,24,0,"Knife Set, Cutting Board"
+0,0,1,0,4,25,0,"Cooking Book, Apron"
+0,0,1,0,4,23,1,Baking Accessories
+0,0,1,0,4,24,1,"Meat Grinder, Fish Scaler"
+0,0,1,0,4,25,1,"Toaster, Coffee Maker"
+0,0,1,0,4,23,2,Microwave Oven
+0,0,1,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+0,0,1,0,4,25,2,"Blender, Air Fryer"
+0,0,1,0,5,26,0,Horror Story Books
+0,0,1,0,5,27,0,Science Fiction Story Books
+0,0,1,0,5,28,0,Non-Fiction Story Books
+0,0,1,0,5,29,0,Drama Story Books
+0,0,1,0,5,26,1,Horror Story Books
+0,0,1,0,5,27,1,Science Fiction Story Books
+0,0,1,0,5,28,1,Non-Fiction Story Books
+0,0,1,0,5,29,1,Drama Story Books
+0,0,1,0,5,26,2,"Horror Story Books, Kindle"
+0,0,1,0,5,27,2,"Science Fiction Story Books, Kindle"
+0,0,1,0,5,28,2,"Non-Fiction Story Books, Kindle"
+0,0,1,0,5,29,2,"Drama Story Books, Kindle"
+0,0,0,0,3,20,0,"Classical Music Book, Tambourine"
+0,0,0,0,3,21,0,"Western Music Book, Harmonica"
+0,0,0,0,3,22,0,"Earphone, Melody Music Book"
+0,0,0,0,3,20,1,"Metronome, Sitar"
+0,0,0,0,3,21,1,"Guitar, Violin"
+0,0,0,0,3,22,1,"Portable Speaker, Wireless Earphone"
+0,0,0,0,3,20,2,"Harmonium, Veena"
+0,0,0,0,3,21,2,"Grand Piano, Drum Set"
+0,0,0,0,3,22,2,"DJ Mixer, Launchpad"
+0,0,0,0,4,23,0,"Dough Whisk, Apron"
+0,0,0,0,4,24,0,"Knife Set, Cutting Board"
+0,0,0,0,4,25,0,"Cooking Book, Apron"
+0,0,0,0,4,23,1,Baking Accessories
+0,0,0,0,4,24,1,"Meat Grinder, Fish Scaler"
+0,0,0,0,4,25,1,"Toaster, Coffee Maker"
+0,0,0,0,4,23,2,Microwave Oven
+0,0,0,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+0,0,0,0,4,25,2,"Blender, Air Fryer"
+0,0,0,0,5,26,0,Horror Story Books
+0,0,0,0,5,27,0,Science Fiction Story Books
+0,0,0,0,5,28,0,Non-Fiction Story Books
+0,0,0,0,5,29,0,Drama Story Books
+0,0,0,0,5,26,1,Horror Story Books
+0,0,0,0,5,27,1,Science Fiction Story Books
+0,0,0,0,5,28,1,Non-Fiction Story Books
+0,0,0,0,5,29,1,Drama Story Books
+0,0,0,0,5,26,2,"Horror Story Books, Kindle"
+0,0,0,0,5,27,2,"Science Fiction Story Books, Kindle"
+0,0,0,0,5,28,2,"Non-Fiction Story Books, Kindle"
+0,0,0,0,5,29,2,"Drama Story Books, Kindle"
+0,0,1,1,3,20,0,"Classical Music Book, Tambourine"
+0,0,1,1,3,21,0,"Western Music Book, Harmonica"
+0,0,1,1,3,22,0,"Earphone, Melody Music Book"
+0,0,1,1,3,20,1,"Metronome, Sitar"
+0,0,1,1,3,21,1,"Guitar, Violin"
+0,0,1,1,3,22,1,"Portable Speaker, Wireless Earphone"
+0,0,1,1,3,20,2,"Harmonium, Veena"
+0,0,1,1,3,21,2,"Grand Piano, Drum Set"
+0,0,1,1,3,22,2,"DJ Mixer, Launchpad"
+0,0,1,1,4,23,0,"Dough Whisk, Apron"
+0,0,1,1,4,24,0,"Knife Set, Cutting Board"
+0,0,1,1,4,25,0,"Cooking Book, Apron"
+0,0,1,1,4,23,1,Baking Accessories
+0,0,1,1,4,24,1,"Meat Grinder, Fish Scaler"
+0,0,1,1,4,25,1,"Toaster, Coffee Maker"
+0,0,1,1,4,23,2,Microwave Oven
+0,0,1,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+0,0,1,1,4,25,2,"Blender, Air Fryer"
+0,0,1,1,5,26,0,Horror Story Books
+0,0,1,1,5,27,0,Science Fiction Story Books
+0,0,1,1,5,28,0,Non-Fiction Story Books
+0,0,1,1,5,29,0,Drama Story Books
+0,0,1,1,5,26,1,Horror Story Books
+0,0,1,1,5,27,1,Science Fiction Story Books
+0,0,1,1,5,28,1,Non-Fiction Story Books
+0,0,1,1,5,29,1,Drama Story Books
+0,0,1,1,5,26,2,"Horror Story Books, Kindle"
+0,0,1,1,5,27,2,"Science Fiction Story Books, Kindle"
+0,0,1,1,5,28,2,"Non-Fiction Story Books, Kindle"
+0,0,1,1,5,29,2,"Drama Story Books, Kindle"
+0,0,0,1,3,20,0,"Classical Music Book, Tambourine"
+0,0,0,1,3,21,0,"Western Music Book, Harmonica"
+0,0,0,1,3,22,0,"Earphone, Melody Music Book"
+0,0,0,1,3,20,1,"Metronome, Sitar"
+0,0,0,1,3,21,1,"Guitar, Violin"
+0,0,0,1,3,22,1,"Portable Speaker, Wireless Earphone"
+0,0,0,1,3,20,2,"Harmonium, Veena"
+0,0,0,1,3,21,2,"Grand Piano, Drum Set"
+0,0,0,1,3,22,2,"DJ Mixer, Launchpad"
+0,0,0,1,4,23,0,"Dough Whisk, Apron"
+0,0,0,1,4,24,0,"Knife Set, Cutting Board"
+0,0,0,1,4,25,0,"Cooking Book, Apron"
+0,0,0,1,4,23,1,Baking Accessories
+0,0,0,1,4,24,1,"Meat Grinder, Fish Scaler"
+0,0,0,1,4,25,1,"Toaster, Coffee Maker"
+0,0,0,1,4,23,2,Microwave Oven
+0,0,0,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+0,0,0,1,4,25,2,"Blender, Air Fryer"
+0,0,0,1,5,26,0,Horror Story Books
+0,0,0,1,5,27,0,Science Fiction Story Books
+0,0,0,1,5,28,0,Non-Fiction Story Books
+0,0,0,1,5,29,0,Drama Story Books
+0,0,0,1,5,26,1,Horror Story Books
+0,0,0,1,5,27,1,Science Fiction Story Books
+0,0,0,1,5,28,1,Non-Fiction Story Books
+0,0,0,1,5,29,1,Drama Story Books
+0,0,0,1,5,26,2,"Horror Story Books, Kindle"
+0,0,0,1,5,27,2,"Science Fiction Story Books, Kindle"
+0,0,0,1,5,28,2,"Non-Fiction Story Books, Kindle"
+0,0,0,1,5,29,2,"Drama Story Books, Kindle"
+0,1,1,0,3,20,0,"Classical Music Book, Tambourine"
+0,1,1,0,3,21,0,"Western Music Book, Harmonica"
+0,1,1,0,3,22,0,"Earphone, Melody Music Book"
+0,1,1,0,3,20,1,"Metronome, Sitar"
+0,1,1,0,3,21,1,"Guitar, Violin"
+0,1,1,0,3,22,1,"Portable Speaker, Wireless Earphone"
+0,1,1,0,3,20,2,"Harmonium, Veena"
+0,1,1,0,3,21,2,"Grand Piano, Drum Set"
+0,1,1,0,3,22,2,"DJ Mixer, Launchpad"
+0,1,1,0,4,23,0,"Dough Whisk, Apron"
+0,1,1,0,4,24,0,"Knife Set, Cutting Board"
+0,1,1,0,4,25,0,"Cooking Book, Apron"
+0,1,1,0,4,23,1,Baking Accessories
+0,1,1,0,4,24,1,"Meat Grinder, Fish Scaler"
+0,1,1,0,4,25,1,"Toaster, Coffee Maker"
+0,1,1,0,4,23,2,Microwave Oven
+0,1,1,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+0,1,1,0,4,25,2,"Blender, Air Fryer"
+0,1,1,0,5,26,0,Horror Story Books
+0,1,1,0,5,27,0,Science Fiction Story Books
+0,1,1,0,5,28,0,Non-Fiction Story Books
+0,1,1,0,5,29,0,Drama Story Books
+0,1,1,0,5,26,1,Horror Story Books
+0,1,1,0,5,27,1,Science Fiction Story Books
+0,1,1,0,5,28,1,Non-Fiction Story Books
+0,1,1,0,5,29,1,Drama Story Books
+0,1,1,0,5,26,2,"Horror Story Books, Kindle"
+0,1,1,0,5,27,2,"Science Fiction Story Books, Kindle"
+0,1,1,0,5,28,2,"Non-Fiction Story Books, Kindle"
+0,1,1,0,5,29,2,"Drama Story Books, Kindle"
+0,1,0,0,3,20,0,"Classical Music Book, Tambourine"
+0,1,0,0,3,21,0,"Western Music Book, Harmonica"
+0,1,0,0,3,22,0,"Earphone, Melody Music Book"
+0,1,0,0,3,20,1,"Metronome, Sitar"
+0,1,0,0,3,21,1,"Guitar, Violin"
+0,1,0,0,3,22,1,"Portable Speaker, Wireless Earphone"
+0,1,0,0,3,20,2,"Harmonium, Veena"
+0,1,0,0,3,21,2,"Grand Piano, Drum Set"
+0,1,0,0,3,22,2,"DJ Mixer, Launchpad"
+0,1,0,0,4,23,0,"Dough Whisk, Apron"
+0,1,0,0,4,24,0,"Knife Set, Cutting Board"
+0,1,0,0,4,25,0,"Cooking Book, Apron"
+0,1,0,0,4,23,1,Baking Accessories
+0,1,0,0,4,24,1,"Meat Grinder, Fish Scaler"
+0,1,0,0,4,25,1,"Toaster, Coffee Maker"
+0,1,0,0,4,23,2,Microwave Oven
+0,1,0,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+0,1,0,0,4,25,2,"Blender, Air Fryer"
+0,1,0,0,5,26,0,Horror Story Books
+0,1,0,0,5,27,0,Science Fiction Story Books
+0,1,0,0,5,28,0,Non-Fiction Story Books
+0,1,0,0,5,29,0,Drama Story Books
+0,1,0,0,5,26,1,Horror Story Books
+0,1,0,0,5,27,1,Science Fiction Story Books
+0,1,0,0,5,28,1,Non-Fiction Story Books
+0,1,0,0,5,29,1,Drama Story Books
+0,1,0,0,5,26,2,"Horror Story Books, Kindle"
+0,1,0,0,5,27,2,"Science Fiction Story Books, Kindle"
+0,1,0,0,5,28,2,"Non-Fiction Story Books, Kindle"
+0,1,0,0,5,29,2,"Drama Story Books, Kindle"
+0,1,1,1,3,20,0,"Classical Music Book, Tambourine"
+0,1,1,1,3,21,0,"Western Music Book, Harmonica"
+0,1,1,1,3,22,0,"Earphone, Melody Music Book"
+0,1,1,1,3,20,1,"Metronome, Sitar"
+0,1,1,1,3,21,1,"Guitar, Violin"
+0,1,1,1,3,22,1,"Portable Speaker, Wireless Earphone"
+0,1,1,1,3,20,2,"Harmonium, Veena"
+0,1,1,1,3,21,2,"Grand Piano, Drum Set"
+0,1,1,1,3,22,2,"DJ Mixer, Launchpad"
+0,1,1,1,4,23,0,"Dough Whisk, Apron"
+0,1,1,1,4,24,0,"Knife Set, Cutting Board"
+0,1,1,1,4,25,0,"Cooking Book, Apron"
+0,1,1,1,4,23,1,Baking Accessories
+0,1,1,1,4,24,1,"Meat Grinder, Fish Scaler"
+0,1,1,1,4,25,1,"Toaster, Coffee Maker"
+0,1,1,1,4,23,2,Microwave Oven
+0,1,1,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+0,1,1,1,4,25,2,"Blender, Air Fryer"
+0,1,1,1,5,26,0,Horror Story Books
+0,1,1,1,5,27,0,Science Fiction Story Books
+0,1,1,1,5,28,0,Non-Fiction Story Books
+0,1,1,1,5,29,0,Drama Story Books
+0,1,1,1,5,26,1,Horror Story Books
+0,1,1,1,5,27,1,Science Fiction Story Books
+0,1,1,1,5,28,1,Non-Fiction Story Books
+0,1,1,1,5,29,1,Drama Story Books
+0,1,1,1,5,26,2,"Horror Story Books, Kindle"
+0,1,1,1,5,27,2,"Science Fiction Story Books, Kindle"
+0,1,1,1,5,28,2,"Non-Fiction Story Books, Kindle"
+0,1,1,1,5,29,2,"Drama Story Books, Kindle"
+0,1,0,1,3,20,0,"Classical Music Book, Tambourine"
+0,1,0,1,3,21,0,"Western Music Book, Harmonica"
+0,1,0,1,3,22,0,"Earphone, Melody Music Book"
+0,1,0,1,3,20,1,"Metronome, Sitar"
+0,1,0,1,3,21,1,"Guitar, Violin"
+0,1,0,1,3,22,1,"Portable Speaker, Wireless Earphone"
+0,1,0,1,3,20,2,"Harmonium, Veena"
+0,1,0,1,3,21,2,"Grand Piano, Drum Set"
+0,1,0,1,3,22,2,"DJ Mixer, Launchpad"
+0,1,0,1,4,23,0,"Dough Whisk, Apron"
+0,1,0,1,4,24,0,"Knife Set, Cutting Board"
+0,1,0,1,4,25,0,"Cooking Book, Apron"
+0,1,0,1,4,23,1,Baking Accessories
+0,1,0,1,4,24,1,"Meat Grinder, Fish Scaler"
+0,1,0,1,4,25,1,"Toaster, Coffee Maker"
+0,1,0,1,4,23,2,Microwave Oven
+0,1,0,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+0,1,0,1,4,25,2,"Blender, Air Fryer"
+0,1,0,1,5,26,0,Horror Story Books
+0,1,0,1,5,27,0,Science Fiction Story Books
+0,1,0,1,5,28,0,Non-Fiction Story Books
+0,1,0,1,5,29,0,Drama Story Books
+0,1,0,1,5,26,1,Horror Story Books
+0,1,0,1,5,27,1,Science Fiction Story Books
+0,1,0,1,5,28,1,Non-Fiction Story Books
+0,1,0,1,5,29,1,Drama Story Books
+0,1,0,1,5,26,2,"Horror Story Books, Kindle"
+0,1,0,1,5,27,2,"Science Fiction Story Books, Kindle"
+0,1,0,1,5,28,2,"Non-Fiction Story Books, Kindle"
+0,1,0,1,5,29,2,"Drama Story Books, Kindle"
+1,0,1,0,0,0,0,"Football, Football Player Poster"
+1,0,1,0,0,1,0,"Basketball, BasketBall Player Poster"
+1,0,1,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+1,0,1,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+1,0,1,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+1,0,1,0,0,5,0,"Running Shoes, Headband"
+1,0,1,0,0,6,0,"Tennis Racket, Headband"
+1,0,1,0,0,7,0,"Chess Board, Board Game"
+1,0,1,0,0,8,0,"Volleyball, Waterbottle"
+1,0,1,0,0,9,0,"Boxing Gloves, Boxer Poster"
+1,0,1,0,0,10,0,"Skates, Headband"
+1,0,1,0,0,11,0,"Rugby Ball, Sports Towel"
+1,0,1,0,0,13,0,Fishing Accessories
+1,0,1,0,0,12,0,"Cycling Accessories, Waterbottle"
+1,0,1,0,0,0,1,"Football Shoes, Football"
+1,0,1,0,0,1,1,Basketball Shoes
+1,0,1,0,0,2,1,Hockey Shoes
+1,0,1,0,0,3,1,"Cricket Shoes, Cricket Bat"
+1,0,1,0,0,4,1,"Badminton Shoes, Badminton Racket"
+1,0,1,0,0,5,1,"Fitness Watch, Treadmill"
+1,0,1,0,0,6,1,"Tennis Racket, Tennis Shoes"
+1,0,1,0,0,7,1,"Carrom Board, Board Game"
+1,0,1,0,0,8,1,Volleyball Shoes
+1,0,1,0,0,9,1,Boxing Shoes
+1,0,1,0,0,10,1,"Skates, Fitness Watch"
+1,0,1,0,0,11,1,Rugby Accessories
+1,0,1,0,0,13,1,"Fishing Rod, Fishing Chair"
+1,0,1,0,0,12,1,Cycling Accessories
+1,0,1,0,0,0,2,Football Accessories
+1,0,1,0,0,1,2,Basketball Accessories
+1,0,1,0,0,2,2,Hockey Accessories
+1,0,1,0,0,3,2,Cricket Accessories
+1,0,1,0,0,4,2,Cricket Accessories
+1,0,1,0,0,5,2,"Fitness Watch, Treadmill"
+1,0,1,0,0,6,2,Tennis Accessories
+1,0,1,0,0,7,2,Cue Sports Accessories
+1,0,1,0,0,8,2,Volleyball Accessories
+1,0,1,0,0,9,2,Boxing Accessories
+1,0,1,0,0,10,2,Skating Accessories
+1,0,1,0,0,11,2,Rugby Accessories
+1,0,1,0,0,13,2,"Fishing Boat, Fishing Accessories"
+1,0,1,0,0,12,2,"Cycle, Cycling Accessories"
+1,1,1,0,0,0,0,"Football, Football Player Poster"
+1,1,1,0,0,1,0,"Basketball, BasketBall Player Poster"
+1,1,1,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+1,1,1,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+1,1,1,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+1,1,1,0,0,5,0,"Running Shoes, Headband"
+1,1,1,0,0,6,0,"Tennis Racket, Headband"
+1,1,1,0,0,7,0,"Chess Board, Board Game"
+1,1,1,0,0,8,0,"Volleyball, Waterbottle"
+1,1,1,0,0,9,0,"Boxing Gloves, Boxer Poster"
+1,1,1,0,0,10,0,"Skates, Headband"
+1,1,1,0,0,11,0,"Rugby Ball, Sports Towel"
+1,1,1,0,0,13,0,Fishing Accessories
+1,1,1,0,0,12,0,"Cycling Accessories, Waterbottle"
+1,1,1,0,0,0,1,"Football Shoes, Football"
+1,1,1,0,0,1,1,Basketball Shoes
+1,1,1,0,0,2,1,Hockey Shoes
+1,1,1,0,0,3,1,"Cricket Shoes, Cricket Bat"
+1,1,1,0,0,4,1,"Badminton Shoes, Badminton Racket"
+1,1,1,0,0,5,1,"Fitness Watch, Treadmill"
+1,1,1,0,0,6,1,"Tennis Racket, Tennis Shoes"
+1,1,1,0,0,7,1,"Carrom Board, Board Game"
+1,1,1,0,0,8,1,Volleyball Shoes
+1,1,1,0,0,9,1,Boxing Shoes
+1,1,1,0,0,10,1,"Skates, Fitness Watch"
+1,1,1,0,0,11,1,Rugby Accessories
+1,1,1,0,0,13,1,"Fishing Rod, Fishing Chair"
+1,1,1,0,0,12,1,Cycling Accessories
+1,1,1,0,0,0,2,Football Accessories
+1,1,1,0,0,1,2,Basketball Accessories
+1,1,1,0,0,2,2,Hockey Accessories
+1,1,1,0,0,3,2,Cricket Accessories
+1,1,1,0,0,4,2,Cricket Accessories
+1,1,1,0,0,5,2,"Fitness Watch, Treadmill"
+1,1,1,0,0,6,2,Tennis Accessories
+1,1,1,0,0,7,2,Cue Sports Accessories
+1,1,1,0,0,8,2,Volleyball Accessories
+1,1,1,0,0,9,2,Boxing Accessories
+1,1,1,0,0,10,2,Skating Accessories
+1,1,1,0,0,11,2,Rugby Accessories
+1,1,1,0,0,13,2,"Fishing Boat, Fishing Accessories"
+1,1,1,0,0,12,2,"Cycle, Cycling Accessories"
+1,0,0,0,0,0,0,"Football, Football Player Poster"
+1,0,0,0,0,1,0,"Basketball, BasketBall Player Poster"
+1,0,0,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+1,0,0,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+1,0,0,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+1,0,0,0,0,5,0,"Running Shoes, Headband"
+1,0,0,0,0,6,0,"Tennis Racket, Headband"
+1,0,0,0,0,7,0,"Chess Board, Board Game"
+1,0,0,0,0,8,0,"Volleyball, Waterbottle"
+1,0,0,0,0,9,0,"Boxing Gloves, Boxer Poster"
+1,0,0,0,0,10,0,"Skates, Headband"
+1,0,0,0,0,11,0,"Rugby Ball, Sports Towel"
+1,0,0,0,0,13,0,Fishing Accessories
+1,0,0,0,0,12,0,"Cycling Accessories, Waterbottle"
+1,0,0,0,0,0,1,"Football Shoes, Football"
+1,0,0,0,0,1,1,Basketball Shoes
+1,0,0,0,0,2,1,Hockey Shoes
+1,0,0,0,0,3,1,"Cricket Shoes, Cricket Bat"
+1,0,0,0,0,4,1,"Badminton Shoes, Badminton Racket"
+1,0,0,0,0,5,1,"Fitness Watch, Treadmill"
+1,0,0,0,0,6,1,"Tennis Racket, Tennis Shoes"
+1,0,0,0,0,7,1,"Carrom Board, Board Game"
+1,0,0,0,0,8,1,Volleyball Shoes
+1,0,0,0,0,9,1,Boxing Shoes
+1,0,0,0,0,10,1,"Skates, Fitness Watch"
+1,0,0,0,0,11,1,Rugby Accessories
+1,0,0,0,0,13,1,"Fishing Rod, Fishing Chair"
+1,0,0,0,0,12,1,Cycling Accessories
+1,0,0,0,0,0,2,Football Accessories
+1,0,0,0,0,1,2,Basketball Accessories
+1,0,0,0,0,2,2,Hockey Accessories
+1,0,0,0,0,3,2,Cricket Accessories
+1,0,0,0,0,4,2,Cricket Accessories
+1,0,0,0,0,5,2,"Fitness Watch, Treadmill"
+1,0,0,0,0,6,2,Tennis Accessories
+1,0,0,0,0,7,2,Cue Sports Accessories
+1,0,0,0,0,8,2,Volleyball Accessories
+1,0,0,0,0,9,2,Boxing Accessories
+1,0,0,0,0,10,2,Skating Accessories
+1,0,0,0,0,11,2,Rugby Accessories
+1,0,0,0,0,13,2,"Fishing Boat, Fishing Accessories"
+1,0,0,0,0,12,2,"Cycle, Cycling Accessories"
+1,1,0,0,0,0,0,"Football, Football Player Poster"
+1,1,0,0,0,1,0,"Basketball, BasketBall Player Poster"
+1,1,0,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+1,1,0,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+1,1,0,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+1,1,0,0,0,5,0,"Running Shoes, Headband"
+1,1,0,0,0,6,0,"Tennis Racket, Headband"
+1,1,0,0,0,7,0,"Chess Board, Board Game"
+1,1,0,0,0,8,0,"Volleyball, Waterbottle"
+1,1,0,0,0,9,0,"Boxing Gloves, Boxer Poster"
+1,1,0,0,0,10,0,"Skates, Headband"
+1,1,0,0,0,11,0,"Rugby Ball, Sports Towel"
+1,1,0,0,0,13,0,Fishing Accessories
+1,1,0,0,0,12,0,"Cycling Accessories, Waterbottle"
+1,1,0,0,0,0,1,"Football Shoes, Football"
+1,1,0,0,0,1,1,Basketball Shoes
+1,1,0,0,0,2,1,Hockey Shoes
+1,1,0,0,0,3,1,"Cricket Shoes, Cricket Bat"
+1,1,0,0,0,4,1,"Badminton Shoes, Badminton Racket"
+1,1,0,0,0,5,1,"Fitness Watch, Treadmill"
+1,1,0,0,0,6,1,"Tennis Racket, Tennis Shoes"
+1,1,0,0,0,7,1,"Carrom Board, Board Game"
+1,1,0,0,0,8,1,Volleyball Shoes
+1,1,0,0,0,9,1,Boxing Shoes
+1,1,0,0,0,10,1,"Skates, Fitness Watch"
+1,1,0,0,0,11,1,Rugby Accessories
+1,1,0,0,0,13,1,"Fishing Rod, Fishing Chair"
+1,1,0,0,0,12,1,Cycling Accessories
+1,1,0,0,0,0,2,Football Accessories
+1,1,0,0,0,1,2,Basketball Accessories
+1,1,0,0,0,2,2,Hockey Accessories
+1,1,0,0,0,3,2,Cricket Accessories
+1,1,0,0,0,4,2,Cricket Accessories
+1,1,0,0,0,5,2,"Fitness Watch, Treadmill"
+1,1,0,0,0,6,2,Tennis Accessories
+1,1,0,0,0,7,2,Cue Sports Accessories
+1,1,0,0,0,8,2,Volleyball Accessories
+1,1,0,0,0,9,2,Boxing Accessories
+1,1,0,0,0,10,2,Skating Accessories
+1,1,0,0,0,11,2,Rugby Accessories
+1,1,0,0,0,13,2,"Fishing Boat, Fishing Accessories"
+1,1,0,0,0,12,2,"Cycle, Cycling Accessories"
+1,0,1,1,0,0,0,"Football, Football Player Poster"
+1,0,1,1,0,1,0,"Basketball, BasketBall Player Poster"
+1,0,1,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+1,0,1,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+1,0,1,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+1,0,1,1,0,5,0,"Running Shoes, Headband"
+1,0,1,1,0,6,0,"Tennis Racket, Headband"
+1,0,1,1,0,7,0,"Chess Board, Board Game"
+1,0,1,1,0,8,0,"Volleyball, Waterbottle"
+1,0,1,1,0,9,0,"Boxing Gloves, Boxer Poster"
+1,0,1,1,0,10,0,"Skates, Headband"
+1,0,1,1,0,11,0,"Rugby Ball, Sports Towel"
+1,0,1,1,0,13,0,Fishing Accessories
+1,0,1,1,0,12,0,"Cycling Accessories, Waterbottle"
+1,0,1,1,0,0,1,"Football Shoes, Football"
+1,0,1,1,0,1,1,Basketball Shoes
+1,0,1,1,0,2,1,Hockey Shoes
+1,0,1,1,0,3,1,"Cricket Shoes, Cricket Bat"
+1,0,1,1,0,4,1,"Badminton Shoes, Badminton Racket"
+1,0,1,1,0,5,1,"Fitness Watch, Treadmill"
+1,0,1,1,0,6,1,"Tennis Racket, Tennis Shoes"
+1,0,1,1,0,7,1,"Carrom Board, Board Game"
+1,0,1,1,0,8,1,Volleyball Shoes
+1,0,1,1,0,9,1,Boxing Shoes
+1,0,1,1,0,10,1,"Skates, Fitness Watch"
+1,0,1,1,0,11,1,Rugby Accessories
+1,0,1,1,0,13,1,"Fishing Rod, Fishing Chair"
+1,0,1,1,0,12,1,Cycling Accessories
+1,0,1,1,0,0,2,Football Accessories
+1,0,1,1,0,1,2,Basketball Accessories
+1,0,1,1,0,2,2,Hockey Accessories
+1,0,1,1,0,3,2,Cricket Accessories
+1,0,1,1,0,4,2,Cricket Accessories
+1,0,1,1,0,5,2,"Fitness Watch, Treadmill"
+1,0,1,1,0,6,2,Tennis Accessories
+1,0,1,1,0,7,2,Cue Sports Accessories
+1,0,1,1,0,8,2,Volleyball Accessories
+1,0,1,1,0,9,2,Boxing Accessories
+1,0,1,1,0,10,2,Skating Accessories
+1,0,1,1,0,11,2,Rugby Accessories
+1,0,1,1,0,13,2,"Fishing Boat, Fishing Accessories"
+1,0,1,1,0,12,2,"Cycle, Cycling Accessories"
+1,1,1,1,0,0,0,"Football, Football Player Poster"
+1,1,1,1,0,1,0,"Basketball, BasketBall Player Poster"
+1,1,1,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+1,1,1,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+1,1,1,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+1,1,1,1,0,5,0,"Running Shoes, Headband"
+1,1,1,1,0,6,0,"Tennis Racket, Headband"
+1,1,1,1,0,7,0,"Chess Board, Board Game"
+1,1,1,1,0,8,0,"Volleyball, Waterbottle"
+1,1,1,1,0,9,0,"Boxing Gloves, Boxer Poster"
+1,1,1,1,0,10,0,"Skates, Headband"
+1,1,1,1,0,11,0,"Rugby Ball, Sports Towel"
+1,1,1,1,0,13,0,Fishing Accessories
+1,1,1,1,0,12,0,"Cycling Accessories, Waterbottle"
+1,1,1,1,0,0,1,"Football Shoes, Football"
+1,1,1,1,0,1,1,Basketball Shoes
+1,1,1,1,0,2,1,Hockey Shoes
+1,1,1,1,0,3,1,"Cricket Shoes, Cricket Bat"
+1,1,1,1,0,4,1,"Badminton Shoes, Badminton Racket"
+1,1,1,1,0,5,1,"Fitness Watch, Treadmill"
+1,1,1,1,0,6,1,"Tennis Racket, Tennis Shoes"
+1,1,1,1,0,7,1,"Carrom Board, Board Game"
+1,1,1,1,0,8,1,Volleyball Shoes
+1,1,1,1,0,9,1,Boxing Shoes
+1,1,1,1,0,10,1,"Skates, Fitness Watch"
+1,1,1,1,0,11,1,Rugby Accessories
+1,1,1,1,0,13,1,"Fishing Rod, Fishing Chair"
+1,1,1,1,0,12,1,Cycling Accessories
+1,1,1,1,0,0,2,Football Accessories
+1,1,1,1,0,1,2,Basketball Accessories
+1,1,1,1,0,2,2,Hockey Accessories
+1,1,1,1,0,3,2,Cricket Accessories
+1,1,1,1,0,4,2,Cricket Accessories
+1,1,1,1,0,5,2,"Fitness Watch, Treadmill"
+1,1,1,1,0,6,2,Tennis Accessories
+1,1,1,1,0,7,2,Cue Sports Accessories
+1,1,1,1,0,8,2,Volleyball Accessories
+1,1,1,1,0,9,2,Boxing Accessories
+1,1,1,1,0,10,2,Skating Accessories
+1,1,1,1,0,11,2,Rugby Accessories
+1,1,1,1,0,13,2,"Fishing Boat, Fishing Accessories"
+1,1,1,1,0,12,2,"Cycle, Cycling Accessories"
+1,0,0,1,0,0,0,"Football, Football Player Poster"
+1,0,0,1,0,1,0,"Basketball, BasketBall Player Poster"
+1,0,0,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+1,0,0,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+1,0,0,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+1,0,0,1,0,5,0,"Running Shoes, Headband"
+1,0,0,1,0,6,0,"Tennis Racket, Headband"
+1,0,0,1,0,7,0,"Chess Board, Board Game"
+1,0,0,1,0,8,0,"Volleyball, Waterbottle"
+1,0,0,1,0,9,0,"Boxing Gloves, Boxer Poster"
+1,0,0,1,0,10,0,"Skates, Headband"
+1,0,0,1,0,11,0,"Rugby Ball, Sports Towel"
+1,0,0,1,0,13,0,Fishing Accessories
+1,0,0,1,0,12,0,"Cycling Accessories, Waterbottle"
+1,0,0,1,0,0,1,"Football Shoes, Football"
+1,0,0,1,0,1,1,Basketball Shoes
+1,0,0,1,0,2,1,Hockey Shoes
+1,0,0,1,0,3,1,"Cricket Shoes, Cricket Bat"
+1,0,0,1,0,4,1,"Badminton Shoes, Badminton Racket"
+1,0,0,1,0,5,1,"Fitness Watch, Treadmill"
+1,0,0,1,0,6,1,"Tennis Racket, Tennis Shoes"
+1,0,0,1,0,7,1,"Carrom Board, Board Game"
+1,0,0,1,0,8,1,Volleyball Shoes
+1,0,0,1,0,9,1,Boxing Shoes
+1,0,0,1,0,10,1,"Skates, Fitness Watch"
+1,0,0,1,0,11,1,Rugby Accessories
+1,0,0,1,0,13,1,"Fishing Rod, Fishing Chair"
+1,0,0,1,0,12,1,Cycling Accessories
+1,0,0,1,0,0,2,Football Accessories
+1,0,0,1,0,1,2,Basketball Accessories
+1,0,0,1,0,2,2,Hockey Accessories
+1,0,0,1,0,3,2,Cricket Accessories
+1,0,0,1,0,4,2,Cricket Accessories
+1,0,0,1,0,5,2,"Fitness Watch, Treadmill"
+1,0,0,1,0,6,2,Tennis Accessories
+1,0,0,1,0,7,2,Cue Sports Accessories
+1,0,0,1,0,8,2,Volleyball Accessories
+1,0,0,1,0,9,2,Boxing Accessories
+1,0,0,1,0,10,2,Skating Accessories
+1,0,0,1,0,11,2,Rugby Accessories
+1,0,0,1,0,13,2,"Fishing Boat, Fishing Accessories"
+1,0,0,1,0,12,2,"Cycle, Cycling Accessories"
+1,1,0,1,0,0,0,"Football, Football Player Poster"
+1,1,0,1,0,1,0,"Basketball, BasketBall Player Poster"
+1,1,0,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+1,1,0,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+1,1,0,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+1,1,0,1,0,5,0,"Running Shoes, Headband"
+1,1,0,1,0,6,0,"Tennis Racket, Headband"
+1,1,0,1,0,7,0,"Chess Board, Board Game"
+1,1,0,1,0,8,0,"Volleyball, Waterbottle"
+1,1,0,1,0,9,0,"Boxing Gloves, Boxer Poster"
+1,1,0,1,0,10,0,"Skates, Headband"
+1,1,0,1,0,11,0,"Rugby Ball, Sports Towel"
+1,1,0,1,0,13,0,Fishing Accessories
+1,1,0,1,0,12,0,"Cycling Accessories, Waterbottle"
+1,1,0,1,0,0,1,"Football Shoes, Football"
+1,1,0,1,0,1,1,Basketball Shoes
+1,1,0,1,0,2,1,Hockey Shoes
+1,1,0,1,0,3,1,"Cricket Shoes, Cricket Bat"
+1,1,0,1,0,4,1,"Badminton Shoes, Badminton Racket"
+1,1,0,1,0,5,1,"Fitness Watch, Treadmill"
+1,1,0,1,0,6,1,"Tennis Racket, Tennis Shoes"
+1,1,0,1,0,7,1,"Carrom Board, Board Game"
+1,1,0,1,0,8,1,Volleyball Shoes
+1,1,0,1,0,9,1,Boxing Shoes
+1,1,0,1,0,10,1,"Skates, Fitness Watch"
+1,1,0,1,0,11,1,Rugby Accessories
+1,1,0,1,0,13,1,"Fishing Rod, Fishing Chair"
+1,1,0,1,0,12,1,Cycling Accessories
+1,1,0,1,0,0,2,Football Accessories
+1,1,0,1,0,1,2,Basketball Accessories
+1,1,0,1,0,2,2,Hockey Accessories
+1,1,0,1,0,3,2,Cricket Accessories
+1,1,0,1,0,4,2,Cricket Accessories
+1,1,0,1,0,5,2,"Fitness Watch, Treadmill"
+1,1,0,1,0,6,2,Tennis Accessories
+1,1,0,1,0,7,2,Cue Sports Accessories
+1,1,0,1,0,8,2,Volleyball Accessories
+1,1,0,1,0,9,2,Boxing Accessories
+1,1,0,1,0,10,2,Skating Accessories
+1,1,0,1,0,11,2,Rugby Accessories
+1,1,0,1,0,13,2,"Fishing Boat, Fishing Accessories"
+1,1,0,1,0,12,2,"Cycle, Cycling Accessories"
+1,0,1,0,1,14,0,"Oil Paint, Acrylic Paint"
+1,0,1,0,1,15,0,"Spray Paint, Respirator Mask"
+1,0,1,0,1,16,0,Doodle Accessories
+1,0,1,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+1,0,1,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+1,0,1,0,1,16,1,Doodle Accessories
+1,0,1,0,1,14,2,"Painting Chest, Easel"
+1,0,1,0,1,15,2,Spray Paint Accessories
+1,0,1,0,1,16,2,Graphic Tablet
+1,1,1,0,1,14,0,"Oil Paint, Acrylic Paint"
+1,1,1,0,1,15,0,"Spray Paint, Respirator Mask"
+1,1,1,0,1,16,0,Doodle Accessories
+1,1,1,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+1,1,1,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+1,1,1,0,1,16,1,Doodle Accessories
+1,1,1,0,1,14,2,"Painting Chest, Easel"
+1,1,1,0,1,15,2,Spray Paint Accessories
+1,1,1,0,1,16,2,Graphic Tablet
+1,0,0,0,1,14,0,"Oil Paint, Acrylic Paint"
+1,0,0,0,1,15,0,"Spray Paint, Respirator Mask"
+1,0,0,0,1,16,0,Doodle Accessories
+1,0,0,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+1,0,0,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+1,0,0,0,1,16,1,Doodle Accessories
+1,0,0,0,1,14,2,"Painting Chest, Easel"
+1,0,0,0,1,15,2,Spray Paint Accessories
+1,0,0,0,1,16,2,Graphic Tablet
+1,1,0,0,1,14,0,"Oil Paint, Acrylic Paint"
+1,1,0,0,1,15,0,"Spray Paint, Respirator Mask"
+1,1,0,0,1,16,0,Doodle Accessories
+1,1,0,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+1,1,0,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+1,1,0,0,1,16,1,Doodle Accessories
+1,1,0,0,1,14,2,"Painting Chest, Easel"
+1,1,0,0,1,15,2,Spray Paint Accessories
+1,1,0,0,1,16,2,Graphic Tablet
+1,0,1,1,1,14,0,"Oil Paint, Acrylic Paint"
+1,0,1,1,1,15,0,"Spray Paint, Respirator Mask"
+1,0,1,1,1,16,0,Doodle Accessories
+1,0,1,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+1,0,1,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+1,0,1,1,1,16,1,Doodle Accessories
+1,0,1,1,1,14,2,"Painting Chest, Easel"
+1,0,1,1,1,15,2,Spray Paint Accessories
+1,0,1,1,1,16,2,Graphic Tablet
+1,1,1,1,1,14,0,"Oil Paint, Acrylic Paint"
+1,1,1,1,1,15,0,"Spray Paint, Respirator Mask"
+1,1,1,1,1,16,0,Doodle Accessories
+1,1,1,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+1,1,1,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+1,1,1,1,1,16,1,Doodle Accessories
+1,1,1,1,1,14,2,"Painting Chest, Easel"
+1,1,1,1,1,15,2,Spray Paint Accessories
+1,1,1,1,1,16,2,Graphic Tablet
+1,0,0,1,1,14,0,"Oil Paint, Acrylic Paint"
+1,0,0,1,1,15,0,"Spray Paint, Respirator Mask"
+1,0,0,1,1,16,0,Doodle Accessories
+1,0,0,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+1,0,0,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+1,0,0,1,1,16,1,Doodle Accessories
+1,0,0,1,1,14,2,"Painting Chest, Easel"
+1,0,0,1,1,15,2,Spray Paint Accessories
+1,0,0,1,1,16,2,Graphic Tablet
+1,1,0,1,1,14,0,"Oil Paint, Acrylic Paint"
+1,1,0,1,1,15,0,"Spray Paint, Respirator Mask"
+1,1,0,1,1,16,0,Doodle Accessories
+1,1,0,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+1,1,0,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+1,1,0,1,1,16,1,Doodle Accessories
+1,1,0,1,1,14,2,"Painting Chest, Easel"
+1,1,0,1,1,15,2,Spray Paint Accessories
+1,1,0,1,1,16,2,Graphic Tablet
+1,0,1,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+1,0,1,0,2,18,0,Gaming Accessories
+1,0,1,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+1,0,1,0,2,17,1,"Portable SSD, Gaming Chair"
+1,0,1,0,2,18,1,"Gaming Chair, Wireless Controller"
+1,0,1,0,2,19,1,"Gaming Chair, Powerbank"
+1,0,1,0,2,17,2,"Gaming Laptop, Graphics Card"
+1,0,1,0,2,18,2,"Audio Sunglasses, Gaming Console"
+1,0,1,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+1,1,1,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+1,1,1,0,2,18,0,Gaming Accessories
+1,1,1,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+1,1,1,0,2,17,1,"Portable SSD, Gaming Chair"
+1,1,1,0,2,18,1,"Gaming Chair, Wireless Controller"
+1,1,1,0,2,19,1,"Gaming Chair, Powerbank"
+1,1,1,0,2,17,2,"Gaming Laptop, Graphics Card"
+1,1,1,0,2,18,2,"Audio Sunglasses, Gaming Console"
+1,1,1,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+1,0,0,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+1,0,0,0,2,18,0,Gaming Accessories
+1,0,0,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+1,0,0,0,2,17,1,"Portable SSD, Gaming Chair"
+1,0,0,0,2,18,1,"Gaming Chair, Wireless Controller"
+1,0,0,0,2,19,1,"Gaming Chair, Powerbank"
+1,0,0,0,2,17,2,"Gaming Laptop, Graphics Card"
+1,0,0,0,2,18,2,"Audio Sunglasses, Gaming Console"
+1,0,0,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+1,1,0,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+1,1,0,0,2,18,0,Gaming Accessories
+1,1,0,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+1,1,0,0,2,17,1,"Portable SSD, Gaming Chair"
+1,1,0,0,2,18,1,"Gaming Chair, Wireless Controller"
+1,1,0,0,2,19,1,"Gaming Chair, Powerbank"
+1,1,0,0,2,17,2,"Gaming Laptop, Graphics Card"
+1,1,0,0,2,18,2,"Audio Sunglasses, Gaming Console"
+1,1,0,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+1,0,1,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+1,0,1,1,2,18,0,Gaming Accessories
+1,0,1,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+1,0,1,1,2,17,1,"Portable SSD, Gaming Chair"
+1,0,1,1,2,18,1,"Gaming Chair, Wireless Controller"
+1,0,1,1,2,19,1,"Gaming Chair, Powerbank"
+1,0,1,1,2,17,2,"Gaming Laptop, Graphics Card"
+1,0,1,1,2,18,2,"Audio Sunglasses, Gaming Console"
+1,0,1,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+1,1,1,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+1,1,1,1,2,18,0,Gaming Accessories
+1,1,1,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+1,1,1,1,2,17,1,"Portable SSD, Gaming Chair"
+1,1,1,1,2,18,1,"Gaming Chair, Wireless Controller"
+1,1,1,1,2,19,1,"Gaming Chair, Powerbank"
+1,1,1,1,2,17,2,"Gaming Laptop, Graphics Card"
+1,1,1,1,2,18,2,"Audio Sunglasses, Gaming Console"
+1,1,1,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+1,0,0,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+1,0,0,1,2,18,0,Gaming Accessories
+1,0,0,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+1,0,0,1,2,17,1,"Portable SSD, Gaming Chair"
+1,0,0,1,2,18,1,"Gaming Chair, Wireless Controller"
+1,0,0,1,2,19,1,"Gaming Chair, Powerbank"
+1,0,0,1,2,17,2,"Gaming Laptop, Graphics Card"
+1,0,0,1,2,18,2,"Audio Sunglasses, Gaming Console"
+1,0,0,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+1,1,0,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+1,1,0,1,2,18,0,Gaming Accessories
+1,1,0,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+1,1,0,1,2,17,1,"Portable SSD, Gaming Chair"
+1,1,0,1,2,18,1,"Gaming Chair, Wireless Controller"
+1,1,0,1,2,19,1,"Gaming Chair, Powerbank"
+1,1,0,1,2,17,2,"Gaming Laptop, Graphics Card"
+1,1,0,1,2,18,2,"Audio Sunglasses, Gaming Console"
+1,1,0,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+1,0,1,0,3,20,0,"Classical Music Book, Tambourine"
+1,0,1,0,3,21,0,"Western Music Book, Harmonica"
+1,0,1,0,3,22,0,"Earphone, Melody Music Book"
+1,0,1,0,3,20,1,"Metronome, Sitar"
+1,0,1,0,3,21,1,"Guitar, Violin"
+1,0,1,0,3,22,1,"Portable Speaker, Wireless Earphone"
+1,0,1,0,3,20,2,"Harmonium, Veena"
+1,0,1,0,3,21,2,"Grand Piano, Drum Set"
+1,0,1,0,3,22,2,"DJ Mixer, Launchpad"
+1,0,1,0,4,23,0,"Dough Whisk, Apron"
+1,0,1,0,4,24,0,"Knife Set, Cutting Board"
+1,0,1,0,4,25,0,"Cooking Book, Apron"
+1,0,1,0,4,23,1,Baking Accessories
+1,0,1,0,4,24,1,"Meat Grinder, Fish Scaler"
+1,0,1,0,4,25,1,"Toaster, Coffee Maker"
+1,0,1,0,4,23,2,Microwave Oven
+1,0,1,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+1,0,1,0,4,25,2,"Blender, Air Fryer"
+1,0,1,0,5,26,0,Horror Story Books
+1,0,1,0,5,27,0,Science Fiction Story Books
+1,0,1,0,5,28,0,Non-Fiction Story Books
+1,0,1,0,5,29,0,Drama Story Books
+1,0,1,0,5,26,1,Horror Story Books
+1,0,1,0,5,27,1,Science Fiction Story Books
+1,0,1,0,5,28,1,Non-Fiction Story Books
+1,0,1,0,5,29,1,Drama Story Books
+1,0,1,0,5,26,2,"Horror Story Books, Kindle"
+1,0,1,0,5,27,2,"Science Fiction Story Books, Kindle"
+1,0,1,0,5,28,2,"Non-Fiction Story Books, Kindle"
+1,0,1,0,5,29,2,"Drama Story Books, Kindle"
+1,0,0,0,3,20,0,"Classical Music Book, Tambourine"
+1,0,0,0,3,21,0,"Western Music Book, Harmonica"
+1,0,0,0,3,22,0,"Earphone, Melody Music Book"
+1,0,0,0,3,20,1,"Metronome, Sitar"
+1,0,0,0,3,21,1,"Guitar, Violin"
+1,0,0,0,3,22,1,"Portable Speaker, Wireless Earphone"
+1,0,0,0,3,20,2,"Harmonium, Veena"
+1,0,0,0,3,21,2,"Grand Piano, Drum Set"
+1,0,0,0,3,22,2,"DJ Mixer, Launchpad"
+1,0,0,0,4,23,0,"Dough Whisk, Apron"
+1,0,0,0,4,24,0,"Knife Set, Cutting Board"
+1,0,0,0,4,25,0,"Cooking Book, Apron"
+1,0,0,0,4,23,1,Baking Accessories
+1,0,0,0,4,24,1,"Meat Grinder, Fish Scaler"
+1,0,0,0,4,25,1,"Toaster, Coffee Maker"
+1,0,0,0,4,23,2,Microwave Oven
+1,0,0,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+1,0,0,0,4,25,2,"Blender, Air Fryer"
+1,0,0,0,5,26,0,Horror Story Books
+1,0,0,0,5,27,0,Science Fiction Story Books
+1,0,0,0,5,28,0,Non-Fiction Story Books
+1,0,0,0,5,29,0,Drama Story Books
+1,0,0,0,5,26,1,Horror Story Books
+1,0,0,0,5,27,1,Science Fiction Story Books
+1,0,0,0,5,28,1,Non-Fiction Story Books
+1,0,0,0,5,29,1,Drama Story Books
+1,0,0,0,5,26,2,"Horror Story Books, Kindle"
+1,0,0,0,5,27,2,"Science Fiction Story Books, Kindle"
+1,0,0,0,5,28,2,"Non-Fiction Story Books, Kindle"
+1,0,0,0,5,29,2,"Drama Story Books, Kindle"
+1,0,1,1,3,20,0,"Classical Music Book, Tambourine"
+1,0,1,1,3,21,0,"Western Music Book, Harmonica"
+1,0,1,1,3,22,0,"Earphone, Melody Music Book"
+1,0,1,1,3,20,1,"Metronome, Sitar"
+1,0,1,1,3,21,1,"Guitar, Violin"
+1,0,1,1,3,22,1,"Portable Speaker, Wireless Earphone"
+1,0,1,1,3,20,2,"Harmonium, Veena"
+1,0,1,1,3,21,2,"Grand Piano, Drum Set"
+1,0,1,1,3,22,2,"DJ Mixer, Launchpad"
+1,0,1,1,4,23,0,"Dough Whisk, Apron"
+1,0,1,1,4,24,0,"Knife Set, Cutting Board"
+1,0,1,1,4,25,0,"Cooking Book, Apron"
+1,0,1,1,4,23,1,Baking Accessories
+1,0,1,1,4,24,1,"Meat Grinder, Fish Scaler"
+1,0,1,1,4,25,1,"Toaster, Coffee Maker"
+1,0,1,1,4,23,2,Microwave Oven
+1,0,1,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+1,0,1,1,4,25,2,"Blender, Air Fryer"
+1,0,1,1,5,26,0,Horror Story Books
+1,0,1,1,5,27,0,Science Fiction Story Books
+1,0,1,1,5,28,0,Non-Fiction Story Books
+1,0,1,1,5,29,0,Drama Story Books
+1,0,1,1,5,26,1,Horror Story Books
+1,0,1,1,5,27,1,Science Fiction Story Books
+1,0,1,1,5,28,1,Non-Fiction Story Books
+1,0,1,1,5,29,1,Drama Story Books
+1,0,1,1,5,26,2,"Horror Story Books, Kindle"
+1,0,1,1,5,27,2,"Science Fiction Story Books, Kindle"
+1,0,1,1,5,28,2,"Non-Fiction Story Books, Kindle"
+1,0,1,1,5,29,2,"Drama Story Books, Kindle"
+1,0,0,1,3,20,0,"Classical Music Book, Tambourine"
+1,0,0,1,3,21,0,"Western Music Book, Harmonica"
+1,0,0,1,3,22,0,"Earphone, Melody Music Book"
+1,0,0,1,3,20,1,"Metronome, Sitar"
+1,0,0,1,3,21,1,"Guitar, Violin"
+1,0,0,1,3,22,1,"Portable Speaker, Wireless Earphone"
+1,0,0,1,3,20,2,"Harmonium, Veena"
+1,0,0,1,3,21,2,"Grand Piano, Drum Set"
+1,0,0,1,3,22,2,"DJ Mixer, Launchpad"
+1,0,0,1,4,23,0,"Dough Whisk, Apron"
+1,0,0,1,4,24,0,"Knife Set, Cutting Board"
+1,0,0,1,4,25,0,"Cooking Book, Apron"
+1,0,0,1,4,23,1,Baking Accessories
+1,0,0,1,4,24,1,"Meat Grinder, Fish Scaler"
+1,0,0,1,4,25,1,"Toaster, Coffee Maker"
+1,0,0,1,4,23,2,Microwave Oven
+1,0,0,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+1,0,0,1,4,25,2,"Blender, Air Fryer"
+1,0,0,1,5,26,0,Horror Story Books
+1,0,0,1,5,27,0,Science Fiction Story Books
+1,0,0,1,5,28,0,Non-Fiction Story Books
+1,0,0,1,5,29,0,Drama Story Books
+1,0,0,1,5,26,1,Horror Story Books
+1,0,0,1,5,27,1,Science Fiction Story Books
+1,0,0,1,5,28,1,Non-Fiction Story Books
+1,0,0,1,5,29,1,Drama Story Books
+1,0,0,1,5,26,2,"Horror Story Books, Kindle"
+1,0,0,1,5,27,2,"Science Fiction Story Books, Kindle"
+1,0,0,1,5,28,2,"Non-Fiction Story Books, Kindle"
+1,0,0,1,5,29,2,"Drama Story Books, Kindle"
+1,1,1,0,3,20,0,"Classical Music Book, Tambourine"
+1,1,1,0,3,21,0,"Western Music Book, Harmonica"
+1,1,1,0,3,22,0,"Earphone, Melody Music Book"
+1,1,1,0,3,20,1,"Metronome, Sitar"
+1,1,1,0,3,21,1,"Guitar, Violin"
+1,1,1,0,3,22,1,"Portable Speaker, Wireless Earphone"
+1,1,1,0,3,20,2,"Harmonium, Veena"
+1,1,1,0,3,21,2,"Grand Piano, Drum Set"
+1,1,1,0,3,22,2,"DJ Mixer, Launchpad"
+1,1,1,0,4,23,0,"Dough Whisk, Apron"
+1,1,1,0,4,24,0,"Knife Set, Cutting Board"
+1,1,1,0,4,25,0,"Cooking Book, Apron"
+1,1,1,0,4,23,1,Baking Accessories
+1,1,1,0,4,24,1,"Meat Grinder, Fish Scaler"
+1,1,1,0,4,25,1,"Toaster, Coffee Maker"
+1,1,1,0,4,23,2,Microwave Oven
+1,1,1,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+1,1,1,0,4,25,2,"Blender, Air Fryer"
+1,1,1,0,5,26,0,Horror Story Books
+1,1,1,0,5,27,0,Science Fiction Story Books
+1,1,1,0,5,28,0,Non-Fiction Story Books
+1,1,1,0,5,29,0,Drama Story Books
+1,1,1,0,5,26,1,Horror Story Books
+1,1,1,0,5,27,1,Science Fiction Story Books
+1,1,1,0,5,28,1,Non-Fiction Story Books
+1,1,1,0,5,29,1,Drama Story Books
+1,1,1,0,5,26,2,"Horror Story Books, Kindle"
+1,1,1,0,5,27,2,"Science Fiction Story Books, Kindle"
+1,1,1,0,5,28,2,"Non-Fiction Story Books, Kindle"
+1,1,1,0,5,29,2,"Drama Story Books, Kindle"
+1,1,0,0,3,20,0,"Classical Music Book, Tambourine"
+1,1,0,0,3,21,0,"Western Music Book, Harmonica"
+1,1,0,0,3,22,0,"Earphone, Melody Music Book"
+1,1,0,0,3,20,1,"Metronome, Sitar"
+1,1,0,0,3,21,1,"Guitar, Violin"
+1,1,0,0,3,22,1,"Portable Speaker, Wireless Earphone"
+1,1,0,0,3,20,2,"Harmonium, Veena"
+1,1,0,0,3,21,2,"Grand Piano, Drum Set"
+1,1,0,0,3,22,2,"DJ Mixer, Launchpad"
+1,1,0,0,4,23,0,"Dough Whisk, Apron"
+1,1,0,0,4,24,0,"Knife Set, Cutting Board"
+1,1,0,0,4,25,0,"Cooking Book, Apron"
+1,1,0,0,4,23,1,Baking Accessories
+1,1,0,0,4,24,1,"Meat Grinder, Fish Scaler"
+1,1,0,0,4,25,1,"Toaster, Coffee Maker"
+1,1,0,0,4,23,2,Microwave Oven
+1,1,0,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+1,1,0,0,4,25,2,"Blender, Air Fryer"
+1,1,0,0,5,26,0,Horror Story Books
+1,1,0,0,5,27,0,Science Fiction Story Books
+1,1,0,0,5,28,0,Non-Fiction Story Books
+1,1,0,0,5,29,0,Drama Story Books
+1,1,0,0,5,26,1,Horror Story Books
+1,1,0,0,5,27,1,Science Fiction Story Books
+1,1,0,0,5,28,1,Non-Fiction Story Books
+1,1,0,0,5,29,1,Drama Story Books
+1,1,0,0,5,26,2,"Horror Story Books, Kindle"
+1,1,0,0,5,27,2,"Science Fiction Story Books, Kindle"
+1,1,0,0,5,28,2,"Non-Fiction Story Books, Kindle"
+1,1,0,0,5,29,2,"Drama Story Books, Kindle"
+1,1,1,1,3,20,0,"Classical Music Book, Tambourine"
+1,1,1,1,3,21,0,"Western Music Book, Harmonica"
+1,1,1,1,3,22,0,"Earphone, Melody Music Book"
+1,1,1,1,3,20,1,"Metronome, Sitar"
+1,1,1,1,3,21,1,"Guitar, Violin"
+1,1,1,1,3,22,1,"Portable Speaker, Wireless Earphone"
+1,1,1,1,3,20,2,"Harmonium, Veena"
+1,1,1,1,3,21,2,"Grand Piano, Drum Set"
+1,1,1,1,3,22,2,"DJ Mixer, Launchpad"
+1,1,1,1,4,23,0,"Dough Whisk, Apron"
+1,1,1,1,4,24,0,"Knife Set, Cutting Board"
+1,1,1,1,4,25,0,"Cooking Book, Apron"
+1,1,1,1,4,23,1,Baking Accessories
+1,1,1,1,4,24,1,"Meat Grinder, Fish Scaler"
+1,1,1,1,4,25,1,"Toaster, Coffee Maker"
+1,1,1,1,4,23,2,Microwave Oven
+1,1,1,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+1,1,1,1,4,25,2,"Blender, Air Fryer"
+1,1,1,1,5,26,0,Horror Story Books
+1,1,1,1,5,27,0,Science Fiction Story Books
+1,1,1,1,5,28,0,Non-Fiction Story Books
+1,1,1,1,5,29,0,Drama Story Books
+1,1,1,1,5,26,1,Horror Story Books
+1,1,1,1,5,27,1,Science Fiction Story Books
+1,1,1,1,5,28,1,Non-Fiction Story Books
+1,1,1,1,5,29,1,Drama Story Books
+1,1,1,1,5,26,2,"Horror Story Books, Kindle"
+1,1,1,1,5,27,2,"Science Fiction Story Books, Kindle"
+1,1,1,1,5,28,2,"Non-Fiction Story Books, Kindle"
+1,1,1,1,5,29,2,"Drama Story Books, Kindle"
+1,1,0,1,3,20,0,"Classical Music Book, Tambourine"
+1,1,0,1,3,21,0,"Western Music Book, Harmonica"
+1,1,0,1,3,22,0,"Earphone, Melody Music Book"
+1,1,0,1,3,20,1,"Metronome, Sitar"
+1,1,0,1,3,21,1,"Guitar, Violin"
+1,1,0,1,3,22,1,"Portable Speaker, Wireless Earphone"
+1,1,0,1,3,20,2,"Harmonium, Veena"
+1,1,0,1,3,21,2,"Grand Piano, Drum Set"
+1,1,0,1,3,22,2,"DJ Mixer, Launchpad"
+1,1,0,1,4,23,0,"Dough Whisk, Apron"
+1,1,0,1,4,24,0,"Knife Set, Cutting Board"
+1,1,0,1,4,25,0,"Cooking Book, Apron"
+1,1,0,1,4,23,1,Baking Accessories
+1,1,0,1,4,24,1,"Meat Grinder, Fish Scaler"
+1,1,0,1,4,25,1,"Toaster, Coffee Maker"
+1,1,0,1,4,23,2,Microwave Oven
+1,1,0,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+1,1,0,1,4,25,2,"Blender, Air Fryer"
+1,1,0,1,5,26,0,Horror Story Books
+1,1,0,1,5,27,0,Science Fiction Story Books
+1,1,0,1,5,28,0,Non-Fiction Story Books
+1,1,0,1,5,29,0,Drama Story Books
+1,1,0,1,5,26,1,Horror Story Books
+1,1,0,1,5,27,1,Science Fiction Story Books
+1,1,0,1,5,28,1,Non-Fiction Story Books
+1,1,0,1,5,29,1,Drama Story Books
+1,1,0,1,5,26,2,"Horror Story Books, Kindle"
+1,1,0,1,5,27,2,"Science Fiction Story Books, Kindle"
+1,1,0,1,5,28,2,"Non-Fiction Story Books, Kindle"
+1,1,0,1,5,29,2,"Drama Story Books, Kindle"
+2,0,1,0,0,0,0,"Football, Football Player Poster"
+2,0,1,0,0,1,0,"Basketball, BasketBall Player Poster"
+2,0,1,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+2,0,1,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+2,0,1,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+2,0,1,0,0,5,0,"Running Shoes, Headband"
+2,0,1,0,0,6,0,"Tennis Racket, Headband"
+2,0,1,0,0,7,0,"Chess Board, Board Game"
+2,0,1,0,0,8,0,"Volleyball, Waterbottle"
+2,0,1,0,0,9,0,"Boxing Gloves, Boxer Poster"
+2,0,1,0,0,10,0,"Skates, Headband"
+2,0,1,0,0,11,0,"Rugby Ball, Sports Towel"
+2,0,1,0,0,13,0,Fishing Accessories
+2,0,1,0,0,12,0,"Cycling Accessories, Waterbottle"
+2,0,1,0,0,0,1,"Football Shoes, Football"
+2,0,1,0,0,1,1,Basketball Shoes
+2,0,1,0,0,2,1,Hockey Shoes
+2,0,1,0,0,3,1,"Cricket Shoes, Cricket Bat"
+2,0,1,0,0,4,1,"Badminton Shoes, Badminton Racket"
+2,0,1,0,0,5,1,"Fitness Watch, Treadmill"
+2,0,1,0,0,6,1,"Tennis Racket, Tennis Shoes"
+2,0,1,0,0,7,1,"Carrom Board, Board Game"
+2,0,1,0,0,8,1,Volleyball Shoes
+2,0,1,0,0,9,1,Boxing Shoes
+2,0,1,0,0,10,1,"Skates, Fitness Watch"
+2,0,1,0,0,11,1,Rugby Accessories
+2,0,1,0,0,13,1,"Fishing Rod, Fishing Chair"
+2,0,1,0,0,12,1,Cycling Accessories
+2,0,1,0,0,0,2,Football Accessories
+2,0,1,0,0,1,2,Basketball Accessories
+2,0,1,0,0,2,2,Hockey Accessories
+2,0,1,0,0,3,2,Cricket Accessories
+2,0,1,0,0,4,2,Cricket Accessories
+2,0,1,0,0,5,2,"Fitness Watch, Treadmill"
+2,0,1,0,0,6,2,Tennis Accessories
+2,0,1,0,0,7,2,Cue Sports Accessories
+2,0,1,0,0,8,2,Volleyball Accessories
+2,0,1,0,0,9,2,Boxing Accessories
+2,0,1,0,0,10,2,Skating Accessories
+2,0,1,0,0,11,2,Rugby Accessories
+2,0,1,0,0,13,2,"Fishing Boat, Fishing Accessories"
+2,0,1,0,0,12,2,"Cycle, Cycling Accessories"
+2,1,1,0,0,0,0,"Football, Football Player Poster"
+2,1,1,0,0,1,0,"Basketball, BasketBall Player Poster"
+2,1,1,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+2,1,1,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+2,1,1,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+2,1,1,0,0,5,0,"Running Shoes, Headband"
+2,1,1,0,0,6,0,"Tennis Racket, Headband"
+2,1,1,0,0,7,0,"Chess Board, Board Game"
+2,1,1,0,0,8,0,"Volleyball, Waterbottle"
+2,1,1,0,0,9,0,"Boxing Gloves, Boxer Poster"
+2,1,1,0,0,10,0,"Skates, Headband"
+2,1,1,0,0,11,0,"Rugby Ball, Sports Towel"
+2,1,1,0,0,13,0,Fishing Accessories
+2,1,1,0,0,12,0,"Cycling Accessories, Waterbottle"
+2,1,1,0,0,0,1,"Football Shoes, Football"
+2,1,1,0,0,1,1,Basketball Shoes
+2,1,1,0,0,2,1,Hockey Shoes
+2,1,1,0,0,3,1,"Cricket Shoes, Cricket Bat"
+2,1,1,0,0,4,1,"Badminton Shoes, Badminton Racket"
+2,1,1,0,0,5,1,"Fitness Watch, Treadmill"
+2,1,1,0,0,6,1,"Tennis Racket, Tennis Shoes"
+2,1,1,0,0,7,1,"Carrom Board, Board Game"
+2,1,1,0,0,8,1,Volleyball Shoes
+2,1,1,0,0,9,1,Boxing Shoes
+2,1,1,0,0,10,1,"Skates, Fitness Watch"
+2,1,1,0,0,11,1,Rugby Accessories
+2,1,1,0,0,13,1,"Fishing Rod, Fishing Chair"
+2,1,1,0,0,12,1,Cycling Accessories
+2,1,1,0,0,0,2,Football Accessories
+2,1,1,0,0,1,2,Basketball Accessories
+2,1,1,0,0,2,2,Hockey Accessories
+2,1,1,0,0,3,2,Cricket Accessories
+2,1,1,0,0,4,2,Cricket Accessories
+2,1,1,0,0,5,2,"Fitness Watch, Treadmill"
+2,1,1,0,0,6,2,Tennis Accessories
+2,1,1,0,0,7,2,Cue Sports Accessories
+2,1,1,0,0,8,2,Volleyball Accessories
+2,1,1,0,0,9,2,Boxing Accessories
+2,1,1,0,0,10,2,Skating Accessories
+2,1,1,0,0,11,2,Rugby Accessories
+2,1,1,0,0,13,2,"Fishing Boat, Fishing Accessories"
+2,1,1,0,0,12,2,"Cycle, Cycling Accessories"
+2,0,0,0,0,0,0,"Football, Football Player Poster"
+2,0,0,0,0,1,0,"Basketball, BasketBall Player Poster"
+2,0,0,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+2,0,0,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+2,0,0,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+2,0,0,0,0,5,0,"Running Shoes, Headband"
+2,0,0,0,0,6,0,"Tennis Racket, Headband"
+2,0,0,0,0,7,0,"Chess Board, Board Game"
+2,0,0,0,0,8,0,"Volleyball, Waterbottle"
+2,0,0,0,0,9,0,"Boxing Gloves, Boxer Poster"
+2,0,0,0,0,10,0,"Skates, Headband"
+2,0,0,0,0,11,0,"Rugby Ball, Sports Towel"
+2,0,0,0,0,13,0,Fishing Accessories
+2,0,0,0,0,12,0,"Cycling Accessories, Waterbottle"
+2,0,0,0,0,0,1,"Football Shoes, Football"
+2,0,0,0,0,1,1,Basketball Shoes
+2,0,0,0,0,2,1,Hockey Shoes
+2,0,0,0,0,3,1,"Cricket Shoes, Cricket Bat"
+2,0,0,0,0,4,1,"Badminton Shoes, Badminton Racket"
+2,0,0,0,0,5,1,"Fitness Watch, Treadmill"
+2,0,0,0,0,6,1,"Tennis Racket, Tennis Shoes"
+2,0,0,0,0,7,1,"Carrom Board, Board Game"
+2,0,0,0,0,8,1,Volleyball Shoes
+2,0,0,0,0,9,1,Boxing Shoes
+2,0,0,0,0,10,1,"Skates, Fitness Watch"
+2,0,0,0,0,11,1,Rugby Accessories
+2,0,0,0,0,13,1,"Fishing Rod, Fishing Chair"
+2,0,0,0,0,12,1,Cycling Accessories
+2,0,0,0,0,0,2,Football Accessories
+2,0,0,0,0,1,2,Basketball Accessories
+2,0,0,0,0,2,2,Hockey Accessories
+2,0,0,0,0,3,2,Cricket Accessories
+2,0,0,0,0,4,2,Cricket Accessories
+2,0,0,0,0,5,2,"Fitness Watch, Treadmill"
+2,0,0,0,0,6,2,Tennis Accessories
+2,0,0,0,0,7,2,Cue Sports Accessories
+2,0,0,0,0,8,2,Volleyball Accessories
+2,0,0,0,0,9,2,Boxing Accessories
+2,0,0,0,0,10,2,Skating Accessories
+2,0,0,0,0,11,2,Rugby Accessories
+2,0,0,0,0,13,2,"Fishing Boat, Fishing Accessories"
+2,0,0,0,0,12,2,"Cycle, Cycling Accessories"
+2,1,0,0,0,0,0,"Football, Football Player Poster"
+2,1,0,0,0,1,0,"Basketball, BasketBall Player Poster"
+2,1,0,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+2,1,0,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+2,1,0,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+2,1,0,0,0,5,0,"Running Shoes, Headband"
+2,1,0,0,0,6,0,"Tennis Racket, Headband"
+2,1,0,0,0,7,0,"Chess Board, Board Game"
+2,1,0,0,0,8,0,"Volleyball, Waterbottle"
+2,1,0,0,0,9,0,"Boxing Gloves, Boxer Poster"
+2,1,0,0,0,10,0,"Skates, Headband"
+2,1,0,0,0,11,0,"Rugby Ball, Sports Towel"
+2,1,0,0,0,13,0,Fishing Accessories
+2,1,0,0,0,12,0,"Cycling Accessories, Waterbottle"
+2,1,0,0,0,0,1,"Football Shoes, Football"
+2,1,0,0,0,1,1,Basketball Shoes
+2,1,0,0,0,2,1,Hockey Shoes
+2,1,0,0,0,3,1,"Cricket Shoes, Cricket Bat"
+2,1,0,0,0,4,1,"Badminton Shoes, Badminton Racket"
+2,1,0,0,0,5,1,"Fitness Watch, Treadmill"
+2,1,0,0,0,6,1,"Tennis Racket, Tennis Shoes"
+2,1,0,0,0,7,1,"Carrom Board, Board Game"
+2,1,0,0,0,8,1,Volleyball Shoes
+2,1,0,0,0,9,1,Boxing Shoes
+2,1,0,0,0,10,1,"Skates, Fitness Watch"
+2,1,0,0,0,11,1,Rugby Accessories
+2,1,0,0,0,13,1,"Fishing Rod, Fishing Chair"
+2,1,0,0,0,12,1,Cycling Accessories
+2,1,0,0,0,0,2,Football Accessories
+2,1,0,0,0,1,2,Basketball Accessories
+2,1,0,0,0,2,2,Hockey Accessories
+2,1,0,0,0,3,2,Cricket Accessories
+2,1,0,0,0,4,2,Cricket Accessories
+2,1,0,0,0,5,2,"Fitness Watch, Treadmill"
+2,1,0,0,0,6,2,Tennis Accessories
+2,1,0,0,0,7,2,Cue Sports Accessories
+2,1,0,0,0,8,2,Volleyball Accessories
+2,1,0,0,0,9,2,Boxing Accessories
+2,1,0,0,0,10,2,Skating Accessories
+2,1,0,0,0,11,2,Rugby Accessories
+2,1,0,0,0,13,2,"Fishing Boat, Fishing Accessories"
+2,1,0,0,0,12,2,"Cycle, Cycling Accessories"
+2,0,1,1,0,0,0,"Football, Football Player Poster"
+2,0,1,1,0,1,0,"Basketball, BasketBall Player Poster"
+2,0,1,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+2,0,1,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+2,0,1,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+2,0,1,1,0,5,0,"Running Shoes, Headband"
+2,0,1,1,0,6,0,"Tennis Racket, Headband"
+2,0,1,1,0,7,0,"Chess Board, Board Game"
+2,0,1,1,0,8,0,"Volleyball, Waterbottle"
+2,0,1,1,0,9,0,"Boxing Gloves, Boxer Poster"
+2,0,1,1,0,10,0,"Skates, Headband"
+2,0,1,1,0,11,0,"Rugby Ball, Sports Towel"
+2,0,1,1,0,13,0,Fishing Accessories
+2,0,1,1,0,12,0,"Cycling Accessories, Waterbottle"
+2,0,1,1,0,0,1,"Football Shoes, Football"
+2,0,1,1,0,1,1,Basketball Shoes
+2,0,1,1,0,2,1,Hockey Shoes
+2,0,1,1,0,3,1,"Cricket Shoes, Cricket Bat"
+2,0,1,1,0,4,1,"Badminton Shoes, Badminton Racket"
+2,0,1,1,0,5,1,"Fitness Watch, Treadmill"
+2,0,1,1,0,6,1,"Tennis Racket, Tennis Shoes"
+2,0,1,1,0,7,1,"Carrom Board, Board Game"
+2,0,1,1,0,8,1,Volleyball Shoes
+2,0,1,1,0,9,1,Boxing Shoes
+2,0,1,1,0,10,1,"Skates, Fitness Watch"
+2,0,1,1,0,11,1,Rugby Accessories
+2,0,1,1,0,13,1,"Fishing Rod, Fishing Chair"
+2,0,1,1,0,12,1,Cycling Accessories
+2,0,1,1,0,0,2,Football Accessories
+2,0,1,1,0,1,2,Basketball Accessories
+2,0,1,1,0,2,2,Hockey Accessories
+2,0,1,1,0,3,2,Cricket Accessories
+2,0,1,1,0,4,2,Cricket Accessories
+2,0,1,1,0,5,2,"Fitness Watch, Treadmill"
+2,0,1,1,0,6,2,Tennis Accessories
+2,0,1,1,0,7,2,Cue Sports Accessories
+2,0,1,1,0,8,2,Volleyball Accessories
+2,0,1,1,0,9,2,Boxing Accessories
+2,0,1,1,0,10,2,Skating Accessories
+2,0,1,1,0,11,2,Rugby Accessories
+2,0,1,1,0,13,2,"Fishing Boat, Fishing Accessories"
+2,0,1,1,0,12,2,"Cycle, Cycling Accessories"
+2,1,1,1,0,0,0,"Football, Football Player Poster"
+2,1,1,1,0,1,0,"Basketball, BasketBall Player Poster"
+2,1,1,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+2,1,1,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+2,1,1,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+2,1,1,1,0,5,0,"Running Shoes, Headband"
+2,1,1,1,0,6,0,"Tennis Racket, Headband"
+2,1,1,1,0,7,0,"Chess Board, Board Game"
+2,1,1,1,0,8,0,"Volleyball, Waterbottle"
+2,1,1,1,0,9,0,"Boxing Gloves, Boxer Poster"
+2,1,1,1,0,10,0,"Skates, Headband"
+2,1,1,1,0,11,0,"Rugby Ball, Sports Towel"
+2,1,1,1,0,13,0,Fishing Accessories
+2,1,1,1,0,12,0,"Cycling Accessories, Waterbottle"
+2,1,1,1,0,0,1,"Football Shoes, Football"
+2,1,1,1,0,1,1,Basketball Shoes
+2,1,1,1,0,2,1,Hockey Shoes
+2,1,1,1,0,3,1,"Cricket Shoes, Cricket Bat"
+2,1,1,1,0,4,1,"Badminton Shoes, Badminton Racket"
+2,1,1,1,0,5,1,"Fitness Watch, Treadmill"
+2,1,1,1,0,6,1,"Tennis Racket, Tennis Shoes"
+2,1,1,1,0,7,1,"Carrom Board, Board Game"
+2,1,1,1,0,8,1,Volleyball Shoes
+2,1,1,1,0,9,1,Boxing Shoes
+2,1,1,1,0,10,1,"Skates, Fitness Watch"
+2,1,1,1,0,11,1,Rugby Accessories
+2,1,1,1,0,13,1,"Fishing Rod, Fishing Chair"
+2,1,1,1,0,12,1,Cycling Accessories
+2,1,1,1,0,0,2,Football Accessories
+2,1,1,1,0,1,2,Basketball Accessories
+2,1,1,1,0,2,2,Hockey Accessories
+2,1,1,1,0,3,2,Cricket Accessories
+2,1,1,1,0,4,2,Cricket Accessories
+2,1,1,1,0,5,2,"Fitness Watch, Treadmill"
+2,1,1,1,0,6,2,Tennis Accessories
+2,1,1,1,0,7,2,Cue Sports Accessories
+2,1,1,1,0,8,2,Volleyball Accessories
+2,1,1,1,0,9,2,Boxing Accessories
+2,1,1,1,0,10,2,Skating Accessories
+2,1,1,1,0,11,2,Rugby Accessories
+2,1,1,1,0,13,2,"Fishing Boat, Fishing Accessories"
+2,1,1,1,0,12,2,"Cycle, Cycling Accessories"
+2,0,0,1,0,0,0,"Football, Football Player Poster"
+2,0,0,1,0,1,0,"Basketball, BasketBall Player Poster"
+2,0,0,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+2,0,0,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+2,0,0,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+2,0,0,1,0,5,0,"Running Shoes, Headband"
+2,0,0,1,0,6,0,"Tennis Racket, Headband"
+2,0,0,1,0,7,0,"Chess Board, Board Game"
+2,0,0,1,0,8,0,"Volleyball, Waterbottle"
+2,0,0,1,0,9,0,"Boxing Gloves, Boxer Poster"
+2,0,0,1,0,10,0,"Skates, Headband"
+2,0,0,1,0,11,0,"Rugby Ball, Sports Towel"
+2,0,0,1,0,13,0,Fishing Accessories
+2,0,0,1,0,12,0,"Cycling Accessories, Waterbottle"
+2,0,0,1,0,0,1,"Football Shoes, Football"
+2,0,0,1,0,1,1,Basketball Shoes
+2,0,0,1,0,2,1,Hockey Shoes
+2,0,0,1,0,3,1,"Cricket Shoes, Cricket Bat"
+2,0,0,1,0,4,1,"Badminton Shoes, Badminton Racket"
+2,0,0,1,0,5,1,"Fitness Watch, Treadmill"
+2,0,0,1,0,6,1,"Tennis Racket, Tennis Shoes"
+2,0,0,1,0,7,1,"Carrom Board, Board Game"
+2,0,0,1,0,8,1,Volleyball Shoes
+2,0,0,1,0,9,1,Boxing Shoes
+2,0,0,1,0,10,1,"Skates, Fitness Watch"
+2,0,0,1,0,11,1,Rugby Accessories
+2,0,0,1,0,13,1,"Fishing Rod, Fishing Chair"
+2,0,0,1,0,12,1,Cycling Accessories
+2,0,0,1,0,0,2,Football Accessories
+2,0,0,1,0,1,2,Basketball Accessories
+2,0,0,1,0,2,2,Hockey Accessories
+2,0,0,1,0,3,2,Cricket Accessories
+2,0,0,1,0,4,2,Cricket Accessories
+2,0,0,1,0,5,2,"Fitness Watch, Treadmill"
+2,0,0,1,0,6,2,Tennis Accessories
+2,0,0,1,0,7,2,Cue Sports Accessories
+2,0,0,1,0,8,2,Volleyball Accessories
+2,0,0,1,0,9,2,Boxing Accessories
+2,0,0,1,0,10,2,Skating Accessories
+2,0,0,1,0,11,2,Rugby Accessories
+2,0,0,1,0,13,2,"Fishing Boat, Fishing Accessories"
+2,0,0,1,0,12,2,"Cycle, Cycling Accessories"
+2,1,0,1,0,0,0,"Football, Football Player Poster"
+2,1,0,1,0,1,0,"Basketball, BasketBall Player Poster"
+2,1,0,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+2,1,0,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+2,1,0,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+2,1,0,1,0,5,0,"Running Shoes, Headband"
+2,1,0,1,0,6,0,"Tennis Racket, Headband"
+2,1,0,1,0,7,0,"Chess Board, Board Game"
+2,1,0,1,0,8,0,"Volleyball, Waterbottle"
+2,1,0,1,0,9,0,"Boxing Gloves, Boxer Poster"
+2,1,0,1,0,10,0,"Skates, Headband"
+2,1,0,1,0,11,0,"Rugby Ball, Sports Towel"
+2,1,0,1,0,13,0,Fishing Accessories
+2,1,0,1,0,12,0,"Cycling Accessories, Waterbottle"
+2,1,0,1,0,0,1,"Football Shoes, Football"
+2,1,0,1,0,1,1,Basketball Shoes
+2,1,0,1,0,2,1,Hockey Shoes
+2,1,0,1,0,3,1,"Cricket Shoes, Cricket Bat"
+2,1,0,1,0,4,1,"Badminton Shoes, Badminton Racket"
+2,1,0,1,0,5,1,"Fitness Watch, Treadmill"
+2,1,0,1,0,6,1,"Tennis Racket, Tennis Shoes"
+2,1,0,1,0,7,1,"Carrom Board, Board Game"
+2,1,0,1,0,8,1,Volleyball Shoes
+2,1,0,1,0,9,1,Boxing Shoes
+2,1,0,1,0,10,1,"Skates, Fitness Watch"
+2,1,0,1,0,11,1,Rugby Accessories
+2,1,0,1,0,13,1,"Fishing Rod, Fishing Chair"
+2,1,0,1,0,12,1,Cycling Accessories
+2,1,0,1,0,0,2,Football Accessories
+2,1,0,1,0,1,2,Basketball Accessories
+2,1,0,1,0,2,2,Hockey Accessories
+2,1,0,1,0,3,2,Cricket Accessories
+2,1,0,1,0,4,2,Cricket Accessories
+2,1,0,1,0,5,2,"Fitness Watch, Treadmill"
+2,1,0,1,0,6,2,Tennis Accessories
+2,1,0,1,0,7,2,Cue Sports Accessories
+2,1,0,1,0,8,2,Volleyball Accessories
+2,1,0,1,0,9,2,Boxing Accessories
+2,1,0,1,0,10,2,Skating Accessories
+2,1,0,1,0,11,2,Rugby Accessories
+2,1,0,1,0,13,2,"Fishing Boat, Fishing Accessories"
+2,1,0,1,0,12,2,"Cycle, Cycling Accessories"
+2,0,1,0,1,14,0,"Oil Paint, Acrylic Paint"
+2,0,1,0,1,15,0,"Spray Paint, Respirator Mask"
+2,0,1,0,1,16,0,Doodle Accessories
+2,0,1,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+2,0,1,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+2,0,1,0,1,16,1,Doodle Accessories
+2,0,1,0,1,14,2,"Painting Chest, Easel"
+2,0,1,0,1,15,2,Spray Paint Accessories
+2,0,1,0,1,16,2,Graphic Tablet
+2,1,1,0,1,14,0,"Oil Paint, Acrylic Paint"
+2,1,1,0,1,15,0,"Spray Paint, Respirator Mask"
+2,1,1,0,1,16,0,Doodle Accessories
+2,1,1,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+2,1,1,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+2,1,1,0,1,16,1,Doodle Accessories
+2,1,1,0,1,14,2,"Painting Chest, Easel"
+2,1,1,0,1,15,2,Spray Paint Accessories
+2,1,1,0,1,16,2,Graphic Tablet
+2,0,0,0,1,14,0,"Oil Paint, Acrylic Paint"
+2,0,0,0,1,15,0,"Spray Paint, Respirator Mask"
+2,0,0,0,1,16,0,Doodle Accessories
+2,0,0,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+2,0,0,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+2,0,0,0,1,16,1,Doodle Accessories
+2,0,0,0,1,14,2,"Painting Chest, Easel"
+2,0,0,0,1,15,2,Spray Paint Accessories
+2,0,0,0,1,16,2,Graphic Tablet
+2,1,0,0,1,14,0,"Oil Paint, Acrylic Paint"
+2,1,0,0,1,15,0,"Spray Paint, Respirator Mask"
+2,1,0,0,1,16,0,Doodle Accessories
+2,1,0,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+2,1,0,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+2,1,0,0,1,16,1,Doodle Accessories
+2,1,0,0,1,14,2,"Painting Chest, Easel"
+2,1,0,0,1,15,2,Spray Paint Accessories
+2,1,0,0,1,16,2,Graphic Tablet
+2,0,1,1,1,14,0,"Oil Paint, Acrylic Paint"
+2,0,1,1,1,15,0,"Spray Paint, Respirator Mask"
+2,0,1,1,1,16,0,Doodle Accessories
+2,0,1,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+2,0,1,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+2,0,1,1,1,16,1,Doodle Accessories
+2,0,1,1,1,14,2,"Painting Chest, Easel"
+2,0,1,1,1,15,2,Spray Paint Accessories
+2,0,1,1,1,16,2,Graphic Tablet
+2,1,1,1,1,14,0,"Oil Paint, Acrylic Paint"
+2,1,1,1,1,15,0,"Spray Paint, Respirator Mask"
+2,1,1,1,1,16,0,Doodle Accessories
+2,1,1,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+2,1,1,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+2,1,1,1,1,16,1,Doodle Accessories
+2,1,1,1,1,14,2,"Painting Chest, Easel"
+2,1,1,1,1,15,2,Spray Paint Accessories
+2,1,1,1,1,16,2,Graphic Tablet
+2,0,0,1,1,14,0,"Oil Paint, Acrylic Paint"
+2,0,0,1,1,15,0,"Spray Paint, Respirator Mask"
+2,0,0,1,1,16,0,Doodle Accessories
+2,0,0,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+2,0,0,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+2,0,0,1,1,16,1,Doodle Accessories
+2,0,0,1,1,14,2,"Painting Chest, Easel"
+2,0,0,1,1,15,2,Spray Paint Accessories
+2,0,0,1,1,16,2,Graphic Tablet
+2,1,0,1,1,14,0,"Oil Paint, Acrylic Paint"
+2,1,0,1,1,15,0,"Spray Paint, Respirator Mask"
+2,1,0,1,1,16,0,Doodle Accessories
+2,1,0,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+2,1,0,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+2,1,0,1,1,16,1,Doodle Accessories
+2,1,0,1,1,14,2,"Painting Chest, Easel"
+2,1,0,1,1,15,2,Spray Paint Accessories
+2,1,0,1,1,16,2,Graphic Tablet
+2,0,1,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+2,0,1,0,2,18,0,Gaming Accessories
+2,0,1,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+2,0,1,0,2,17,1,"Portable SSD, Gaming Chair"
+2,0,1,0,2,18,1,"Gaming Chair, Wireless Controller"
+2,0,1,0,2,19,1,"Gaming Chair, Powerbank"
+2,0,1,0,2,17,2,"Gaming Laptop, Graphics Card"
+2,0,1,0,2,18,2,"Audio Sunglasses, Gaming Console"
+2,0,1,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+2,1,1,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+2,1,1,0,2,18,0,Gaming Accessories
+2,1,1,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+2,1,1,0,2,17,1,"Portable SSD, Gaming Chair"
+2,1,1,0,2,18,1,"Gaming Chair, Wireless Controller"
+2,1,1,0,2,19,1,"Gaming Chair, Powerbank"
+2,1,1,0,2,17,2,"Gaming Laptop, Graphics Card"
+2,1,1,0,2,18,2,"Audio Sunglasses, Gaming Console"
+2,1,1,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+2,0,0,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+2,0,0,0,2,18,0,Gaming Accessories
+2,0,0,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+2,0,0,0,2,17,1,"Portable SSD, Gaming Chair"
+2,0,0,0,2,18,1,"Gaming Chair, Wireless Controller"
+2,0,0,0,2,19,1,"Gaming Chair, Powerbank"
+2,0,0,0,2,17,2,"Gaming Laptop, Graphics Card"
+2,0,0,0,2,18,2,"Audio Sunglasses, Gaming Console"
+2,0,0,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+2,1,0,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+2,1,0,0,2,18,0,Gaming Accessories
+2,1,0,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+2,1,0,0,2,17,1,"Portable SSD, Gaming Chair"
+2,1,0,0,2,18,1,"Gaming Chair, Wireless Controller"
+2,1,0,0,2,19,1,"Gaming Chair, Powerbank"
+2,1,0,0,2,17,2,"Gaming Laptop, Graphics Card"
+2,1,0,0,2,18,2,"Audio Sunglasses, Gaming Console"
+2,1,0,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+2,0,1,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+2,0,1,1,2,18,0,Gaming Accessories
+2,0,1,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+2,0,1,1,2,17,1,"Portable SSD, Gaming Chair"
+2,0,1,1,2,18,1,"Gaming Chair, Wireless Controller"
+2,0,1,1,2,19,1,"Gaming Chair, Powerbank"
+2,0,1,1,2,17,2,"Gaming Laptop, Graphics Card"
+2,0,1,1,2,18,2,"Audio Sunglasses, Gaming Console"
+2,0,1,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+2,1,1,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+2,1,1,1,2,18,0,Gaming Accessories
+2,1,1,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+2,1,1,1,2,17,1,"Portable SSD, Gaming Chair"
+2,1,1,1,2,18,1,"Gaming Chair, Wireless Controller"
+2,1,1,1,2,19,1,"Gaming Chair, Powerbank"
+2,1,1,1,2,17,2,"Gaming Laptop, Graphics Card"
+2,1,1,1,2,18,2,"Audio Sunglasses, Gaming Console"
+2,1,1,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+2,0,0,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+2,0,0,1,2,18,0,Gaming Accessories
+2,0,0,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+2,0,0,1,2,17,1,"Portable SSD, Gaming Chair"
+2,0,0,1,2,18,1,"Gaming Chair, Wireless Controller"
+2,0,0,1,2,19,1,"Gaming Chair, Powerbank"
+2,0,0,1,2,17,2,"Gaming Laptop, Graphics Card"
+2,0,0,1,2,18,2,"Audio Sunglasses, Gaming Console"
+2,0,0,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+2,1,0,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+2,1,0,1,2,18,0,Gaming Accessories
+2,1,0,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+2,1,0,1,2,17,1,"Portable SSD, Gaming Chair"
+2,1,0,1,2,18,1,"Gaming Chair, Wireless Controller"
+2,1,0,1,2,19,1,"Gaming Chair, Powerbank"
+2,1,0,1,2,17,2,"Gaming Laptop, Graphics Card"
+2,1,0,1,2,18,2,"Audio Sunglasses, Gaming Console"
+2,1,0,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+2,0,1,0,3,20,0,"Classical Music Book, Tambourine"
+2,0,1,0,3,21,0,"Western Music Book, Harmonica"
+2,0,1,0,3,22,0,"Earphone, Melody Music Book"
+2,0,1,0,3,20,1,"Metronome, Sitar"
+2,0,1,0,3,21,1,"Guitar, Violin"
+2,0,1,0,3,22,1,"Portable Speaker, Wireless Earphone"
+2,0,1,0,3,20,2,"Harmonium, Veena"
+2,0,1,0,3,21,2,"Grand Piano, Drum Set"
+2,0,1,0,3,22,2,"DJ Mixer, Launchpad"
+2,0,1,0,4,23,0,"Dough Whisk, Apron"
+2,0,1,0,4,24,0,"Knife Set, Cutting Board"
+2,0,1,0,4,25,0,"Cooking Book, Apron"
+2,0,1,0,4,23,1,Baking Accessories
+2,0,1,0,4,24,1,"Meat Grinder, Fish Scaler"
+2,0,1,0,4,25,1,"Toaster, Coffee Maker"
+2,0,1,0,4,23,2,Microwave Oven
+2,0,1,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+2,0,1,0,4,25,2,"Blender, Air Fryer"
+2,0,1,0,5,26,0,Horror Story Books
+2,0,1,0,5,27,0,Science Fiction Story Books
+2,0,1,0,5,28,0,Non-Fiction Story Books
+2,0,1,0,5,29,0,Drama Story Books
+2,0,1,0,5,26,1,Horror Story Books
+2,0,1,0,5,27,1,Science Fiction Story Books
+2,0,1,0,5,28,1,Non-Fiction Story Books
+2,0,1,0,5,29,1,Drama Story Books
+2,0,1,0,5,26,2,"Horror Story Books, Kindle"
+2,0,1,0,5,27,2,"Science Fiction Story Books, Kindle"
+2,0,1,0,5,28,2,"Non-Fiction Story Books, Kindle"
+2,0,1,0,5,29,2,"Drama Story Books, Kindle"
+2,0,0,0,3,20,0,"Classical Music Book, Tambourine"
+2,0,0,0,3,21,0,"Western Music Book, Harmonica"
+2,0,0,0,3,22,0,"Earphone, Melody Music Book"
+2,0,0,0,3,20,1,"Metronome, Sitar"
+2,0,0,0,3,21,1,"Guitar, Violin"
+2,0,0,0,3,22,1,"Portable Speaker, Wireless Earphone"
+2,0,0,0,3,20,2,"Harmonium, Veena"
+2,0,0,0,3,21,2,"Grand Piano, Drum Set"
+2,0,0,0,3,22,2,"DJ Mixer, Launchpad"
+2,0,0,0,4,23,0,"Dough Whisk, Apron"
+2,0,0,0,4,24,0,"Knife Set, Cutting Board"
+2,0,0,0,4,25,0,"Cooking Book, Apron"
+2,0,0,0,4,23,1,Baking Accessories
+2,0,0,0,4,24,1,"Meat Grinder, Fish Scaler"
+2,0,0,0,4,25,1,"Toaster, Coffee Maker"
+2,0,0,0,4,23,2,Microwave Oven
+2,0,0,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+2,0,0,0,4,25,2,"Blender, Air Fryer"
+2,0,0,0,5,26,0,Horror Story Books
+2,0,0,0,5,27,0,Science Fiction Story Books
+2,0,0,0,5,28,0,Non-Fiction Story Books
+2,0,0,0,5,29,0,Drama Story Books
+2,0,0,0,5,26,1,Horror Story Books
+2,0,0,0,5,27,1,Science Fiction Story Books
+2,0,0,0,5,28,1,Non-Fiction Story Books
+2,0,0,0,5,29,1,Drama Story Books
+2,0,0,0,5,26,2,"Horror Story Books, Kindle"
+2,0,0,0,5,27,2,"Science Fiction Story Books, Kindle"
+2,0,0,0,5,28,2,"Non-Fiction Story Books, Kindle"
+2,0,0,0,5,29,2,"Drama Story Books, Kindle"
+2,0,1,1,3,20,0,"Classical Music Book, Tambourine"
+2,0,1,1,3,21,0,"Western Music Book, Harmonica"
+2,0,1,1,3,22,0,"Earphone, Melody Music Book"
+2,0,1,1,3,20,1,"Metronome, Sitar"
+2,0,1,1,3,21,1,"Guitar, Violin"
+2,0,1,1,3,22,1,"Portable Speaker, Wireless Earphone"
+2,0,1,1,3,20,2,"Harmonium, Veena"
+2,0,1,1,3,21,2,"Grand Piano, Drum Set"
+2,0,1,1,3,22,2,"DJ Mixer, Launchpad"
+2,0,1,1,4,23,0,"Dough Whisk, Apron"
+2,0,1,1,4,24,0,"Knife Set, Cutting Board"
+2,0,1,1,4,25,0,"Cooking Book, Apron"
+2,0,1,1,4,23,1,Baking Accessories
+2,0,1,1,4,24,1,"Meat Grinder, Fish Scaler"
+2,0,1,1,4,25,1,"Toaster, Coffee Maker"
+2,0,1,1,4,23,2,Microwave Oven
+2,0,1,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+2,0,1,1,4,25,2,"Blender, Air Fryer"
+2,0,1,1,5,26,0,Horror Story Books
+2,0,1,1,5,27,0,Science Fiction Story Books
+2,0,1,1,5,28,0,Non-Fiction Story Books
+2,0,1,1,5,29,0,Drama Story Books
+2,0,1,1,5,26,1,Horror Story Books
+2,0,1,1,5,27,1,Science Fiction Story Books
+2,0,1,1,5,28,1,Non-Fiction Story Books
+2,0,1,1,5,29,1,Drama Story Books
+2,0,1,1,5,26,2,"Horror Story Books, Kindle"
+2,0,1,1,5,27,2,"Science Fiction Story Books, Kindle"
+2,0,1,1,5,28,2,"Non-Fiction Story Books, Kindle"
+2,0,1,1,5,29,2,"Drama Story Books, Kindle"
+2,0,0,1,3,20,0,"Classical Music Book, Tambourine"
+2,0,0,1,3,21,0,"Western Music Book, Harmonica"
+2,0,0,1,3,22,0,"Earphone, Melody Music Book"
+2,0,0,1,3,20,1,"Metronome, Sitar"
+2,0,0,1,3,21,1,"Guitar, Violin"
+2,0,0,1,3,22,1,"Portable Speaker, Wireless Earphone"
+2,0,0,1,3,20,2,"Harmonium, Veena"
+2,0,0,1,3,21,2,"Grand Piano, Drum Set"
+2,0,0,1,3,22,2,"DJ Mixer, Launchpad"
+2,0,0,1,4,23,0,"Dough Whisk, Apron"
+2,0,0,1,4,24,0,"Knife Set, Cutting Board"
+2,0,0,1,4,25,0,"Cooking Book, Apron"
+2,0,0,1,4,23,1,Baking Accessories
+2,0,0,1,4,24,1,"Meat Grinder, Fish Scaler"
+2,0,0,1,4,25,1,"Toaster, Coffee Maker"
+2,0,0,1,4,23,2,Microwave Oven
+2,0,0,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+2,0,0,1,4,25,2,"Blender, Air Fryer"
+2,0,0,1,5,26,0,Horror Story Books
+2,0,0,1,5,27,0,Science Fiction Story Books
+2,0,0,1,5,28,0,Non-Fiction Story Books
+2,0,0,1,5,29,0,Drama Story Books
+2,0,0,1,5,26,1,Horror Story Books
+2,0,0,1,5,27,1,Science Fiction Story Books
+2,0,0,1,5,28,1,Non-Fiction Story Books
+2,0,0,1,5,29,1,Drama Story Books
+2,0,0,1,5,26,2,"Horror Story Books, Kindle"
+2,0,0,1,5,27,2,"Science Fiction Story Books, Kindle"
+2,0,0,1,5,28,2,"Non-Fiction Story Books, Kindle"
+2,0,0,1,5,29,2,"Drama Story Books, Kindle"
+2,1,1,0,3,20,0,"Classical Music Book, Tambourine"
+2,1,1,0,3,21,0,"Western Music Book, Harmonica"
+2,1,1,0,3,22,0,"Earphone, Melody Music Book"
+2,1,1,0,3,20,1,"Metronome, Sitar"
+2,1,1,0,3,21,1,"Guitar, Violin"
+2,1,1,0,3,22,1,"Portable Speaker, Wireless Earphone"
+2,1,1,0,3,20,2,"Harmonium, Veena"
+2,1,1,0,3,21,2,"Grand Piano, Drum Set"
+2,1,1,0,3,22,2,"DJ Mixer, Launchpad"
+2,1,1,0,4,23,0,"Dough Whisk, Apron"
+2,1,1,0,4,24,0,"Knife Set, Cutting Board"
+2,1,1,0,4,25,0,"Cooking Book, Apron"
+2,1,1,0,4,23,1,Baking Accessories
+2,1,1,0,4,24,1,"Meat Grinder, Fish Scaler"
+2,1,1,0,4,25,1,"Toaster, Coffee Maker"
+2,1,1,0,4,23,2,Microwave Oven
+2,1,1,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+2,1,1,0,4,25,2,"Blender, Air Fryer"
+2,1,1,0,5,26,0,Horror Story Books
+2,1,1,0,5,27,0,Science Fiction Story Books
+2,1,1,0,5,28,0,Non-Fiction Story Books
+2,1,1,0,5,29,0,Drama Story Books
+2,1,1,0,5,26,1,Horror Story Books
+2,1,1,0,5,27,1,Science Fiction Story Books
+2,1,1,0,5,28,1,Non-Fiction Story Books
+2,1,1,0,5,29,1,Drama Story Books
+2,1,1,0,5,26,2,"Horror Story Books, Kindle"
+2,1,1,0,5,27,2,"Science Fiction Story Books, Kindle"
+2,1,1,0,5,28,2,"Non-Fiction Story Books, Kindle"
+2,1,1,0,5,29,2,"Drama Story Books, Kindle"
+2,1,0,0,3,20,0,"Classical Music Book, Tambourine"
+2,1,0,0,3,21,0,"Western Music Book, Harmonica"
+2,1,0,0,3,22,0,"Earphone, Melody Music Book"
+2,1,0,0,3,20,1,"Metronome, Sitar"
+2,1,0,0,3,21,1,"Guitar, Violin"
+2,1,0,0,3,22,1,"Portable Speaker, Wireless Earphone"
+2,1,0,0,3,20,2,"Harmonium, Veena"
+2,1,0,0,3,21,2,"Grand Piano, Drum Set"
+2,1,0,0,3,22,2,"DJ Mixer, Launchpad"
+2,1,0,0,4,23,0,"Dough Whisk, Apron"
+2,1,0,0,4,24,0,"Knife Set, Cutting Board"
+2,1,0,0,4,25,0,"Cooking Book, Apron"
+2,1,0,0,4,23,1,Baking Accessories
+2,1,0,0,4,24,1,"Meat Grinder, Fish Scaler"
+2,1,0,0,4,25,1,"Toaster, Coffee Maker"
+2,1,0,0,4,23,2,Microwave Oven
+2,1,0,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+2,1,0,0,4,25,2,"Blender, Air Fryer"
+2,1,0,0,5,26,0,Horror Story Books
+2,1,0,0,5,27,0,Science Fiction Story Books
+2,1,0,0,5,28,0,Non-Fiction Story Books
+2,1,0,0,5,29,0,Drama Story Books
+2,1,0,0,5,26,1,Horror Story Books
+2,1,0,0,5,27,1,Science Fiction Story Books
+2,1,0,0,5,28,1,Non-Fiction Story Books
+2,1,0,0,5,29,1,Drama Story Books
+2,1,0,0,5,26,2,"Horror Story Books, Kindle"
+2,1,0,0,5,27,2,"Science Fiction Story Books, Kindle"
+2,1,0,0,5,28,2,"Non-Fiction Story Books, Kindle"
+2,1,0,0,5,29,2,"Drama Story Books, Kindle"
+2,1,1,1,3,20,0,"Classical Music Book, Tambourine"
+2,1,1,1,3,21,0,"Western Music Book, Harmonica"
+2,1,1,1,3,22,0,"Earphone, Melody Music Book"
+2,1,1,1,3,20,1,"Metronome, Sitar"
+2,1,1,1,3,21,1,"Guitar, Violin"
+2,1,1,1,3,22,1,"Portable Speaker, Wireless Earphone"
+2,1,1,1,3,20,2,"Harmonium, Veena"
+2,1,1,1,3,21,2,"Grand Piano, Drum Set"
+2,1,1,1,3,22,2,"DJ Mixer, Launchpad"
+2,1,1,1,4,23,0,"Dough Whisk, Apron"
+2,1,1,1,4,24,0,"Knife Set, Cutting Board"
+2,1,1,1,4,25,0,"Cooking Book, Apron"
+2,1,1,1,4,23,1,Baking Accessories
+2,1,1,1,4,24,1,"Meat Grinder, Fish Scaler"
+2,1,1,1,4,25,1,"Toaster, Coffee Maker"
+2,1,1,1,4,23,2,Microwave Oven
+2,1,1,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+2,1,1,1,4,25,2,"Blender, Air Fryer"
+2,1,1,1,5,26,0,Horror Story Books
+2,1,1,1,5,27,0,Science Fiction Story Books
+2,1,1,1,5,28,0,Non-Fiction Story Books
+2,1,1,1,5,29,0,Drama Story Books
+2,1,1,1,5,26,1,Horror Story Books
+2,1,1,1,5,27,1,Science Fiction Story Books
+2,1,1,1,5,28,1,Non-Fiction Story Books
+2,1,1,1,5,29,1,Drama Story Books
+2,1,1,1,5,26,2,"Horror Story Books, Kindle"
+2,1,1,1,5,27,2,"Science Fiction Story Books, Kindle"
+2,1,1,1,5,28,2,"Non-Fiction Story Books, Kindle"
+2,1,1,1,5,29,2,"Drama Story Books, Kindle"
+2,1,0,1,3,20,0,"Classical Music Book, Tambourine"
+2,1,0,1,3,21,0,"Western Music Book, Harmonica"
+2,1,0,1,3,22,0,"Earphone, Melody Music Book"
+2,1,0,1,3,20,1,"Metronome, Sitar"
+2,1,0,1,3,21,1,"Guitar, Violin"
+2,1,0,1,3,22,1,"Portable Speaker, Wireless Earphone"
+2,1,0,1,3,20,2,"Harmonium, Veena"
+2,1,0,1,3,21,2,"Grand Piano, Drum Set"
+2,1,0,1,3,22,2,"DJ Mixer, Launchpad"
+2,1,0,1,4,23,0,"Dough Whisk, Apron"
+2,1,0,1,4,24,0,"Knife Set, Cutting Board"
+2,1,0,1,4,25,0,"Cooking Book, Apron"
+2,1,0,1,4,23,1,Baking Accessories
+2,1,0,1,4,24,1,"Meat Grinder, Fish Scaler"
+2,1,0,1,4,25,1,"Toaster, Coffee Maker"
+2,1,0,1,4,23,2,Microwave Oven
+2,1,0,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+2,1,0,1,4,25,2,"Blender, Air Fryer"
+2,1,0,1,5,26,0,Horror Story Books
+2,1,0,1,5,27,0,Science Fiction Story Books
+2,1,0,1,5,28,0,Non-Fiction Story Books
+2,1,0,1,5,29,0,Drama Story Books
+2,1,0,1,5,26,1,Horror Story Books
+2,1,0,1,5,27,1,Science Fiction Story Books
+2,1,0,1,5,28,1,Non-Fiction Story Books
+2,1,0,1,5,29,1,Drama Story Books
+2,1,0,1,5,26,2,"Horror Story Books, Kindle"
+2,1,0,1,5,27,2,"Science Fiction Story Books, Kindle"
+2,1,0,1,5,28,2,"Non-Fiction Story Books, Kindle"
+2,1,0,1,5,29,2,"Drama Story Books, Kindle"
+3,0,1,0,0,0,0,"Football, Football Player Poster"
+3,0,1,0,0,1,0,"Basketball, BasketBall Player Poster"
+3,0,1,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+3,0,1,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+3,0,1,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+3,0,1,0,0,5,0,"Running Shoes, Headband"
+3,0,1,0,0,6,0,"Tennis Racket, Headband"
+3,0,1,0,0,7,0,"Chess Board, Board Game"
+3,0,1,0,0,8,0,"Volleyball, Waterbottle"
+3,0,1,0,0,9,0,"Boxing Gloves, Boxer Poster"
+3,0,1,0,0,10,0,"Skates, Headband"
+3,0,1,0,0,11,0,"Rugby Ball, Sports Towel"
+3,0,1,0,0,13,0,Fishing Accessories
+3,0,1,0,0,12,0,"Cycling Accessories, Waterbottle"
+3,0,1,0,0,0,1,"Football Shoes, Football"
+3,0,1,0,0,1,1,Basketball Shoes
+3,0,1,0,0,2,1,Hockey Shoes
+3,0,1,0,0,3,1,"Cricket Shoes, Cricket Bat"
+3,0,1,0,0,4,1,"Badminton Shoes, Badminton Racket"
+3,0,1,0,0,5,1,"Fitness Watch, Treadmill"
+3,0,1,0,0,6,1,"Tennis Racket, Tennis Shoes"
+3,0,1,0,0,7,1,"Carrom Board, Board Game"
+3,0,1,0,0,8,1,Volleyball Shoes
+3,0,1,0,0,9,1,Boxing Shoes
+3,0,1,0,0,10,1,"Skates, Fitness Watch"
+3,0,1,0,0,11,1,Rugby Accessories
+3,0,1,0,0,13,1,"Fishing Rod, Fishing Chair"
+3,0,1,0,0,12,1,Cycling Accessories
+3,0,1,0,0,0,2,Football Accessories
+3,0,1,0,0,1,2,Basketball Accessories
+3,0,1,0,0,2,2,Hockey Accessories
+3,0,1,0,0,3,2,Cricket Accessories
+3,0,1,0,0,4,2,Cricket Accessories
+3,0,1,0,0,5,2,"Fitness Watch, Treadmill"
+3,0,1,0,0,6,2,Tennis Accessories
+3,0,1,0,0,7,2,Cue Sports Accessories
+3,0,1,0,0,8,2,Volleyball Accessories
+3,0,1,0,0,9,2,Boxing Accessories
+3,0,1,0,0,10,2,Skating Accessories
+3,0,1,0,0,11,2,Rugby Accessories
+3,0,1,0,0,13,2,"Fishing Boat, Fishing Accessories"
+3,0,1,0,0,12,2,"Cycle, Cycling Accessories"
+3,1,1,0,0,0,0,"Football, Football Player Poster"
+3,1,1,0,0,1,0,"Basketball, BasketBall Player Poster"
+3,1,1,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+3,1,1,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+3,1,1,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+3,1,1,0,0,5,0,"Running Shoes, Headband"
+3,1,1,0,0,6,0,"Tennis Racket, Headband"
+3,1,1,0,0,7,0,"Chess Board, Board Game"
+3,1,1,0,0,8,0,"Volleyball, Waterbottle"
+3,1,1,0,0,9,0,"Boxing Gloves, Boxer Poster"
+3,1,1,0,0,10,0,"Skates, Headband"
+3,1,1,0,0,11,0,"Rugby Ball, Sports Towel"
+3,1,1,0,0,13,0,Fishing Accessories
+3,1,1,0,0,12,0,"Cycling Accessories, Waterbottle"
+3,1,1,0,0,0,1,"Football Shoes, Football"
+3,1,1,0,0,1,1,Basketball Shoes
+3,1,1,0,0,2,1,Hockey Shoes
+3,1,1,0,0,3,1,"Cricket Shoes, Cricket Bat"
+3,1,1,0,0,4,1,"Badminton Shoes, Badminton Racket"
+3,1,1,0,0,5,1,"Fitness Watch, Treadmill"
+3,1,1,0,0,6,1,"Tennis Racket, Tennis Shoes"
+3,1,1,0,0,7,1,"Carrom Board, Board Game"
+3,1,1,0,0,8,1,Volleyball Shoes
+3,1,1,0,0,9,1,Boxing Shoes
+3,1,1,0,0,10,1,"Skates, Fitness Watch"
+3,1,1,0,0,11,1,Rugby Accessories
+3,1,1,0,0,13,1,"Fishing Rod, Fishing Chair"
+3,1,1,0,0,12,1,Cycling Accessories
+3,1,1,0,0,0,2,Football Accessories
+3,1,1,0,0,1,2,Basketball Accessories
+3,1,1,0,0,2,2,Hockey Accessories
+3,1,1,0,0,3,2,Cricket Accessories
+3,1,1,0,0,4,2,Cricket Accessories
+3,1,1,0,0,5,2,"Fitness Watch, Treadmill"
+3,1,1,0,0,6,2,Tennis Accessories
+3,1,1,0,0,7,2,Cue Sports Accessories
+3,1,1,0,0,8,2,Volleyball Accessories
+3,1,1,0,0,9,2,Boxing Accessories
+3,1,1,0,0,10,2,Skating Accessories
+3,1,1,0,0,11,2,Rugby Accessories
+3,1,1,0,0,13,2,"Fishing Boat, Fishing Accessories"
+3,1,1,0,0,12,2,"Cycle, Cycling Accessories"
+3,0,0,0,0,0,0,"Football, Football Player Poster"
+3,0,0,0,0,1,0,"Basketball, BasketBall Player Poster"
+3,0,0,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+3,0,0,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+3,0,0,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+3,0,0,0,0,5,0,"Running Shoes, Headband"
+3,0,0,0,0,6,0,"Tennis Racket, Headband"
+3,0,0,0,0,7,0,"Chess Board, Board Game"
+3,0,0,0,0,8,0,"Volleyball, Waterbottle"
+3,0,0,0,0,9,0,"Boxing Gloves, Boxer Poster"
+3,0,0,0,0,10,0,"Skates, Headband"
+3,0,0,0,0,11,0,"Rugby Ball, Sports Towel"
+3,0,0,0,0,13,0,Fishing Accessories
+3,0,0,0,0,12,0,"Cycling Accessories, Waterbottle"
+3,0,0,0,0,0,1,"Football Shoes, Football"
+3,0,0,0,0,1,1,Basketball Shoes
+3,0,0,0,0,2,1,Hockey Shoes
+3,0,0,0,0,3,1,"Cricket Shoes, Cricket Bat"
+3,0,0,0,0,4,1,"Badminton Shoes, Badminton Racket"
+3,0,0,0,0,5,1,"Fitness Watch, Treadmill"
+3,0,0,0,0,6,1,"Tennis Racket, Tennis Shoes"
+3,0,0,0,0,7,1,"Carrom Board, Board Game"
+3,0,0,0,0,8,1,Volleyball Shoes
+3,0,0,0,0,9,1,Boxing Shoes
+3,0,0,0,0,10,1,"Skates, Fitness Watch"
+3,0,0,0,0,11,1,Rugby Accessories
+3,0,0,0,0,13,1,"Fishing Rod, Fishing Chair"
+3,0,0,0,0,12,1,Cycling Accessories
+3,0,0,0,0,0,2,Football Accessories
+3,0,0,0,0,1,2,Basketball Accessories
+3,0,0,0,0,2,2,Hockey Accessories
+3,0,0,0,0,3,2,Cricket Accessories
+3,0,0,0,0,4,2,Cricket Accessories
+3,0,0,0,0,5,2,"Fitness Watch, Treadmill"
+3,0,0,0,0,6,2,Tennis Accessories
+3,0,0,0,0,7,2,Cue Sports Accessories
+3,0,0,0,0,8,2,Volleyball Accessories
+3,0,0,0,0,9,2,Boxing Accessories
+3,0,0,0,0,10,2,Skating Accessories
+3,0,0,0,0,11,2,Rugby Accessories
+3,0,0,0,0,13,2,"Fishing Boat, Fishing Accessories"
+3,0,0,0,0,12,2,"Cycle, Cycling Accessories"
+3,1,0,0,0,0,0,"Football, Football Player Poster"
+3,1,0,0,0,1,0,"Basketball, BasketBall Player Poster"
+3,1,0,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+3,1,0,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+3,1,0,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+3,1,0,0,0,5,0,"Running Shoes, Headband"
+3,1,0,0,0,6,0,"Tennis Racket, Headband"
+3,1,0,0,0,7,0,"Chess Board, Board Game"
+3,1,0,0,0,8,0,"Volleyball, Waterbottle"
+3,1,0,0,0,9,0,"Boxing Gloves, Boxer Poster"
+3,1,0,0,0,10,0,"Skates, Headband"
+3,1,0,0,0,11,0,"Rugby Ball, Sports Towel"
+3,1,0,0,0,13,0,Fishing Accessories
+3,1,0,0,0,12,0,"Cycling Accessories, Waterbottle"
+3,1,0,0,0,0,1,"Football Shoes, Football"
+3,1,0,0,0,1,1,Basketball Shoes
+3,1,0,0,0,2,1,Hockey Shoes
+3,1,0,0,0,3,1,"Cricket Shoes, Cricket Bat"
+3,1,0,0,0,4,1,"Badminton Shoes, Badminton Racket"
+3,1,0,0,0,5,1,"Fitness Watch, Treadmill"
+3,1,0,0,0,6,1,"Tennis Racket, Tennis Shoes"
+3,1,0,0,0,7,1,"Carrom Board, Board Game"
+3,1,0,0,0,8,1,Volleyball Shoes
+3,1,0,0,0,9,1,Boxing Shoes
+3,1,0,0,0,10,1,"Skates, Fitness Watch"
+3,1,0,0,0,11,1,Rugby Accessories
+3,1,0,0,0,13,1,"Fishing Rod, Fishing Chair"
+3,1,0,0,0,12,1,Cycling Accessories
+3,1,0,0,0,0,2,Football Accessories
+3,1,0,0,0,1,2,Basketball Accessories
+3,1,0,0,0,2,2,Hockey Accessories
+3,1,0,0,0,3,2,Cricket Accessories
+3,1,0,0,0,4,2,Cricket Accessories
+3,1,0,0,0,5,2,"Fitness Watch, Treadmill"
+3,1,0,0,0,6,2,Tennis Accessories
+3,1,0,0,0,7,2,Cue Sports Accessories
+3,1,0,0,0,8,2,Volleyball Accessories
+3,1,0,0,0,9,2,Boxing Accessories
+3,1,0,0,0,10,2,Skating Accessories
+3,1,0,0,0,11,2,Rugby Accessories
+3,1,0,0,0,13,2,"Fishing Boat, Fishing Accessories"
+3,1,0,0,0,12,2,"Cycle, Cycling Accessories"
+3,0,1,1,0,0,0,"Football, Football Player Poster"
+3,0,1,1,0,1,0,"Basketball, BasketBall Player Poster"
+3,0,1,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+3,0,1,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+3,0,1,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+3,0,1,1,0,5,0,"Running Shoes, Headband"
+3,0,1,1,0,6,0,"Tennis Racket, Headband"
+3,0,1,1,0,7,0,"Chess Board, Board Game"
+3,0,1,1,0,8,0,"Volleyball, Waterbottle"
+3,0,1,1,0,9,0,"Boxing Gloves, Boxer Poster"
+3,0,1,1,0,10,0,"Skates, Headband"
+3,0,1,1,0,11,0,"Rugby Ball, Sports Towel"
+3,0,1,1,0,13,0,Fishing Accessories
+3,0,1,1,0,12,0,"Cycling Accessories, Waterbottle"
+3,0,1,1,0,0,1,"Football Shoes, Football"
+3,0,1,1,0,1,1,Basketball Shoes
+3,0,1,1,0,2,1,Hockey Shoes
+3,0,1,1,0,3,1,"Cricket Shoes, Cricket Bat"
+3,0,1,1,0,4,1,"Badminton Shoes, Badminton Racket"
+3,0,1,1,0,5,1,"Fitness Watch, Treadmill"
+3,0,1,1,0,6,1,"Tennis Racket, Tennis Shoes"
+3,0,1,1,0,7,1,"Carrom Board, Board Game"
+3,0,1,1,0,8,1,Volleyball Shoes
+3,0,1,1,0,9,1,Boxing Shoes
+3,0,1,1,0,10,1,"Skates, Fitness Watch"
+3,0,1,1,0,11,1,Rugby Accessories
+3,0,1,1,0,13,1,"Fishing Rod, Fishing Chair"
+3,0,1,1,0,12,1,Cycling Accessories
+3,0,1,1,0,0,2,Football Accessories
+3,0,1,1,0,1,2,Basketball Accessories
+3,0,1,1,0,2,2,Hockey Accessories
+3,0,1,1,0,3,2,Cricket Accessories
+3,0,1,1,0,4,2,Cricket Accessories
+3,0,1,1,0,5,2,"Fitness Watch, Treadmill"
+3,0,1,1,0,6,2,Tennis Accessories
+3,0,1,1,0,7,2,Cue Sports Accessories
+3,0,1,1,0,8,2,Volleyball Accessories
+3,0,1,1,0,9,2,Boxing Accessories
+3,0,1,1,0,10,2,Skating Accessories
+3,0,1,1,0,11,2,Rugby Accessories
+3,0,1,1,0,13,2,"Fishing Boat, Fishing Accessories"
+3,0,1,1,0,12,2,"Cycle, Cycling Accessories"
+3,1,1,1,0,0,0,"Football, Football Player Poster"
+3,1,1,1,0,1,0,"Basketball, BasketBall Player Poster"
+3,1,1,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+3,1,1,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+3,1,1,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+3,1,1,1,0,5,0,"Running Shoes, Headband"
+3,1,1,1,0,6,0,"Tennis Racket, Headband"
+3,1,1,1,0,7,0,"Chess Board, Board Game"
+3,1,1,1,0,8,0,"Volleyball, Waterbottle"
+3,1,1,1,0,9,0,"Boxing Gloves, Boxer Poster"
+3,1,1,1,0,10,0,"Skates, Headband"
+3,1,1,1,0,11,0,"Rugby Ball, Sports Towel"
+3,1,1,1,0,13,0,Fishing Accessories
+3,1,1,1,0,12,0,"Cycling Accessories, Waterbottle"
+3,1,1,1,0,0,1,"Football Shoes, Football"
+3,1,1,1,0,1,1,Basketball Shoes
+3,1,1,1,0,2,1,Hockey Shoes
+3,1,1,1,0,3,1,"Cricket Shoes, Cricket Bat"
+3,1,1,1,0,4,1,"Badminton Shoes, Badminton Racket"
+3,1,1,1,0,5,1,"Fitness Watch, Treadmill"
+3,1,1,1,0,6,1,"Tennis Racket, Tennis Shoes"
+3,1,1,1,0,7,1,"Carrom Board, Board Game"
+3,1,1,1,0,8,1,Volleyball Shoes
+3,1,1,1,0,9,1,Boxing Shoes
+3,1,1,1,0,10,1,"Skates, Fitness Watch"
+3,1,1,1,0,11,1,Rugby Accessories
+3,1,1,1,0,13,1,"Fishing Rod, Fishing Chair"
+3,1,1,1,0,12,1,Cycling Accessories
+3,1,1,1,0,0,2,Football Accessories
+3,1,1,1,0,1,2,Basketball Accessories
+3,1,1,1,0,2,2,Hockey Accessories
+3,1,1,1,0,3,2,Cricket Accessories
+3,1,1,1,0,4,2,Cricket Accessories
+3,1,1,1,0,5,2,"Fitness Watch, Treadmill"
+3,1,1,1,0,6,2,Tennis Accessories
+3,1,1,1,0,7,2,Cue Sports Accessories
+3,1,1,1,0,8,2,Volleyball Accessories
+3,1,1,1,0,9,2,Boxing Accessories
+3,1,1,1,0,10,2,Skating Accessories
+3,1,1,1,0,11,2,Rugby Accessories
+3,1,1,1,0,13,2,"Fishing Boat, Fishing Accessories"
+3,1,1,1,0,12,2,"Cycle, Cycling Accessories"
+3,0,0,1,0,0,0,"Football, Football Player Poster"
+3,0,0,1,0,1,0,"Basketball, BasketBall Player Poster"
+3,0,0,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+3,0,0,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+3,0,0,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+3,0,0,1,0,5,0,"Running Shoes, Headband"
+3,0,0,1,0,6,0,"Tennis Racket, Headband"
+3,0,0,1,0,7,0,"Chess Board, Board Game"
+3,0,0,1,0,8,0,"Volleyball, Waterbottle"
+3,0,0,1,0,9,0,"Boxing Gloves, Boxer Poster"
+3,0,0,1,0,10,0,"Skates, Headband"
+3,0,0,1,0,11,0,"Rugby Ball, Sports Towel"
+3,0,0,1,0,13,0,Fishing Accessories
+3,0,0,1,0,12,0,"Cycling Accessories, Waterbottle"
+3,0,0,1,0,0,1,"Football Shoes, Football"
+3,0,0,1,0,1,1,Basketball Shoes
+3,0,0,1,0,2,1,Hockey Shoes
+3,0,0,1,0,3,1,"Cricket Shoes, Cricket Bat"
+3,0,0,1,0,4,1,"Badminton Shoes, Badminton Racket"
+3,0,0,1,0,5,1,"Fitness Watch, Treadmill"
+3,0,0,1,0,6,1,"Tennis Racket, Tennis Shoes"
+3,0,0,1,0,7,1,"Carrom Board, Board Game"
+3,0,0,1,0,8,1,Volleyball Shoes
+3,0,0,1,0,9,1,Boxing Shoes
+3,0,0,1,0,10,1,"Skates, Fitness Watch"
+3,0,0,1,0,11,1,Rugby Accessories
+3,0,0,1,0,13,1,"Fishing Rod, Fishing Chair"
+3,0,0,1,0,12,1,Cycling Accessories
+3,0,0,1,0,0,2,Football Accessories
+3,0,0,1,0,1,2,Basketball Accessories
+3,0,0,1,0,2,2,Hockey Accessories
+3,0,0,1,0,3,2,Cricket Accessories
+3,0,0,1,0,4,2,Cricket Accessories
+3,0,0,1,0,5,2,"Fitness Watch, Treadmill"
+3,0,0,1,0,6,2,Tennis Accessories
+3,0,0,1,0,7,2,Cue Sports Accessories
+3,0,0,1,0,8,2,Volleyball Accessories
+3,0,0,1,0,9,2,Boxing Accessories
+3,0,0,1,0,10,2,Skating Accessories
+3,0,0,1,0,11,2,Rugby Accessories
+3,0,0,1,0,13,2,"Fishing Boat, Fishing Accessories"
+3,0,0,1,0,12,2,"Cycle, Cycling Accessories"
+3,1,0,1,0,0,0,"Football, Football Player Poster"
+3,1,0,1,0,1,0,"Basketball, BasketBall Player Poster"
+3,1,0,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+3,1,0,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+3,1,0,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+3,1,0,1,0,5,0,"Running Shoes, Headband"
+3,1,0,1,0,6,0,"Tennis Racket, Headband"
+3,1,0,1,0,7,0,"Chess Board, Board Game"
+3,1,0,1,0,8,0,"Volleyball, Waterbottle"
+3,1,0,1,0,9,0,"Boxing Gloves, Boxer Poster"
+3,1,0,1,0,10,0,"Skates, Headband"
+3,1,0,1,0,11,0,"Rugby Ball, Sports Towel"
+3,1,0,1,0,13,0,Fishing Accessories
+3,1,0,1,0,12,0,"Cycling Accessories, Waterbottle"
+3,1,0,1,0,0,1,"Football Shoes, Football"
+3,1,0,1,0,1,1,Basketball Shoes
+3,1,0,1,0,2,1,Hockey Shoes
+3,1,0,1,0,3,1,"Cricket Shoes, Cricket Bat"
+3,1,0,1,0,4,1,"Badminton Shoes, Badminton Racket"
+3,1,0,1,0,5,1,"Fitness Watch, Treadmill"
+3,1,0,1,0,6,1,"Tennis Racket, Tennis Shoes"
+3,1,0,1,0,7,1,"Carrom Board, Board Game"
+3,1,0,1,0,8,1,Volleyball Shoes
+3,1,0,1,0,9,1,Boxing Shoes
+3,1,0,1,0,10,1,"Skates, Fitness Watch"
+3,1,0,1,0,11,1,Rugby Accessories
+3,1,0,1,0,13,1,"Fishing Rod, Fishing Chair"
+3,1,0,1,0,12,1,Cycling Accessories
+3,1,0,1,0,0,2,Football Accessories
+3,1,0,1,0,1,2,Basketball Accessories
+3,1,0,1,0,2,2,Hockey Accessories
+3,1,0,1,0,3,2,Cricket Accessories
+3,1,0,1,0,4,2,Cricket Accessories
+3,1,0,1,0,5,2,"Fitness Watch, Treadmill"
+3,1,0,1,0,6,2,Tennis Accessories
+3,1,0,1,0,7,2,Cue Sports Accessories
+3,1,0,1,0,8,2,Volleyball Accessories
+3,1,0,1,0,9,2,Boxing Accessories
+3,1,0,1,0,10,2,Skating Accessories
+3,1,0,1,0,11,2,Rugby Accessories
+3,1,0,1,0,13,2,"Fishing Boat, Fishing Accessories"
+3,1,0,1,0,12,2,"Cycle, Cycling Accessories"
+3,0,1,0,1,14,0,"Oil Paint, Acrylic Paint"
+3,0,1,0,1,15,0,"Spray Paint, Respirator Mask"
+3,0,1,0,1,16,0,Doodle Accessories
+3,0,1,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+3,0,1,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+3,0,1,0,1,16,1,Doodle Accessories
+3,0,1,0,1,14,2,"Painting Chest, Easel"
+3,0,1,0,1,15,2,Spray Paint Accessories
+3,0,1,0,1,16,2,Graphic Tablet
+3,1,1,0,1,14,0,"Oil Paint, Acrylic Paint"
+3,1,1,0,1,15,0,"Spray Paint, Respirator Mask"
+3,1,1,0,1,16,0,Doodle Accessories
+3,1,1,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+3,1,1,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+3,1,1,0,1,16,1,Doodle Accessories
+3,1,1,0,1,14,2,"Painting Chest, Easel"
+3,1,1,0,1,15,2,Spray Paint Accessories
+3,1,1,0,1,16,2,Graphic Tablet
+3,0,0,0,1,14,0,"Oil Paint, Acrylic Paint"
+3,0,0,0,1,15,0,"Spray Paint, Respirator Mask"
+3,0,0,0,1,16,0,Doodle Accessories
+3,0,0,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+3,0,0,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+3,0,0,0,1,16,1,Doodle Accessories
+3,0,0,0,1,14,2,"Painting Chest, Easel"
+3,0,0,0,1,15,2,Spray Paint Accessories
+3,0,0,0,1,16,2,Graphic Tablet
+3,1,0,0,1,14,0,"Oil Paint, Acrylic Paint"
+3,1,0,0,1,15,0,"Spray Paint, Respirator Mask"
+3,1,0,0,1,16,0,Doodle Accessories
+3,1,0,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+3,1,0,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+3,1,0,0,1,16,1,Doodle Accessories
+3,1,0,0,1,14,2,"Painting Chest, Easel"
+3,1,0,0,1,15,2,Spray Paint Accessories
+3,1,0,0,1,16,2,Graphic Tablet
+3,0,1,1,1,14,0,"Oil Paint, Acrylic Paint"
+3,0,1,1,1,15,0,"Spray Paint, Respirator Mask"
+3,0,1,1,1,16,0,Doodle Accessories
+3,0,1,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+3,0,1,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+3,0,1,1,1,16,1,Doodle Accessories
+3,0,1,1,1,14,2,"Painting Chest, Easel"
+3,0,1,1,1,15,2,Spray Paint Accessories
+3,0,1,1,1,16,2,Graphic Tablet
+3,1,1,1,1,14,0,"Oil Paint, Acrylic Paint"
+3,1,1,1,1,15,0,"Spray Paint, Respirator Mask"
+3,1,1,1,1,16,0,Doodle Accessories
+3,1,1,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+3,1,1,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+3,1,1,1,1,16,1,Doodle Accessories
+3,1,1,1,1,14,2,"Painting Chest, Easel"
+3,1,1,1,1,15,2,Spray Paint Accessories
+3,1,1,1,1,16,2,Graphic Tablet
+3,0,0,1,1,14,0,"Oil Paint, Acrylic Paint"
+3,0,0,1,1,15,0,"Spray Paint, Respirator Mask"
+3,0,0,1,1,16,0,Doodle Accessories
+3,0,0,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+3,0,0,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+3,0,0,1,1,16,1,Doodle Accessories
+3,0,0,1,1,14,2,"Painting Chest, Easel"
+3,0,0,1,1,15,2,Spray Paint Accessories
+3,0,0,1,1,16,2,Graphic Tablet
+3,1,0,1,1,14,0,"Oil Paint, Acrylic Paint"
+3,1,0,1,1,15,0,"Spray Paint, Respirator Mask"
+3,1,0,1,1,16,0,Doodle Accessories
+3,1,0,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+3,1,0,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+3,1,0,1,1,16,1,Doodle Accessories
+3,1,0,1,1,14,2,"Painting Chest, Easel"
+3,1,0,1,1,15,2,Spray Paint Accessories
+3,1,0,1,1,16,2,Graphic Tablet
+3,0,1,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+3,0,1,0,2,18,0,Gaming Accessories
+3,0,1,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+3,0,1,0,2,17,1,"Portable SSD, Gaming Chair"
+3,0,1,0,2,18,1,"Gaming Chair, Wireless Controller"
+3,0,1,0,2,19,1,"Gaming Chair, Powerbank"
+3,0,1,0,2,17,2,"Gaming Laptop, Graphics Card"
+3,0,1,0,2,18,2,"Audio Sunglasses, Gaming Console"
+3,0,1,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+3,1,1,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+3,1,1,0,2,18,0,Gaming Accessories
+3,1,1,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+3,1,1,0,2,17,1,"Portable SSD, Gaming Chair"
+3,1,1,0,2,18,1,"Gaming Chair, Wireless Controller"
+3,1,1,0,2,19,1,"Gaming Chair, Powerbank"
+3,1,1,0,2,17,2,"Gaming Laptop, Graphics Card"
+3,1,1,0,2,18,2,"Audio Sunglasses, Gaming Console"
+3,1,1,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+3,0,0,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+3,0,0,0,2,18,0,Gaming Accessories
+3,0,0,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+3,0,0,0,2,17,1,"Portable SSD, Gaming Chair"
+3,0,0,0,2,18,1,"Gaming Chair, Wireless Controller"
+3,0,0,0,2,19,1,"Gaming Chair, Powerbank"
+3,0,0,0,2,17,2,"Gaming Laptop, Graphics Card"
+3,0,0,0,2,18,2,"Audio Sunglasses, Gaming Console"
+3,0,0,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+3,1,0,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+3,1,0,0,2,18,0,Gaming Accessories
+3,1,0,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+3,1,0,0,2,17,1,"Portable SSD, Gaming Chair"
+3,1,0,0,2,18,1,"Gaming Chair, Wireless Controller"
+3,1,0,0,2,19,1,"Gaming Chair, Powerbank"
+3,1,0,0,2,17,2,"Gaming Laptop, Graphics Card"
+3,1,0,0,2,18,2,"Audio Sunglasses, Gaming Console"
+3,1,0,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+3,0,1,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+3,0,1,1,2,18,0,Gaming Accessories
+3,0,1,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+3,0,1,1,2,17,1,"Portable SSD, Gaming Chair"
+3,0,1,1,2,18,1,"Gaming Chair, Wireless Controller"
+3,0,1,1,2,19,1,"Gaming Chair, Powerbank"
+3,0,1,1,2,17,2,"Gaming Laptop, Graphics Card"
+3,0,1,1,2,18,2,"Audio Sunglasses, Gaming Console"
+3,0,1,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+3,1,1,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+3,1,1,1,2,18,0,Gaming Accessories
+3,1,1,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+3,1,1,1,2,17,1,"Portable SSD, Gaming Chair"
+3,1,1,1,2,18,1,"Gaming Chair, Wireless Controller"
+3,1,1,1,2,19,1,"Gaming Chair, Powerbank"
+3,1,1,1,2,17,2,"Gaming Laptop, Graphics Card"
+3,1,1,1,2,18,2,"Audio Sunglasses, Gaming Console"
+3,1,1,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+3,0,0,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+3,0,0,1,2,18,0,Gaming Accessories
+3,0,0,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+3,0,0,1,2,17,1,"Portable SSD, Gaming Chair"
+3,0,0,1,2,18,1,"Gaming Chair, Wireless Controller"
+3,0,0,1,2,19,1,"Gaming Chair, Powerbank"
+3,0,0,1,2,17,2,"Gaming Laptop, Graphics Card"
+3,0,0,1,2,18,2,"Audio Sunglasses, Gaming Console"
+3,0,0,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+3,1,0,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+3,1,0,1,2,18,0,Gaming Accessories
+3,1,0,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+3,1,0,1,2,17,1,"Portable SSD, Gaming Chair"
+3,1,0,1,2,18,1,"Gaming Chair, Wireless Controller"
+3,1,0,1,2,19,1,"Gaming Chair, Powerbank"
+3,1,0,1,2,17,2,"Gaming Laptop, Graphics Card"
+3,1,0,1,2,18,2,"Audio Sunglasses, Gaming Console"
+3,1,0,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+3,0,1,0,3,20,0,"Classical Music Book, Tambourine"
+3,0,1,0,3,21,0,"Western Music Book, Harmonica"
+3,0,1,0,3,22,0,"Earphone, Melody Music Book"
+3,0,1,0,3,20,1,"Metronome, Sitar"
+3,0,1,0,3,21,1,"Guitar, Violin"
+3,0,1,0,3,22,1,"Portable Speaker, Wireless Earphone"
+3,0,1,0,3,20,2,"Harmonium, Veena"
+3,0,1,0,3,21,2,"Grand Piano, Drum Set"
+3,0,1,0,3,22,2,"DJ Mixer, Launchpad"
+3,0,1,0,4,23,0,"Dough Whisk, Apron"
+3,0,1,0,4,24,0,"Knife Set, Cutting Board"
+3,0,1,0,4,25,0,"Cooking Book, Apron"
+3,0,1,0,4,23,1,Baking Accessories
+3,0,1,0,4,24,1,"Meat Grinder, Fish Scaler"
+3,0,1,0,4,25,1,"Toaster, Coffee Maker"
+3,0,1,0,4,23,2,Microwave Oven
+3,0,1,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+3,0,1,0,4,25,2,"Blender, Air Fryer"
+3,0,1,0,5,26,0,Horror Story Books
+3,0,1,0,5,27,0,Science Fiction Story Books
+3,0,1,0,5,28,0,Non-Fiction Story Books
+3,0,1,0,5,29,0,Drama Story Books
+3,0,1,0,5,26,1,Horror Story Books
+3,0,1,0,5,27,1,Science Fiction Story Books
+3,0,1,0,5,28,1,Non-Fiction Story Books
+3,0,1,0,5,29,1,Drama Story Books
+3,0,1,0,5,26,2,"Horror Story Books, Kindle"
+3,0,1,0,5,27,2,"Science Fiction Story Books, Kindle"
+3,0,1,0,5,28,2,"Non-Fiction Story Books, Kindle"
+3,0,1,0,5,29,2,"Drama Story Books, Kindle"
+3,0,0,0,3,20,0,"Classical Music Book, Tambourine"
+3,0,0,0,3,21,0,"Western Music Book, Harmonica"
+3,0,0,0,3,22,0,"Earphone, Melody Music Book"
+3,0,0,0,3,20,1,"Metronome, Sitar"
+3,0,0,0,3,21,1,"Guitar, Violin"
+3,0,0,0,3,22,1,"Portable Speaker, Wireless Earphone"
+3,0,0,0,3,20,2,"Harmonium, Veena"
+3,0,0,0,3,21,2,"Grand Piano, Drum Set"
+3,0,0,0,3,22,2,"DJ Mixer, Launchpad"
+3,0,0,0,4,23,0,"Dough Whisk, Apron"
+3,0,0,0,4,24,0,"Knife Set, Cutting Board"
+3,0,0,0,4,25,0,"Cooking Book, Apron"
+3,0,0,0,4,23,1,Baking Accessories
+3,0,0,0,4,24,1,"Meat Grinder, Fish Scaler"
+3,0,0,0,4,25,1,"Toaster, Coffee Maker"
+3,0,0,0,4,23,2,Microwave Oven
+3,0,0,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+3,0,0,0,4,25,2,"Blender, Air Fryer"
+3,0,0,0,5,26,0,Horror Story Books
+3,0,0,0,5,27,0,Science Fiction Story Books
+3,0,0,0,5,28,0,Non-Fiction Story Books
+3,0,0,0,5,29,0,Drama Story Books
+3,0,0,0,5,26,1,Horror Story Books
+3,0,0,0,5,27,1,Science Fiction Story Books
+3,0,0,0,5,28,1,Non-Fiction Story Books
+3,0,0,0,5,29,1,Drama Story Books
+3,0,0,0,5,26,2,"Horror Story Books, Kindle"
+3,0,0,0,5,27,2,"Science Fiction Story Books, Kindle"
+3,0,0,0,5,28,2,"Non-Fiction Story Books, Kindle"
+3,0,0,0,5,29,2,"Drama Story Books, Kindle"
+3,0,1,1,3,20,0,"Classical Music Book, Tambourine"
+3,0,1,1,3,21,0,"Western Music Book, Harmonica"
+3,0,1,1,3,22,0,"Earphone, Melody Music Book"
+3,0,1,1,3,20,1,"Metronome, Sitar"
+3,0,1,1,3,21,1,"Guitar, Violin"
+3,0,1,1,3,22,1,"Portable Speaker, Wireless Earphone"
+3,0,1,1,3,20,2,"Harmonium, Veena"
+3,0,1,1,3,21,2,"Grand Piano, Drum Set"
+3,0,1,1,3,22,2,"DJ Mixer, Launchpad"
+3,0,1,1,4,23,0,"Dough Whisk, Apron"
+3,0,1,1,4,24,0,"Knife Set, Cutting Board"
+3,0,1,1,4,25,0,"Cooking Book, Apron"
+3,0,1,1,4,23,1,Baking Accessories
+3,0,1,1,4,24,1,"Meat Grinder, Fish Scaler"
+3,0,1,1,4,25,1,"Toaster, Coffee Maker"
+3,0,1,1,4,23,2,Microwave Oven
+3,0,1,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+3,0,1,1,4,25,2,"Blender, Air Fryer"
+3,0,1,1,5,26,0,Horror Story Books
+3,0,1,1,5,27,0,Science Fiction Story Books
+3,0,1,1,5,28,0,Non-Fiction Story Books
+3,0,1,1,5,29,0,Drama Story Books
+3,0,1,1,5,26,1,Horror Story Books
+3,0,1,1,5,27,1,Science Fiction Story Books
+3,0,1,1,5,28,1,Non-Fiction Story Books
+3,0,1,1,5,29,1,Drama Story Books
+3,0,1,1,5,26,2,"Horror Story Books, Kindle"
+3,0,1,1,5,27,2,"Science Fiction Story Books, Kindle"
+3,0,1,1,5,28,2,"Non-Fiction Story Books, Kindle"
+3,0,1,1,5,29,2,"Drama Story Books, Kindle"
+3,0,0,1,3,20,0,"Classical Music Book, Tambourine"
+3,0,0,1,3,21,0,"Western Music Book, Harmonica"
+3,0,0,1,3,22,0,"Earphone, Melody Music Book"
+3,0,0,1,3,20,1,"Metronome, Sitar"
+3,0,0,1,3,21,1,"Guitar, Violin"
+3,0,0,1,3,22,1,"Portable Speaker, Wireless Earphone"
+3,0,0,1,3,20,2,"Harmonium, Veena"
+3,0,0,1,3,21,2,"Grand Piano, Drum Set"
+3,0,0,1,3,22,2,"DJ Mixer, Launchpad"
+3,0,0,1,4,23,0,"Dough Whisk, Apron"
+3,0,0,1,4,24,0,"Knife Set, Cutting Board"
+3,0,0,1,4,25,0,"Cooking Book, Apron"
+3,0,0,1,4,23,1,Baking Accessories
+3,0,0,1,4,24,1,"Meat Grinder, Fish Scaler"
+3,0,0,1,4,25,1,"Toaster, Coffee Maker"
+3,0,0,1,4,23,2,Microwave Oven
+3,0,0,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+3,0,0,1,4,25,2,"Blender, Air Fryer"
+3,0,0,1,5,26,0,Horror Story Books
+3,0,0,1,5,27,0,Science Fiction Story Books
+3,0,0,1,5,28,0,Non-Fiction Story Books
+3,0,0,1,5,29,0,Drama Story Books
+3,0,0,1,5,26,1,Horror Story Books
+3,0,0,1,5,27,1,Science Fiction Story Books
+3,0,0,1,5,28,1,Non-Fiction Story Books
+3,0,0,1,5,29,1,Drama Story Books
+3,0,0,1,5,26,2,"Horror Story Books, Kindle"
+3,0,0,1,5,27,2,"Science Fiction Story Books, Kindle"
+3,0,0,1,5,28,2,"Non-Fiction Story Books, Kindle"
+3,0,0,1,5,29,2,"Drama Story Books, Kindle"
+3,1,1,0,3,20,0,"Classical Music Book, Tambourine"
+3,1,1,0,3,21,0,"Western Music Book, Harmonica"
+3,1,1,0,3,22,0,"Earphone, Melody Music Book"
+3,1,1,0,3,20,1,"Metronome, Sitar"
+3,1,1,0,3,21,1,"Guitar, Violin"
+3,1,1,0,3,22,1,"Portable Speaker, Wireless Earphone"
+3,1,1,0,3,20,2,"Harmonium, Veena"
+3,1,1,0,3,21,2,"Grand Piano, Drum Set"
+3,1,1,0,3,22,2,"DJ Mixer, Launchpad"
+3,1,1,0,4,23,0,"Dough Whisk, Apron"
+3,1,1,0,4,24,0,"Knife Set, Cutting Board"
+3,1,1,0,4,25,0,"Cooking Book, Apron"
+3,1,1,0,4,23,1,Baking Accessories
+3,1,1,0,4,24,1,"Meat Grinder, Fish Scaler"
+3,1,1,0,4,25,1,"Toaster, Coffee Maker"
+3,1,1,0,4,23,2,Microwave Oven
+3,1,1,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+3,1,1,0,4,25,2,"Blender, Air Fryer"
+3,1,1,0,5,26,0,Horror Story Books
+3,1,1,0,5,27,0,Science Fiction Story Books
+3,1,1,0,5,28,0,Non-Fiction Story Books
+3,1,1,0,5,29,0,Drama Story Books
+3,1,1,0,5,26,1,Horror Story Books
+3,1,1,0,5,27,1,Science Fiction Story Books
+3,1,1,0,5,28,1,Non-Fiction Story Books
+3,1,1,0,5,29,1,Drama Story Books
+3,1,1,0,5,26,2,"Horror Story Books, Kindle"
+3,1,1,0,5,27,2,"Science Fiction Story Books, Kindle"
+3,1,1,0,5,28,2,"Non-Fiction Story Books, Kindle"
+3,1,1,0,5,29,2,"Drama Story Books, Kindle"
+3,1,0,0,3,20,0,"Classical Music Book, Tambourine"
+3,1,0,0,3,21,0,"Western Music Book, Harmonica"
+3,1,0,0,3,22,0,"Earphone, Melody Music Book"
+3,1,0,0,3,20,1,"Metronome, Sitar"
+3,1,0,0,3,21,1,"Guitar, Violin"
+3,1,0,0,3,22,1,"Portable Speaker, Wireless Earphone"
+3,1,0,0,3,20,2,"Harmonium, Veena"
+3,1,0,0,3,21,2,"Grand Piano, Drum Set"
+3,1,0,0,3,22,2,"DJ Mixer, Launchpad"
+3,1,0,0,4,23,0,"Dough Whisk, Apron"
+3,1,0,0,4,24,0,"Knife Set, Cutting Board"
+3,1,0,0,4,25,0,"Cooking Book, Apron"
+3,1,0,0,4,23,1,Baking Accessories
+3,1,0,0,4,24,1,"Meat Grinder, Fish Scaler"
+3,1,0,0,4,25,1,"Toaster, Coffee Maker"
+3,1,0,0,4,23,2,Microwave Oven
+3,1,0,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+3,1,0,0,4,25,2,"Blender, Air Fryer"
+3,1,0,0,5,26,0,Horror Story Books
+3,1,0,0,5,27,0,Science Fiction Story Books
+3,1,0,0,5,28,0,Non-Fiction Story Books
+3,1,0,0,5,29,0,Drama Story Books
+3,1,0,0,5,26,1,Horror Story Books
+3,1,0,0,5,27,1,Science Fiction Story Books
+3,1,0,0,5,28,1,Non-Fiction Story Books
+3,1,0,0,5,29,1,Drama Story Books
+3,1,0,0,5,26,2,"Horror Story Books, Kindle"
+3,1,0,0,5,27,2,"Science Fiction Story Books, Kindle"
+3,1,0,0,5,28,2,"Non-Fiction Story Books, Kindle"
+3,1,0,0,5,29,2,"Drama Story Books, Kindle"
+3,1,1,1,3,20,0,"Classical Music Book, Tambourine"
+3,1,1,1,3,21,0,"Western Music Book, Harmonica"
+3,1,1,1,3,22,0,"Earphone, Melody Music Book"
+3,1,1,1,3,20,1,"Metronome, Sitar"
+3,1,1,1,3,21,1,"Guitar, Violin"
+3,1,1,1,3,22,1,"Portable Speaker, Wireless Earphone"
+3,1,1,1,3,20,2,"Harmonium, Veena"
+3,1,1,1,3,21,2,"Grand Piano, Drum Set"
+3,1,1,1,3,22,2,"DJ Mixer, Launchpad"
+3,1,1,1,4,23,0,"Dough Whisk, Apron"
+3,1,1,1,4,24,0,"Knife Set, Cutting Board"
+3,1,1,1,4,25,0,"Cooking Book, Apron"
+3,1,1,1,4,23,1,Baking Accessories
+3,1,1,1,4,24,1,"Meat Grinder, Fish Scaler"
+3,1,1,1,4,25,1,"Toaster, Coffee Maker"
+3,1,1,1,4,23,2,Microwave Oven
+3,1,1,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+3,1,1,1,4,25,2,"Blender, Air Fryer"
+3,1,1,1,5,26,0,Horror Story Books
+3,1,1,1,5,27,0,Science Fiction Story Books
+3,1,1,1,5,28,0,Non-Fiction Story Books
+3,1,1,1,5,29,0,Drama Story Books
+3,1,1,1,5,26,1,Horror Story Books
+3,1,1,1,5,27,1,Science Fiction Story Books
+3,1,1,1,5,28,1,Non-Fiction Story Books
+3,1,1,1,5,29,1,Drama Story Books
+3,1,1,1,5,26,2,"Horror Story Books, Kindle"
+3,1,1,1,5,27,2,"Science Fiction Story Books, Kindle"
+3,1,1,1,5,28,2,"Non-Fiction Story Books, Kindle"
+3,1,1,1,5,29,2,"Drama Story Books, Kindle"
+3,1,0,1,3,20,0,"Classical Music Book, Tambourine"
+3,1,0,1,3,21,0,"Western Music Book, Harmonica"
+3,1,0,1,3,22,0,"Earphone, Melody Music Book"
+3,1,0,1,3,20,1,"Metronome, Sitar"
+3,1,0,1,3,21,1,"Guitar, Violin"
+3,1,0,1,3,22,1,"Portable Speaker, Wireless Earphone"
+3,1,0,1,3,20,2,"Harmonium, Veena"
+3,1,0,1,3,21,2,"Grand Piano, Drum Set"
+3,1,0,1,3,22,2,"DJ Mixer, Launchpad"
+3,1,0,1,4,23,0,"Dough Whisk, Apron"
+3,1,0,1,4,24,0,"Knife Set, Cutting Board"
+3,1,0,1,4,25,0,"Cooking Book, Apron"
+3,1,0,1,4,23,1,Baking Accessories
+3,1,0,1,4,24,1,"Meat Grinder, Fish Scaler"
+3,1,0,1,4,25,1,"Toaster, Coffee Maker"
+3,1,0,1,4,23,2,Microwave Oven
+3,1,0,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+3,1,0,1,4,25,2,"Blender, Air Fryer"
+3,1,0,1,5,26,0,Horror Story Books
+3,1,0,1,5,27,0,Science Fiction Story Books
+3,1,0,1,5,28,0,Non-Fiction Story Books
+3,1,0,1,5,29,0,Drama Story Books
+3,1,0,1,5,26,1,Horror Story Books
+3,1,0,1,5,27,1,Science Fiction Story Books
+3,1,0,1,5,28,1,Non-Fiction Story Books
+3,1,0,1,5,29,1,Drama Story Books
+3,1,0,1,5,26,2,"Horror Story Books, Kindle"
+3,1,0,1,5,27,2,"Science Fiction Story Books, Kindle"
+3,1,0,1,5,28,2,"Non-Fiction Story Books, Kindle"
+3,1,0,1,5,29,2,"Drama Story Books, Kindle"
+4,0,1,0,0,0,0,"Football, Football Player Poster"
+4,0,1,0,0,1,0,"Basketball, BasketBall Player Poster"
+4,0,1,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+4,0,1,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+4,0,1,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+4,0,1,0,0,5,0,"Running Shoes, Headband"
+4,0,1,0,0,6,0,"Tennis Racket, Headband"
+4,0,1,0,0,7,0,"Chess Board, Board Game"
+4,0,1,0,0,8,0,"Volleyball, Waterbottle"
+4,0,1,0,0,9,0,"Boxing Gloves, Boxer Poster"
+4,0,1,0,0,10,0,"Skates, Headband"
+4,0,1,0,0,11,0,"Rugby Ball, Sports Towel"
+4,0,1,0,0,13,0,Fishing Accessories
+4,0,1,0,0,12,0,"Cycling Accessories, Waterbottle"
+4,0,1,0,0,0,1,"Football Shoes, Football"
+4,0,1,0,0,1,1,Basketball Shoes
+4,0,1,0,0,2,1,Hockey Shoes
+4,0,1,0,0,3,1,"Cricket Shoes, Cricket Bat"
+4,0,1,0,0,4,1,"Badminton Shoes, Badminton Racket"
+4,0,1,0,0,5,1,"Fitness Watch, Treadmill"
+4,0,1,0,0,6,1,"Tennis Racket, Tennis Shoes"
+4,0,1,0,0,7,1,"Carrom Board, Board Game"
+4,0,1,0,0,8,1,Volleyball Shoes
+4,0,1,0,0,9,1,Boxing Shoes
+4,0,1,0,0,10,1,"Skates, Fitness Watch"
+4,0,1,0,0,11,1,Rugby Accessories
+4,0,1,0,0,13,1,"Fishing Rod, Fishing Chair"
+4,0,1,0,0,12,1,Cycling Accessories
+4,0,1,0,0,0,2,Football Accessories
+4,0,1,0,0,1,2,Basketball Accessories
+4,0,1,0,0,2,2,Hockey Accessories
+4,0,1,0,0,3,2,Cricket Accessories
+4,0,1,0,0,4,2,Cricket Accessories
+4,0,1,0,0,5,2,"Fitness Watch, Treadmill"
+4,0,1,0,0,6,2,Tennis Accessories
+4,0,1,0,0,7,2,Cue Sports Accessories
+4,0,1,0,0,8,2,Volleyball Accessories
+4,0,1,0,0,9,2,Boxing Accessories
+4,0,1,0,0,10,2,Skating Accessories
+4,0,1,0,0,11,2,Rugby Accessories
+4,0,1,0,0,13,2,"Fishing Boat, Fishing Accessories"
+4,0,1,0,0,12,2,"Cycle, Cycling Accessories"
+4,1,1,0,0,0,0,"Football, Football Player Poster"
+4,1,1,0,0,1,0,"Basketball, BasketBall Player Poster"
+4,1,1,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+4,1,1,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+4,1,1,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+4,1,1,0,0,5,0,"Running Shoes, Headband"
+4,1,1,0,0,6,0,"Tennis Racket, Headband"
+4,1,1,0,0,7,0,"Chess Board, Board Game"
+4,1,1,0,0,8,0,"Volleyball, Waterbottle"
+4,1,1,0,0,9,0,"Boxing Gloves, Boxer Poster"
+4,1,1,0,0,10,0,"Skates, Headband"
+4,1,1,0,0,11,0,"Rugby Ball, Sports Towel"
+4,1,1,0,0,13,0,Fishing Accessories
+4,1,1,0,0,12,0,"Cycling Accessories, Waterbottle"
+4,1,1,0,0,0,1,"Football Shoes, Football"
+4,1,1,0,0,1,1,Basketball Shoes
+4,1,1,0,0,2,1,Hockey Shoes
+4,1,1,0,0,3,1,"Cricket Shoes, Cricket Bat"
+4,1,1,0,0,4,1,"Badminton Shoes, Badminton Racket"
+4,1,1,0,0,5,1,"Fitness Watch, Treadmill"
+4,1,1,0,0,6,1,"Tennis Racket, Tennis Shoes"
+4,1,1,0,0,7,1,"Carrom Board, Board Game"
+4,1,1,0,0,8,1,Volleyball Shoes
+4,1,1,0,0,9,1,Boxing Shoes
+4,1,1,0,0,10,1,"Skates, Fitness Watch"
+4,1,1,0,0,11,1,Rugby Accessories
+4,1,1,0,0,13,1,"Fishing Rod, Fishing Chair"
+4,1,1,0,0,12,1,Cycling Accessories
+4,1,1,0,0,0,2,Football Accessories
+4,1,1,0,0,1,2,Basketball Accessories
+4,1,1,0,0,2,2,Hockey Accessories
+4,1,1,0,0,3,2,Cricket Accessories
+4,1,1,0,0,4,2,Cricket Accessories
+4,1,1,0,0,5,2,"Fitness Watch, Treadmill"
+4,1,1,0,0,6,2,Tennis Accessories
+4,1,1,0,0,7,2,Cue Sports Accessories
+4,1,1,0,0,8,2,Volleyball Accessories
+4,1,1,0,0,9,2,Boxing Accessories
+4,1,1,0,0,10,2,Skating Accessories
+4,1,1,0,0,11,2,Rugby Accessories
+4,1,1,0,0,13,2,"Fishing Boat, Fishing Accessories"
+4,1,1,0,0,12,2,"Cycle, Cycling Accessories"
+4,0,0,0,0,0,0,"Football, Football Player Poster"
+4,0,0,0,0,1,0,"Basketball, BasketBall Player Poster"
+4,0,0,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+4,0,0,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+4,0,0,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+4,0,0,0,0,5,0,"Running Shoes, Headband"
+4,0,0,0,0,6,0,"Tennis Racket, Headband"
+4,0,0,0,0,7,0,"Chess Board, Board Game"
+4,0,0,0,0,8,0,"Volleyball, Waterbottle"
+4,0,0,0,0,9,0,"Boxing Gloves, Boxer Poster"
+4,0,0,0,0,10,0,"Skates, Headband"
+4,0,0,0,0,11,0,"Rugby Ball, Sports Towel"
+4,0,0,0,0,13,0,Fishing Accessories
+4,0,0,0,0,12,0,"Cycling Accessories, Waterbottle"
+4,0,0,0,0,0,1,"Football Shoes, Football"
+4,0,0,0,0,1,1,Basketball Shoes
+4,0,0,0,0,2,1,Hockey Shoes
+4,0,0,0,0,3,1,"Cricket Shoes, Cricket Bat"
+4,0,0,0,0,4,1,"Badminton Shoes, Badminton Racket"
+4,0,0,0,0,5,1,"Fitness Watch, Treadmill"
+4,0,0,0,0,6,1,"Tennis Racket, Tennis Shoes"
+4,0,0,0,0,7,1,"Carrom Board, Board Game"
+4,0,0,0,0,8,1,Volleyball Shoes
+4,0,0,0,0,9,1,Boxing Shoes
+4,0,0,0,0,10,1,"Skates, Fitness Watch"
+4,0,0,0,0,11,1,Rugby Accessories
+4,0,0,0,0,13,1,"Fishing Rod, Fishing Chair"
+4,0,0,0,0,12,1,Cycling Accessories
+4,0,0,0,0,0,2,Football Accessories
+4,0,0,0,0,1,2,Basketball Accessories
+4,0,0,0,0,2,2,Hockey Accessories
+4,0,0,0,0,3,2,Cricket Accessories
+4,0,0,0,0,4,2,Cricket Accessories
+4,0,0,0,0,5,2,"Fitness Watch, Treadmill"
+4,0,0,0,0,6,2,Tennis Accessories
+4,0,0,0,0,7,2,Cue Sports Accessories
+4,0,0,0,0,8,2,Volleyball Accessories
+4,0,0,0,0,9,2,Boxing Accessories
+4,0,0,0,0,10,2,Skating Accessories
+4,0,0,0,0,11,2,Rugby Accessories
+4,0,0,0,0,13,2,"Fishing Boat, Fishing Accessories"
+4,0,0,0,0,12,2,"Cycle, Cycling Accessories"
+4,1,0,0,0,0,0,"Football, Football Player Poster"
+4,1,0,0,0,1,0,"Basketball, BasketBall Player Poster"
+4,1,0,0,0,2,0,"Hockey Stick, Hockey Player Poster"
+4,1,0,0,0,3,0,"Cricket Bat, Cricket Player Poster"
+4,1,0,0,0,4,0,"Badminton Racket, Shuttle Cocks"
+4,1,0,0,0,5,0,"Running Shoes, Headband"
+4,1,0,0,0,6,0,"Tennis Racket, Headband"
+4,1,0,0,0,7,0,"Chess Board, Board Game"
+4,1,0,0,0,8,0,"Volleyball, Waterbottle"
+4,1,0,0,0,9,0,"Boxing Gloves, Boxer Poster"
+4,1,0,0,0,10,0,"Skates, Headband"
+4,1,0,0,0,11,0,"Rugby Ball, Sports Towel"
+4,1,0,0,0,13,0,Fishing Accessories
+4,1,0,0,0,12,0,"Cycling Accessories, Waterbottle"
+4,1,0,0,0,0,1,"Football Shoes, Football"
+4,1,0,0,0,1,1,Basketball Shoes
+4,1,0,0,0,2,1,Hockey Shoes
+4,1,0,0,0,3,1,"Cricket Shoes, Cricket Bat"
+4,1,0,0,0,4,1,"Badminton Shoes, Badminton Racket"
+4,1,0,0,0,5,1,"Fitness Watch, Treadmill"
+4,1,0,0,0,6,1,"Tennis Racket, Tennis Shoes"
+4,1,0,0,0,7,1,"Carrom Board, Board Game"
+4,1,0,0,0,8,1,Volleyball Shoes
+4,1,0,0,0,9,1,Boxing Shoes
+4,1,0,0,0,10,1,"Skates, Fitness Watch"
+4,1,0,0,0,11,1,Rugby Accessories
+4,1,0,0,0,13,1,"Fishing Rod, Fishing Chair"
+4,1,0,0,0,12,1,Cycling Accessories
+4,1,0,0,0,0,2,Football Accessories
+4,1,0,0,0,1,2,Basketball Accessories
+4,1,0,0,0,2,2,Hockey Accessories
+4,1,0,0,0,3,2,Cricket Accessories
+4,1,0,0,0,4,2,Cricket Accessories
+4,1,0,0,0,5,2,"Fitness Watch, Treadmill"
+4,1,0,0,0,6,2,Tennis Accessories
+4,1,0,0,0,7,2,Cue Sports Accessories
+4,1,0,0,0,8,2,Volleyball Accessories
+4,1,0,0,0,9,2,Boxing Accessories
+4,1,0,0,0,10,2,Skating Accessories
+4,1,0,0,0,11,2,Rugby Accessories
+4,1,0,0,0,13,2,"Fishing Boat, Fishing Accessories"
+4,1,0,0,0,12,2,"Cycle, Cycling Accessories"
+4,0,1,1,0,0,0,"Football, Football Player Poster"
+4,0,1,1,0,1,0,"Basketball, BasketBall Player Poster"
+4,0,1,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+4,0,1,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+4,0,1,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+4,0,1,1,0,5,0,"Running Shoes, Headband"
+4,0,1,1,0,6,0,"Tennis Racket, Headband"
+4,0,1,1,0,7,0,"Chess Board, Board Game"
+4,0,1,1,0,8,0,"Volleyball, Waterbottle"
+4,0,1,1,0,9,0,"Boxing Gloves, Boxer Poster"
+4,0,1,1,0,10,0,"Skates, Headband"
+4,0,1,1,0,11,0,"Rugby Ball, Sports Towel"
+4,0,1,1,0,13,0,Fishing Accessories
+4,0,1,1,0,12,0,"Cycling Accessories, Waterbottle"
+4,0,1,1,0,0,1,"Football Shoes, Football"
+4,0,1,1,0,1,1,Basketball Shoes
+4,0,1,1,0,2,1,Hockey Shoes
+4,0,1,1,0,3,1,"Cricket Shoes, Cricket Bat"
+4,0,1,1,0,4,1,"Badminton Shoes, Badminton Racket"
+4,0,1,1,0,5,1,"Fitness Watch, Treadmill"
+4,0,1,1,0,6,1,"Tennis Racket, Tennis Shoes"
+4,0,1,1,0,7,1,"Carrom Board, Board Game"
+4,0,1,1,0,8,1,Volleyball Shoes
+4,0,1,1,0,9,1,Boxing Shoes
+4,0,1,1,0,10,1,"Skates, Fitness Watch"
+4,0,1,1,0,11,1,Rugby Accessories
+4,0,1,1,0,13,1,"Fishing Rod, Fishing Chair"
+4,0,1,1,0,12,1,Cycling Accessories
+4,0,1,1,0,0,2,Football Accessories
+4,0,1,1,0,1,2,Basketball Accessories
+4,0,1,1,0,2,2,Hockey Accessories
+4,0,1,1,0,3,2,Cricket Accessories
+4,0,1,1,0,4,2,Cricket Accessories
+4,0,1,1,0,5,2,"Fitness Watch, Treadmill"
+4,0,1,1,0,6,2,Tennis Accessories
+4,0,1,1,0,7,2,Cue Sports Accessories
+4,0,1,1,0,8,2,Volleyball Accessories
+4,0,1,1,0,9,2,Boxing Accessories
+4,0,1,1,0,10,2,Skating Accessories
+4,0,1,1,0,11,2,Rugby Accessories
+4,0,1,1,0,13,2,"Fishing Boat, Fishing Accessories"
+4,0,1,1,0,12,2,"Cycle, Cycling Accessories"
+4,1,1,1,0,0,0,"Football, Football Player Poster"
+4,1,1,1,0,1,0,"Basketball, BasketBall Player Poster"
+4,1,1,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+4,1,1,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+4,1,1,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+4,1,1,1,0,5,0,"Running Shoes, Headband"
+4,1,1,1,0,6,0,"Tennis Racket, Headband"
+4,1,1,1,0,7,0,"Chess Board, Board Game"
+4,1,1,1,0,8,0,"Volleyball, Waterbottle"
+4,1,1,1,0,9,0,"Boxing Gloves, Boxer Poster"
+4,1,1,1,0,10,0,"Skates, Headband"
+4,1,1,1,0,11,0,"Rugby Ball, Sports Towel"
+4,1,1,1,0,13,0,Fishing Accessories
+4,1,1,1,0,12,0,"Cycling Accessories, Waterbottle"
+4,1,1,1,0,0,1,"Football Shoes, Football"
+4,1,1,1,0,1,1,Basketball Shoes
+4,1,1,1,0,2,1,Hockey Shoes
+4,1,1,1,0,3,1,"Cricket Shoes, Cricket Bat"
+4,1,1,1,0,4,1,"Badminton Shoes, Badminton Racket"
+4,1,1,1,0,5,1,"Fitness Watch, Treadmill"
+4,1,1,1,0,6,1,"Tennis Racket, Tennis Shoes"
+4,1,1,1,0,7,1,"Carrom Board, Board Game"
+4,1,1,1,0,8,1,Volleyball Shoes
+4,1,1,1,0,9,1,Boxing Shoes
+4,1,1,1,0,10,1,"Skates, Fitness Watch"
+4,1,1,1,0,11,1,Rugby Accessories
+4,1,1,1,0,13,1,"Fishing Rod, Fishing Chair"
+4,1,1,1,0,12,1,Cycling Accessories
+4,1,1,1,0,0,2,Football Accessories
+4,1,1,1,0,1,2,Basketball Accessories
+4,1,1,1,0,2,2,Hockey Accessories
+4,1,1,1,0,3,2,Cricket Accessories
+4,1,1,1,0,4,2,Cricket Accessories
+4,1,1,1,0,5,2,"Fitness Watch, Treadmill"
+4,1,1,1,0,6,2,Tennis Accessories
+4,1,1,1,0,7,2,Cue Sports Accessories
+4,1,1,1,0,8,2,Volleyball Accessories
+4,1,1,1,0,9,2,Boxing Accessories
+4,1,1,1,0,10,2,Skating Accessories
+4,1,1,1,0,11,2,Rugby Accessories
+4,1,1,1,0,13,2,"Fishing Boat, Fishing Accessories"
+4,1,1,1,0,12,2,"Cycle, Cycling Accessories"
+4,0,0,1,0,0,0,"Football, Football Player Poster"
+4,0,0,1,0,1,0,"Basketball, BasketBall Player Poster"
+4,0,0,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+4,0,0,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+4,0,0,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+4,0,0,1,0,5,0,"Running Shoes, Headband"
+4,0,0,1,0,6,0,"Tennis Racket, Headband"
+4,0,0,1,0,7,0,"Chess Board, Board Game"
+4,0,0,1,0,8,0,"Volleyball, Waterbottle"
+4,0,0,1,0,9,0,"Boxing Gloves, Boxer Poster"
+4,0,0,1,0,10,0,"Skates, Headband"
+4,0,0,1,0,11,0,"Rugby Ball, Sports Towel"
+4,0,0,1,0,13,0,Fishing Accessories
+4,0,0,1,0,12,0,"Cycling Accessories, Waterbottle"
+4,0,0,1,0,0,1,"Football Shoes, Football"
+4,0,0,1,0,1,1,Basketball Shoes
+4,0,0,1,0,2,1,Hockey Shoes
+4,0,0,1,0,3,1,"Cricket Shoes, Cricket Bat"
+4,0,0,1,0,4,1,"Badminton Shoes, Badminton Racket"
+4,0,0,1,0,5,1,"Fitness Watch, Treadmill"
+4,0,0,1,0,6,1,"Tennis Racket, Tennis Shoes"
+4,0,0,1,0,7,1,"Carrom Board, Board Game"
+4,0,0,1,0,8,1,Volleyball Shoes
+4,0,0,1,0,9,1,Boxing Shoes
+4,0,0,1,0,10,1,"Skates, Fitness Watch"
+4,0,0,1,0,11,1,Rugby Accessories
+4,0,0,1,0,13,1,"Fishing Rod, Fishing Chair"
+4,0,0,1,0,12,1,Cycling Accessories
+4,0,0,1,0,0,2,Football Accessories
+4,0,0,1,0,1,2,Basketball Accessories
+4,0,0,1,0,2,2,Hockey Accessories
+4,0,0,1,0,3,2,Cricket Accessories
+4,0,0,1,0,4,2,Cricket Accessories
+4,0,0,1,0,5,2,"Fitness Watch, Treadmill"
+4,0,0,1,0,6,2,Tennis Accessories
+4,0,0,1,0,7,2,Cue Sports Accessories
+4,0,0,1,0,8,2,Volleyball Accessories
+4,0,0,1,0,9,2,Boxing Accessories
+4,0,0,1,0,10,2,Skating Accessories
+4,0,0,1,0,11,2,Rugby Accessories
+4,0,0,1,0,13,2,"Fishing Boat, Fishing Accessories"
+4,0,0,1,0,12,2,"Cycle, Cycling Accessories"
+4,1,0,1,0,0,0,"Football, Football Player Poster"
+4,1,0,1,0,1,0,"Basketball, BasketBall Player Poster"
+4,1,0,1,0,2,0,"Hockey Stick, Hockey Player Poster"
+4,1,0,1,0,3,0,"Cricket Bat, Cricket Player Poster"
+4,1,0,1,0,4,0,"Badminton Racket, Shuttle Cocks"
+4,1,0,1,0,5,0,"Running Shoes, Headband"
+4,1,0,1,0,6,0,"Tennis Racket, Headband"
+4,1,0,1,0,7,0,"Chess Board, Board Game"
+4,1,0,1,0,8,0,"Volleyball, Waterbottle"
+4,1,0,1,0,9,0,"Boxing Gloves, Boxer Poster"
+4,1,0,1,0,10,0,"Skates, Headband"
+4,1,0,1,0,11,0,"Rugby Ball, Sports Towel"
+4,1,0,1,0,13,0,Fishing Accessories
+4,1,0,1,0,12,0,"Cycling Accessories, Waterbottle"
+4,1,0,1,0,0,1,"Football Shoes, Football"
+4,1,0,1,0,1,1,Basketball Shoes
+4,1,0,1,0,2,1,Hockey Shoes
+4,1,0,1,0,3,1,"Cricket Shoes, Cricket Bat"
+4,1,0,1,0,4,1,"Badminton Shoes, Badminton Racket"
+4,1,0,1,0,5,1,"Fitness Watch, Treadmill"
+4,1,0,1,0,6,1,"Tennis Racket, Tennis Shoes"
+4,1,0,1,0,7,1,"Carrom Board, Board Game"
+4,1,0,1,0,8,1,Volleyball Shoes
+4,1,0,1,0,9,1,Boxing Shoes
+4,1,0,1,0,10,1,"Skates, Fitness Watch"
+4,1,0,1,0,11,1,Rugby Accessories
+4,1,0,1,0,13,1,"Fishing Rod, Fishing Chair"
+4,1,0,1,0,12,1,Cycling Accessories
+4,1,0,1,0,0,2,Football Accessories
+4,1,0,1,0,1,2,Basketball Accessories
+4,1,0,1,0,2,2,Hockey Accessories
+4,1,0,1,0,3,2,Cricket Accessories
+4,1,0,1,0,4,2,Cricket Accessories
+4,1,0,1,0,5,2,"Fitness Watch, Treadmill"
+4,1,0,1,0,6,2,Tennis Accessories
+4,1,0,1,0,7,2,Cue Sports Accessories
+4,1,0,1,0,8,2,Volleyball Accessories
+4,1,0,1,0,9,2,Boxing Accessories
+4,1,0,1,0,10,2,Skating Accessories
+4,1,0,1,0,11,2,Rugby Accessories
+4,1,0,1,0,13,2,"Fishing Boat, Fishing Accessories"
+4,1,0,1,0,12,2,"Cycle, Cycling Accessories"
+4,0,1,0,1,14,0,"Oil Paint, Acrylic Paint"
+4,0,1,0,1,15,0,"Spray Paint, Respirator Mask"
+4,0,1,0,1,16,0,Doodle Accessories
+4,0,1,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+4,0,1,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+4,0,1,0,1,16,1,Doodle Accessories
+4,0,1,0,1,14,2,"Painting Chest, Easel"
+4,0,1,0,1,15,2,Spray Paint Accessories
+4,0,1,0,1,16,2,Graphic Tablet
+4,1,1,0,1,14,0,"Oil Paint, Acrylic Paint"
+4,1,1,0,1,15,0,"Spray Paint, Respirator Mask"
+4,1,1,0,1,16,0,Doodle Accessories
+4,1,1,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+4,1,1,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+4,1,1,0,1,16,1,Doodle Accessories
+4,1,1,0,1,14,2,"Painting Chest, Easel"
+4,1,1,0,1,15,2,Spray Paint Accessories
+4,1,1,0,1,16,2,Graphic Tablet
+4,0,0,0,1,14,0,"Oil Paint, Acrylic Paint"
+4,0,0,0,1,15,0,"Spray Paint, Respirator Mask"
+4,0,0,0,1,16,0,Doodle Accessories
+4,0,0,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+4,0,0,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+4,0,0,0,1,16,1,Doodle Accessories
+4,0,0,0,1,14,2,"Painting Chest, Easel"
+4,0,0,0,1,15,2,Spray Paint Accessories
+4,0,0,0,1,16,2,Graphic Tablet
+4,1,0,0,1,14,0,"Oil Paint, Acrylic Paint"
+4,1,0,0,1,15,0,"Spray Paint, Respirator Mask"
+4,1,0,0,1,16,0,Doodle Accessories
+4,1,0,0,1,14,1,"Painting Knife Set, Painting Brush Set"
+4,1,0,0,1,15,1,"Spray Paint Gun, Spray Paint Set"
+4,1,0,0,1,16,1,Doodle Accessories
+4,1,0,0,1,14,2,"Painting Chest, Easel"
+4,1,0,0,1,15,2,Spray Paint Accessories
+4,1,0,0,1,16,2,Graphic Tablet
+4,0,1,1,1,14,0,"Oil Paint, Acrylic Paint"
+4,0,1,1,1,15,0,"Spray Paint, Respirator Mask"
+4,0,1,1,1,16,0,Doodle Accessories
+4,0,1,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+4,0,1,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+4,0,1,1,1,16,1,Doodle Accessories
+4,0,1,1,1,14,2,"Painting Chest, Easel"
+4,0,1,1,1,15,2,Spray Paint Accessories
+4,0,1,1,1,16,2,Graphic Tablet
+4,1,1,1,1,14,0,"Oil Paint, Acrylic Paint"
+4,1,1,1,1,15,0,"Spray Paint, Respirator Mask"
+4,1,1,1,1,16,0,Doodle Accessories
+4,1,1,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+4,1,1,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+4,1,1,1,1,16,1,Doodle Accessories
+4,1,1,1,1,14,2,"Painting Chest, Easel"
+4,1,1,1,1,15,2,Spray Paint Accessories
+4,1,1,1,1,16,2,Graphic Tablet
+4,0,0,1,1,14,0,"Oil Paint, Acrylic Paint"
+4,0,0,1,1,15,0,"Spray Paint, Respirator Mask"
+4,0,0,1,1,16,0,Doodle Accessories
+4,0,0,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+4,0,0,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+4,0,0,1,1,16,1,Doodle Accessories
+4,0,0,1,1,14,2,"Painting Chest, Easel"
+4,0,0,1,1,15,2,Spray Paint Accessories
+4,0,0,1,1,16,2,Graphic Tablet
+4,1,0,1,1,14,0,"Oil Paint, Acrylic Paint"
+4,1,0,1,1,15,0,"Spray Paint, Respirator Mask"
+4,1,0,1,1,16,0,Doodle Accessories
+4,1,0,1,1,14,1,"Painting Knife Set, Painting Brush Set"
+4,1,0,1,1,15,1,"Spray Paint Gun, Spray Paint Set"
+4,1,0,1,1,16,1,Doodle Accessories
+4,1,0,1,1,14,2,"Painting Chest, Easel"
+4,1,0,1,1,15,2,Spray Paint Accessories
+4,1,0,1,1,16,2,Graphic Tablet
+4,0,1,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+4,0,1,0,2,18,0,Gaming Accessories
+4,0,1,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+4,0,1,0,2,17,1,"Portable SSD, Gaming Chair"
+4,0,1,0,2,18,1,"Gaming Chair, Wireless Controller"
+4,0,1,0,2,19,1,"Gaming Chair, Powerbank"
+4,0,1,0,2,17,2,"Gaming Laptop, Graphics Card"
+4,0,1,0,2,18,2,"Audio Sunglasses, Gaming Console"
+4,0,1,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+4,1,1,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+4,1,1,0,2,18,0,Gaming Accessories
+4,1,1,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+4,1,1,0,2,17,1,"Portable SSD, Gaming Chair"
+4,1,1,0,2,18,1,"Gaming Chair, Wireless Controller"
+4,1,1,0,2,19,1,"Gaming Chair, Powerbank"
+4,1,1,0,2,17,2,"Gaming Laptop, Graphics Card"
+4,1,1,0,2,18,2,"Audio Sunglasses, Gaming Console"
+4,1,1,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+4,0,0,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+4,0,0,0,2,18,0,Gaming Accessories
+4,0,0,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+4,0,0,0,2,17,1,"Portable SSD, Gaming Chair"
+4,0,0,0,2,18,1,"Gaming Chair, Wireless Controller"
+4,0,0,0,2,19,1,"Gaming Chair, Powerbank"
+4,0,0,0,2,17,2,"Gaming Laptop, Graphics Card"
+4,0,0,0,2,18,2,"Audio Sunglasses, Gaming Console"
+4,0,0,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+4,1,0,0,2,17,0,"Gaming Mouse, Gaming Keyboard"
+4,1,0,0,2,18,0,Gaming Accessories
+4,1,0,0,2,19,0,"Wireless Earphone, Mobile Game Controller"
+4,1,0,0,2,17,1,"Portable SSD, Gaming Chair"
+4,1,0,0,2,18,1,"Gaming Chair, Wireless Controller"
+4,1,0,0,2,19,1,"Gaming Chair, Powerbank"
+4,1,0,0,2,17,2,"Gaming Laptop, Graphics Card"
+4,1,0,0,2,18,2,"Audio Sunglasses, Gaming Console"
+4,1,0,0,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+4,0,1,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+4,0,1,1,2,18,0,Gaming Accessories
+4,0,1,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+4,0,1,1,2,17,1,"Portable SSD, Gaming Chair"
+4,0,1,1,2,18,1,"Gaming Chair, Wireless Controller"
+4,0,1,1,2,19,1,"Gaming Chair, Powerbank"
+4,0,1,1,2,17,2,"Gaming Laptop, Graphics Card"
+4,0,1,1,2,18,2,"Audio Sunglasses, Gaming Console"
+4,0,1,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+4,1,1,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+4,1,1,1,2,18,0,Gaming Accessories
+4,1,1,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+4,1,1,1,2,17,1,"Portable SSD, Gaming Chair"
+4,1,1,1,2,18,1,"Gaming Chair, Wireless Controller"
+4,1,1,1,2,19,1,"Gaming Chair, Powerbank"
+4,1,1,1,2,17,2,"Gaming Laptop, Graphics Card"
+4,1,1,1,2,18,2,"Audio Sunglasses, Gaming Console"
+4,1,1,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+4,0,0,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+4,0,0,1,2,18,0,Gaming Accessories
+4,0,0,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+4,0,0,1,2,17,1,"Portable SSD, Gaming Chair"
+4,0,0,1,2,18,1,"Gaming Chair, Wireless Controller"
+4,0,0,1,2,19,1,"Gaming Chair, Powerbank"
+4,0,0,1,2,17,2,"Gaming Laptop, Graphics Card"
+4,0,0,1,2,18,2,"Audio Sunglasses, Gaming Console"
+4,0,0,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+4,1,0,1,2,17,0,"Gaming Mouse, Gaming Keyboard"
+4,1,0,1,2,18,0,Gaming Accessories
+4,1,0,1,2,19,0,"Wireless Earphone, Mobile Game Controller"
+4,1,0,1,2,17,1,"Portable SSD, Gaming Chair"
+4,1,0,1,2,18,1,"Gaming Chair, Wireless Controller"
+4,1,0,1,2,19,1,"Gaming Chair, Powerbank"
+4,1,0,1,2,17,2,"Gaming Laptop, Graphics Card"
+4,1,0,1,2,18,2,"Audio Sunglasses, Gaming Console"
+4,1,0,1,2,19,2,"Gaming Mobile Phone, Gaming Tablet"
+4,0,1,0,3,20,0,"Classical Music Book, Tambourine"
+4,0,1,0,3,21,0,"Western Music Book, Harmonica"
+4,0,1,0,3,22,0,"Earphone, Melody Music Book"
+4,0,1,0,3,20,1,"Metronome, Sitar"
+4,0,1,0,3,21,1,"Guitar, Violin"
+4,0,1,0,3,22,1,"Portable Speaker, Wireless Earphone"
+4,0,1,0,3,20,2,"Harmonium, Veena"
+4,0,1,0,3,21,2,"Grand Piano, Drum Set"
+4,0,1,0,3,22,2,"DJ Mixer, Launchpad"
+4,0,1,0,4,23,0,"Dough Whisk, Apron"
+4,0,1,0,4,24,0,"Knife Set, Cutting Board"
+4,0,1,0,4,25,0,"Cooking Book, Apron"
+4,0,1,0,4,23,1,Baking Accessories
+4,0,1,0,4,24,1,"Meat Grinder, Fish Scaler"
+4,0,1,0,4,25,1,"Toaster, Coffee Maker"
+4,0,1,0,4,23,2,Microwave Oven
+4,0,1,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+4,0,1,0,4,25,2,"Blender, Air Fryer"
+4,0,1,0,5,26,0,Horror Story Books
+4,0,1,0,5,27,0,Science Fiction Story Books
+4,0,1,0,5,28,0,Non-Fiction Story Books
+4,0,1,0,5,29,0,Drama Story Books
+4,0,1,0,5,26,1,Horror Story Books
+4,0,1,0,5,27,1,Science Fiction Story Books
+4,0,1,0,5,28,1,Non-Fiction Story Books
+4,0,1,0,5,29,1,Drama Story Books
+4,0,1,0,5,26,2,"Horror Story Books, Kindle"
+4,0,1,0,5,27,2,"Science Fiction Story Books, Kindle"
+4,0,1,0,5,28,2,"Non-Fiction Story Books, Kindle"
+4,0,1,0,5,29,2,"Drama Story Books, Kindle"
+4,0,0,0,3,20,0,"Classical Music Book, Tambourine"
+4,0,0,0,3,21,0,"Western Music Book, Harmonica"
+4,0,0,0,3,22,0,"Earphone, Melody Music Book"
+4,0,0,0,3,20,1,"Metronome, Sitar"
+4,0,0,0,3,21,1,"Guitar, Violin"
+4,0,0,0,3,22,1,"Portable Speaker, Wireless Earphone"
+4,0,0,0,3,20,2,"Harmonium, Veena"
+4,0,0,0,3,21,2,"Grand Piano, Drum Set"
+4,0,0,0,3,22,2,"DJ Mixer, Launchpad"
+4,0,0,0,4,23,0,"Dough Whisk, Apron"
+4,0,0,0,4,24,0,"Knife Set, Cutting Board"
+4,0,0,0,4,25,0,"Cooking Book, Apron"
+4,0,0,0,4,23,1,Baking Accessories
+4,0,0,0,4,24,1,"Meat Grinder, Fish Scaler"
+4,0,0,0,4,25,1,"Toaster, Coffee Maker"
+4,0,0,0,4,23,2,Microwave Oven
+4,0,0,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+4,0,0,0,4,25,2,"Blender, Air Fryer"
+4,0,0,0,5,26,0,Horror Story Books
+4,0,0,0,5,27,0,Science Fiction Story Books
+4,0,0,0,5,28,0,Non-Fiction Story Books
+4,0,0,0,5,29,0,Drama Story Books
+4,0,0,0,5,26,1,Horror Story Books
+4,0,0,0,5,27,1,Science Fiction Story Books
+4,0,0,0,5,28,1,Non-Fiction Story Books
+4,0,0,0,5,29,1,Drama Story Books
+4,0,0,0,5,26,2,"Horror Story Books, Kindle"
+4,0,0,0,5,27,2,"Science Fiction Story Books, Kindle"
+4,0,0,0,5,28,2,"Non-Fiction Story Books, Kindle"
+4,0,0,0,5,29,2,"Drama Story Books, Kindle"
+4,0,1,1,3,20,0,"Classical Music Book, Tambourine"
+4,0,1,1,3,21,0,"Western Music Book, Harmonica"
+4,0,1,1,3,22,0,"Earphone, Melody Music Book"
+4,0,1,1,3,20,1,"Metronome, Sitar"
+4,0,1,1,3,21,1,"Guitar, Violin"
+4,0,1,1,3,22,1,"Portable Speaker, Wireless Earphone"
+4,0,1,1,3,20,2,"Harmonium, Veena"
+4,0,1,1,3,21,2,"Grand Piano, Drum Set"
+4,0,1,1,3,22,2,"DJ Mixer, Launchpad"
+4,0,1,1,4,23,0,"Dough Whisk, Apron"
+4,0,1,1,4,24,0,"Knife Set, Cutting Board"
+4,0,1,1,4,25,0,"Cooking Book, Apron"
+4,0,1,1,4,23,1,Baking Accessories
+4,0,1,1,4,24,1,"Meat Grinder, Fish Scaler"
+4,0,1,1,4,25,1,"Toaster, Coffee Maker"
+4,0,1,1,4,23,2,Microwave Oven
+4,0,1,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+4,0,1,1,4,25,2,"Blender, Air Fryer"
+4,0,1,1,5,26,0,Horror Story Books
+4,0,1,1,5,27,0,Science Fiction Story Books
+4,0,1,1,5,28,0,Non-Fiction Story Books
+4,0,1,1,5,29,0,Drama Story Books
+4,0,1,1,5,26,1,Horror Story Books
+4,0,1,1,5,27,1,Science Fiction Story Books
+4,0,1,1,5,28,1,Non-Fiction Story Books
+4,0,1,1,5,29,1,Drama Story Books
+4,0,1,1,5,26,2,"Horror Story Books, Kindle"
+4,0,1,1,5,27,2,"Science Fiction Story Books, Kindle"
+4,0,1,1,5,28,2,"Non-Fiction Story Books, Kindle"
+4,0,1,1,5,29,2,"Drama Story Books, Kindle"
+4,0,0,1,3,20,0,"Classical Music Book, Tambourine"
+4,0,0,1,3,21,0,"Western Music Book, Harmonica"
+4,0,0,1,3,22,0,"Earphone, Melody Music Book"
+4,0,0,1,3,20,1,"Metronome, Sitar"
+4,0,0,1,3,21,1,"Guitar, Violin"
+4,0,0,1,3,22,1,"Portable Speaker, Wireless Earphone"
+4,0,0,1,3,20,2,"Harmonium, Veena"
+4,0,0,1,3,21,2,"Grand Piano, Drum Set"
+4,0,0,1,3,22,2,"DJ Mixer, Launchpad"
+4,0,0,1,4,23,0,"Dough Whisk, Apron"
+4,0,0,1,4,24,0,"Knife Set, Cutting Board"
+4,0,0,1,4,25,0,"Cooking Book, Apron"
+4,0,0,1,4,23,1,Baking Accessories
+4,0,0,1,4,24,1,"Meat Grinder, Fish Scaler"
+4,0,0,1,4,25,1,"Toaster, Coffee Maker"
+4,0,0,1,4,23,2,Microwave Oven
+4,0,0,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+4,0,0,1,4,25,2,"Blender, Air Fryer"
+4,0,0,1,5,26,0,Horror Story Books
+4,0,0,1,5,27,0,Science Fiction Story Books
+4,0,0,1,5,28,0,Non-Fiction Story Books
+4,0,0,1,5,29,0,Drama Story Books
+4,0,0,1,5,26,1,Horror Story Books
+4,0,0,1,5,27,1,Science Fiction Story Books
+4,0,0,1,5,28,1,Non-Fiction Story Books
+4,0,0,1,5,29,1,Drama Story Books
+4,0,0,1,5,26,2,"Horror Story Books, Kindle"
+4,0,0,1,5,27,2,"Science Fiction Story Books, Kindle"
+4,0,0,1,5,28,2,"Non-Fiction Story Books, Kindle"
+4,0,0,1,5,29,2,"Drama Story Books, Kindle"
+4,1,1,0,3,20,0,"Classical Music Book, Tambourine"
+4,1,1,0,3,21,0,"Western Music Book, Harmonica"
+4,1,1,0,3,22,0,"Earphone, Melody Music Book"
+4,1,1,0,3,20,1,"Metronome, Sitar"
+4,1,1,0,3,21,1,"Guitar, Violin"
+4,1,1,0,3,22,1,"Portable Speaker, Wireless Earphone"
+4,1,1,0,3,20,2,"Harmonium, Veena"
+4,1,1,0,3,21,2,"Grand Piano, Drum Set"
+4,1,1,0,3,22,2,"DJ Mixer, Launchpad"
+4,1,1,0,4,23,0,"Dough Whisk, Apron"
+4,1,1,0,4,24,0,"Knife Set, Cutting Board"
+4,1,1,0,4,25,0,"Cooking Book, Apron"
+4,1,1,0,4,23,1,Baking Accessories
+4,1,1,0,4,24,1,"Meat Grinder, Fish Scaler"
+4,1,1,0,4,25,1,"Toaster, Coffee Maker"
+4,1,1,0,4,23,2,Microwave Oven
+4,1,1,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+4,1,1,0,4,25,2,"Blender, Air Fryer"
+4,1,1,0,5,26,0,Horror Story Books
+4,1,1,0,5,27,0,Science Fiction Story Books
+4,1,1,0,5,28,0,Non-Fiction Story Books
+4,1,1,0,5,29,0,Drama Story Books
+4,1,1,0,5,26,1,Horror Story Books
+4,1,1,0,5,27,1,Science Fiction Story Books
+4,1,1,0,5,28,1,Non-Fiction Story Books
+4,1,1,0,5,29,1,Drama Story Books
+4,1,1,0,5,26,2,"Horror Story Books, Kindle"
+4,1,1,0,5,27,2,"Science Fiction Story Books, Kindle"
+4,1,1,0,5,28,2,"Non-Fiction Story Books, Kindle"
+4,1,1,0,5,29,2,"Drama Story Books, Kindle"
+4,1,0,0,3,20,0,"Classical Music Book, Tambourine"
+4,1,0,0,3,21,0,"Western Music Book, Harmonica"
+4,1,0,0,3,22,0,"Earphone, Melody Music Book"
+4,1,0,0,3,20,1,"Metronome, Sitar"
+4,1,0,0,3,21,1,"Guitar, Violin"
+4,1,0,0,3,22,1,"Portable Speaker, Wireless Earphone"
+4,1,0,0,3,20,2,"Harmonium, Veena"
+4,1,0,0,3,21,2,"Grand Piano, Drum Set"
+4,1,0,0,3,22,2,"DJ Mixer, Launchpad"
+4,1,0,0,4,23,0,"Dough Whisk, Apron"
+4,1,0,0,4,24,0,"Knife Set, Cutting Board"
+4,1,0,0,4,25,0,"Cooking Book, Apron"
+4,1,0,0,4,23,1,Baking Accessories
+4,1,0,0,4,24,1,"Meat Grinder, Fish Scaler"
+4,1,0,0,4,25,1,"Toaster, Coffee Maker"
+4,1,0,0,4,23,2,Microwave Oven
+4,1,0,0,4,24,2,"Meat Mincer, Sausage Filling Machine"
+4,1,0,0,4,25,2,"Blender, Air Fryer"
+4,1,0,0,5,26,0,Horror Story Books
+4,1,0,0,5,27,0,Science Fiction Story Books
+4,1,0,0,5,28,0,Non-Fiction Story Books
+4,1,0,0,5,29,0,Drama Story Books
+4,1,0,0,5,26,1,Horror Story Books
+4,1,0,0,5,27,1,Science Fiction Story Books
+4,1,0,0,5,28,1,Non-Fiction Story Books
+4,1,0,0,5,29,1,Drama Story Books
+4,1,0,0,5,26,2,"Horror Story Books, Kindle"
+4,1,0,0,5,27,2,"Science Fiction Story Books, Kindle"
+4,1,0,0,5,28,2,"Non-Fiction Story Books, Kindle"
+4,1,0,0,5,29,2,"Drama Story Books, Kindle"
+4,1,1,1,3,20,0,"Classical Music Book, Tambourine"
+4,1,1,1,3,21,0,"Western Music Book, Harmonica"
+4,1,1,1,3,22,0,"Earphone, Melody Music Book"
+4,1,1,1,3,20,1,"Metronome, Sitar"
+4,1,1,1,3,21,1,"Guitar, Violin"
+4,1,1,1,3,22,1,"Portable Speaker, Wireless Earphone"
+4,1,1,1,3,20,2,"Harmonium, Veena"
+4,1,1,1,3,21,2,"Grand Piano, Drum Set"
+4,1,1,1,3,22,2,"DJ Mixer, Launchpad"
+4,1,1,1,4,23,0,"Dough Whisk, Apron"
+4,1,1,1,4,24,0,"Knife Set, Cutting Board"
+4,1,1,1,4,25,0,"Cooking Book, Apron"
+4,1,1,1,4,23,1,Baking Accessories
+4,1,1,1,4,24,1,"Meat Grinder, Fish Scaler"
+4,1,1,1,4,25,1,"Toaster, Coffee Maker"
+4,1,1,1,4,23,2,Microwave Oven
+4,1,1,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+4,1,1,1,4,25,2,"Blender, Air Fryer"
+4,1,1,1,5,26,0,Horror Story Books
+4,1,1,1,5,27,0,Science Fiction Story Books
+4,1,1,1,5,28,0,Non-Fiction Story Books
+4,1,1,1,5,29,0,Drama Story Books
+4,1,1,1,5,26,1,Horror Story Books
+4,1,1,1,5,27,1,Science Fiction Story Books
+4,1,1,1,5,28,1,Non-Fiction Story Books
+4,1,1,1,5,29,1,Drama Story Books
+4,1,1,1,5,26,2,"Horror Story Books, Kindle"
+4,1,1,1,5,27,2,"Science Fiction Story Books, Kindle"
+4,1,1,1,5,28,2,"Non-Fiction Story Books, Kindle"
+4,1,1,1,5,29,2,"Drama Story Books, Kindle"
+4,1,0,1,3,20,0,"Classical Music Book, Tambourine"
+4,1,0,1,3,21,0,"Western Music Book, Harmonica"
+4,1,0,1,3,22,0,"Earphone, Melody Music Book"
+4,1,0,1,3,20,1,"Metronome, Sitar"
+4,1,0,1,3,21,1,"Guitar, Violin"
+4,1,0,1,3,22,1,"Portable Speaker, Wireless Earphone"
+4,1,0,1,3,20,2,"Harmonium, Veena"
+4,1,0,1,3,21,2,"Grand Piano, Drum Set"
+4,1,0,1,3,22,2,"DJ Mixer, Launchpad"
+4,1,0,1,4,23,0,"Dough Whisk, Apron"
+4,1,0,1,4,24,0,"Knife Set, Cutting Board"
+4,1,0,1,4,25,0,"Cooking Book, Apron"
+4,1,0,1,4,23,1,Baking Accessories
+4,1,0,1,4,24,1,"Meat Grinder, Fish Scaler"
+4,1,0,1,4,25,1,"Toaster, Coffee Maker"
+4,1,0,1,4,23,2,Microwave Oven
+4,1,0,1,4,24,2,"Meat Mincer, Sausage Filling Machine"
+4,1,0,1,4,25,2,"Blender, Air Fryer"
+4,1,0,1,5,26,0,Horror Story Books
+4,1,0,1,5,27,0,Science Fiction Story Books
+4,1,0,1,5,28,0,Non-Fiction Story Books
+4,1,0,1,5,29,0,Drama Story Books
+4,1,0,1,5,26,1,Horror Story Books
+4,1,0,1,5,27,1,Science Fiction Story Books
+4,1,0,1,5,28,1,Non-Fiction Story Books
+4,1,0,1,5,29,1,Drama Story Books
+4,1,0,1,5,26,2,"Horror Story Books, Kindle"
+4,1,0,1,5,27,2,"Science Fiction Story Books, Kindle"
+4,1,0,1,5,28,2,"Non-Fiction Story Books, Kindle"
+4,1,0,1,5,29,2,"Drama Story Books, Kindle"
