@@ -3,7 +3,7 @@ const Link = ({ Icon, text }) => {
   return (
     <div className="link">
       <Icon
-        size={40}
+        size="4vh"
         style={{ marginBottom: '0.6rem' }}
         className="link-icon"
       />
