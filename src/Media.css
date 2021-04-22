@@ -20,17 +20,31 @@
   }
 }
 
-@media only screen and (max-width: 1280px) {
-  .logo img {
-    height: 6rem;
+@media only screen and (max-width: 1075px) {
+  .result-card {
+    height: 40vh;
   }
-  /* .link {
-    padding: 2vh 4.5vw;
-  } */
 }
 
-@media only screen and (max-width: 1400px) {
+@media only screen and (max-width: 1179px) {
+  .question1-card .question {
+    margin: 6.1vh 0;
+  }
+}
+
+@media only screen and (min-width: 1180px) {
+  .logo img {
+    height: 12vh;
+  }
+
+  .question1-card .question {
+    margin: 7.7vh 0;
+  }
+}
+
+@media only screen and (max-width: 1635px) {
   .glass {
+    max-width: 80vw;
     width: 80vw;
   }
 }

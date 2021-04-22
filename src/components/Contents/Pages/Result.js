@@ -17,6 +17,7 @@ function Result({
   changeProgress(100);
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState([]);
+  const [title, setTitle] = useState('');
 
   const userInput = [
     age,
@@ -28,8 +29,12 @@ function Result({
     budget,
   ];
   useEffect(() => {
-    axios.post('/api', userInput).then(response => setData(response.data));
-    setLoading(false);
+    axios.post('/api', userInput).then(response => {
+      setTitle(response.data.output[0]);
+      setData(response.data.output[1]);
+    });
+    const timer = setTimeout(() => setLoading(false), 3000);
+    return () => clearTimeout(timer);
     // eslint-disable-next-line
   }, []);
 
@@ -37,6 +42,7 @@ function Result({
     display: block;
     padding-right: 9vw;
   `;
+
   if (loading) {
     return (
       <div className="result">
@@ -50,10 +56,41 @@ function Result({
     return (
       <div>
         <div className="result">
-          <div className="questions-card">
-            <div className="question">
-              <h3>We suggest</h3>
-              {console.log(data)}
+          <h1 className="title-text">We suggest,</h1>
+          <div className="results">
+            {title.split(',').length >= 2 ? (
+              <h2>
+                <span className="gifthub-text">{title.split(',')[0]} </span>
+                <span className="gifthub-text result-text"> or</span>{' '}
+                <span className="gifthub-text">{title.split(',')[1]}</span>
+              </h2>
+            ) : (
+              <h2>
+                <span className="gifthub-text"> {title.split(',')[0]}</span>
+              </h2>
+            )}
+            <p className="result-p">Here are some of the matching products:</p>
+            <div className="result-card">
+              {data.map(
+                ({ img, link, price, price_num, seller, title }, index) => {
+                  return (
+                    <div className="result-cards" key={index}>
+                      <div className="result-cards-content">
+                        <a href={link} target="_blank" rel="noreferrer">
+                          {title.substring(0, 85)}
+                        </a>
+                        <p>
+                          {price} {seller.includes('from') ? '' : 'from '}
+                          {seller}
+                        </p>
+                      </div>
+                      <a href={link} target="_blank" rel="noreferrer">
+                        <img src={img} alt={title} />
+                      </a>
+                    </div>
+                  );
+                }
+              )}
             </div>
           </div>
         </div>
