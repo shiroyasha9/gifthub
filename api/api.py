@@ -46,6 +46,7 @@ def scraper(site):
     soup = BeautifulSoup(r.text, "html.parser")
     lst = soup.findAll("div", {"class": "KZmu8e"})
     for div in lst:
+<<<<<<< HEAD
         anchor = re.findall("(<a[^>]*>)", str(div.a))
         ind = anchor[0].find("href")
         link = anchor[0][ind + 6 : -2]
@@ -53,12 +54,22 @@ def scraper(site):
         ind = link.find("http")
         link = link[ind:].replace("amp;", "")
 
+=======
+        anchor = re.findall('(<a[^>]*>)', str(div.a))
+        ind = anchor[0].find('href')
+        link = anchor[0][ind+6:-2]
+        
+        ind = link.find("http")
+        link = link[ind:].replace("amp;","")
+    
+>>>>>>> 3112d8597e2fac156d627a88b64d5f371b117f17
         if link.startswith("http://www.flipkart.com/"):
             ind = link.find("%3Fpid")
             dct["link"] = link[:ind]
         else:
             dct["link"] = link
 
+<<<<<<< HEAD
         if div.find("img") == None:
             dct["img"] = "https://www.freeiconspng.com/thumbs/no-image-icon/no-image-icon-15.png"
         else:
@@ -68,10 +79,22 @@ def scraper(site):
 
         price = div.find("span", {"class": "T14wmb"}).text.strip()
         ind = price.find("₹", 1)
+=======
+        if div.find('img') == None:
+            dct["img"] = "https://www.freeiconspng.com/thumbs/no-image-icon/no-image-icon-15.png"
+        else:
+            dct["img"] = div.find('img')['src']
+        
+        dct["title"] = div.find('div', {"class": "sh-np__product-title translate-content"}).text.strip()
+        
+        price = div.find('span', {"class": "T14wmb"}).text.strip()
+        ind = price.find('₹',1)
+>>>>>>> 3112d8597e2fac156d627a88b64d5f371b117f17
         if ind != -1:
             dct["price"] = price[:ind]
         else:
             ind = price.find(".")
+<<<<<<< HEAD
             price = price[: ind + 3] + " " + price[ind + 3 :]
             dct["price"] = re.sub("\s+", " ", price)
 
@@ -80,11 +103,22 @@ def scraper(site):
 
         dct["seller"] = div.find("span", {"class": "E5ocAb"}).text.strip()
 
+=======
+            price = price[:ind+3] + " " + price[ind+3:]
+            dct["price"] = re.sub('\s+',' ',price)
+
+        ind = dct["price"].find('.')
+        dct["price_num"] = float((dct["price"][1:ind+3]).replace(',',''))
+        
+        dct["seller"] = div.find('span', {"class": "E5ocAb"}).text.strip()
+        
+>>>>>>> 3112d8597e2fac156d627a88b64d5f371b117f17
         dct_lst.append(dct.copy())
 
     lst = soup.findAll("div", {"class": ("u30d4")})
     lst = lst[:-1]
     for div in lst:
+<<<<<<< HEAD
         anchor = re.findall("(<a[^>]*>)", str(div.a))
         ind = anchor[0].find("href")
         link = anchor[0][ind + 6 : -2]
@@ -92,16 +126,33 @@ def scraper(site):
         ind = link.find("http")
         link = link[ind:].replace("amp;", "")
 
+=======
+        anchor = re.findall('(<a[^>]*>)', str(div.a))
+        ind = anchor[0].find('href')
+        link = anchor[0][ind+6:-2]
+
+        ind = link.find("http")
+        link = link[ind:].replace("amp;","")
+    
+>>>>>>> 3112d8597e2fac156d627a88b64d5f371b117f17
         if link.startswith("http://www.flipkart.com/"):
             ind = link.find("%3Fpid")
             dct["link"] = link[:ind]
         else:
             dct["link"] = link
+<<<<<<< HEAD
 
         if div.find("img") == None:
             dct["img"] = "https://www.freeiconspng.com/thumbs/no-image-icon/no-image-icon-15.png"
         else:
             dct["img"] = div.find("img")["src"]
+=======
+        
+        if div.find('img') == None:
+            dct["img"] = "https://www.freeiconspng.com/thumbs/no-image-icon/no-image-icon-15.png"
+        else:
+            dct["img"] = div.find('img')['src']
+>>>>>>> 3112d8597e2fac156d627a88b64d5f371b117f17
 
         try:
             anchor = div.div.next_sibling.div.a
@@ -115,12 +166,19 @@ def scraper(site):
             dct["seller"] = "-1"
             continue
 
+<<<<<<< HEAD
         price = div.find("span", {"class": "HRLxBb"}).text.strip()
         ind = price.find("₹", 1)
+=======
+        
+        price = div.find('span', {"class": "HRLxBb"}).text.strip()
+        ind = price.find('₹',1)
+>>>>>>> 3112d8597e2fac156d627a88b64d5f371b117f17
         if ind != -1:
             dct["price"] = price[:ind]
         else:
             ind = price.find(".")
+<<<<<<< HEAD
             price = price[: ind + 3] + " " + price[ind + 3 :]
             dct["price"] = re.sub("\s+", " ", price)
 
@@ -129,11 +187,25 @@ def scraper(site):
 
         anchor = div.find("div", {"class": "dD8iuc"}).text.strip()
         elem = re.findall("(from.*)", anchor)
+=======
+            price = price[:ind+3] + " " + price[ind+3:]
+            dct["price"] = re.sub('\s+',' ',price)
+
+        ind = dct["price"].find('.')
+        dct["price_num"] = float((dct["price"][1:ind+3]).replace(',',''))
+        
+        anchor = div.find('div', {"class": "dD8iuc"}).text.strip()
+        elem = re.findall('(from.*)', anchor)
+>>>>>>> 3112d8597e2fac156d627a88b64d5f371b117f17
         if elem:
             dct["seller"] = elem[0]
         else:
             dct["seller"] = " "
+<<<<<<< HEAD
 
+=======
+        
+>>>>>>> 3112d8597e2fac156d627a88b64d5f371b117f17
         dct_lst.append(dct.copy())
     res_lst = [i for n, i in enumerate(dct_lst) if i not in dct_lst[n + 1 :]]
     return res_lst
@@ -142,9 +214,13 @@ def scraper(site):
 def gifthub(age, gender, relation, ocassion, interest1, interest2, budget):
     user_input = [[age, gender, relation, ocassion, interest1, interest2, budget]]
 
+<<<<<<< HEAD
     df = pd.DataFrame(
         user_input, columns=["age", "gender", "relation", "occasion", "interest_1", "interest_2", "budget"]
     )
+=======
+    df = pd.DataFrame(user_input, columns = ['age', 'gender', 'relation', 'occasion', 'interest_1', 'interest_2', 'budget'])
+>>>>>>> 3112d8597e2fac156d627a88b64d5f371b117f17
     output = dtree.predict(df)
     output = str(output[0])
     prediction = output
@@ -157,14 +233,25 @@ def gifthub(age, gender, relation, ocassion, interest1, interest2, budget):
         lst = scraper(site)
         out_lst = out_lst + lst
 
+<<<<<<< HEAD
     sor_out_lst = sorted(out_lst, key=lambda i: i["price_num"])  # sorting all the scraped items
 
     if user_input[0][6] == 0:
         return [prediction, sor_out_lst[: len(sor_out_lst) // 3]]
+=======
+    sor_out_lst = sorted(out_lst, key = lambda i: i['price_num']) # sorting all the scraped items
+    
+    if user_input[0][6] == 0:
+        return [prediction , sor_out_lst[:len(sor_out_lst)//3] ]
+>>>>>>> 3112d8597e2fac156d627a88b64d5f371b117f17
     elif user_input[0][6] == 1:
         return [prediction, sor_out_lst[len(sor_out_lst) // 3 : 2 * (len(sor_out_lst) // 3)]]
     else:
+<<<<<<< HEAD
         return [prediction, sor_out_lst[2 * (len(sor_out_lst) // 3) :]]
+=======
+        return [prediction , sor_out_lst[2*(len(sor_out_lst)//3):]]
+>>>>>>> 3112d8597e2fac156d627a88b64d5f371b117f17
 
 
 # ghout = gifthub([[1,0,0,0,0,0,0]])[0:2]
@@ -187,10 +274,13 @@ def api():
         return "MUFFIN OP"
     print(json_data)
     ghout = gifthub(age, gender, relation, ocassion, interest1, interest2, budget)[0:2]
-
+    
+    
     # Just trying to return something
-    return {"output": ghout}
-
+    return {
+        "output": ghout
+    }
 
 if __name__ == "__main__":
     app.run(debug=True)
+
