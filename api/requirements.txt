@@ -1,11 +1,8 @@
-appdirs==1.4.4
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
 beautifulsoup4==4.9.3
-black==19.10b0
 bs4==0.0.1
 certifi==2020.12.5
 chardet==4.0.0
-click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+click==7.1.2
 cycler==0.10.0
 Flask==1.1.2
 idna==2.10
@@ -15,26 +12,18 @@ joblib==1.0.1
 kiwisolver==1.3.1
 MarkupSafe==1.1.1
 matplotlib==3.4.1
-mypy-extensions==0.4.3
 numpy==1.20.2
 pandas==1.2.4
-pathspec==0.7.0
 Pillow==8.2.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
-python-dotenv==0.17.0
 pytz==2021.1
-regex @ file:///C:/ci/regex_1617569893741/work
 requests==2.25.1
-scikit-learn==0.24.1
-scipy==1.6.2
+scikit-learn==0.24.2
+scipy==1.6.3
 seaborn==0.11.1
 six==1.15.0
 soupsieve==2.2.1
 threadpoolctl==2.1.0
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-typed-ast @ file:///C:/ci/typed-ast_1610466535590/work
-typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
 urllib3==1.26.4
 Werkzeug==1.0.1
-wincertstore==0.2

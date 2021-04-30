@@ -24,5 +24,10 @@ yarn-debug.log*
 yarn-error.log*
 
 .vscode
+/vscode
 
-__pycache__
+api/__pycache__
+
+
+src/firebaseConfig.js
+

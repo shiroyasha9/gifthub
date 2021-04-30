@@ -1,10 +1,11 @@
-import React from 'react';
-import User from './User/User';
-import Links from './Links/Links';
-import Col from 'react-bootstrap/Col';
-import Logo from './Logo/Logo';
+import React, { useContext } from "react";
+import User from "./User/User";
+import Links from "./Links/Links";
+import Col from "react-bootstrap/Col";
+import Logo from "./Logo/Logo";
 
-const Dashboard = ({ auth, user, firebase, changeShow }) => {
+const Dashboard = ({ GlassContext }) => {
+  const { auth, user, firebase, changeShow } = useContext(GlassContext);
   return (
     <Col className="dashboard" md={4} lg={3} xl={3}>
       <div className="dashboards">
