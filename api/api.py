@@ -12,24 +12,24 @@ import re
 from bs4 import BeautifulSoup
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.svm import SVC
-from sklearn.ensemble import RandomForestClassifier
+#from sklearn.svm import SVC
+#from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, confusion_matrix
 
-df = pd.read_csv("./gifthub_train_revised_num.csv")
-df.head()
+df = pd.read_csv("./new_data_num.csv")
+#df.head()
 X = df.drop("gift", axis=1)
 y = df["gift"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=42)
 dtree = DecisionTreeClassifier()
 dtree.fit(X_train, y_train)
 predictions = dtree.predict(X_test)
-svc = SVC()
-svc.fit(X_train, y_train)
-svcpredictions = svc.predict(X_test)
-rtree = RandomForestClassifier()
-rtree.fit(X_train, y_train)
-rpredictions = rtree.predict(X_test)
+#svc = SVC()
+#svc.fit(X_train, y_train)
+#svcpredictions = svc.predict(X_test)
+#rtree = RandomForestClassifier()
+#rtree.fit(X_train, y_train)
+#rpredictions = rtree.predict(X_test)
 
 
 def prepdata(data):
@@ -144,13 +144,32 @@ def gifthub(age, gender, relation, ocassion, interest1, interest2, budget):
     user_input = [[age, gender, relation, ocassion, interest1, interest2, budget]]
 
     df = pd.DataFrame(user_input, columns = ['age', 'gender', 'relation', 'occasion', 'interest_1', 'interest_2', 'budget'])
+    age = user_input[0][0]
+    gender = user_input[0][1]
     output = dtree.predict(df)
     output = str(output[0])
     prediction = output
     output = output.split(",")  # output list ready ex. ['Audio Sunglasses', ' Gaming Console']
-
+    
     out_lst = []
     for data in output:
+        if age==0:
+            data = data + " for kid"    
+            if gender==0:
+                data = data + " boys"
+            else:
+                data = data + " girls"
+        elif age==1:
+            data = data + " for teenage"            
+            if gender==0:
+                data = data + " boys"
+            else:
+                data = data + " girls"
+        else:    
+            if gender==0:
+                data = data + " for men"
+            else:
+                data = data + " for women"
         data = prepdata(data)  # prepping terms from output for scraping
         site = "https://www.google.com/search?q=" + data + "&source=lnms&tbm=shop&sa=X"
         lst = scraper(site)
