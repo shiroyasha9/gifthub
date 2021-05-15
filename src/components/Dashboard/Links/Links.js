@@ -1,9 +1,9 @@
-import React from 'react';
-import Link from './Link/Link';
-import { IoLogIn, IoLogOut } from 'react-icons/io5';
-import { TiMediaRewind } from 'react-icons/ti';
-import { HiGift } from 'react-icons/hi';
-import { IoIosInformationCircle } from 'react-icons/io';
+import React from "react";
+import Link from "./Link/Link";
+import { IoLogIn, IoLogOut } from "react-icons/io5";
+import { TiMediaRewind } from "react-icons/ti";
+import { HiGift } from "react-icons/hi";
+import { IoIosInformationCircle } from "react-icons/io";
 
 const Links = ({ auth, user, firebase, changeShow }) => {
   const signIn = () => {
@@ -24,18 +24,24 @@ const Links = ({ auth, user, firebase, changeShow }) => {
       >
         <Link
           Icon={user ? IoLogOut : IoLogIn}
-          text={user ? 'Logout' : 'Login'}
+          text={user ? "Logout" : "Login"}
         />
       </div>
       <div
         onClick={() => {
-          changeShow('home');
+          changeShow("home");
         }}
       >
         <Link Icon={HiGift} text="Suggest" />
       </div>
+      <div
+        onClick={() => {
+          changeShow("history");
+        }}
+      >
+        <Link Icon={TiMediaRewind} text="History" />
+      </div>
 
-      <Link Icon={TiMediaRewind} text="History" />
       <Link Icon={IoIosInformationCircle} text="About" />
     </div>
   );

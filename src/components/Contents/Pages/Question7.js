@@ -1,15 +1,14 @@
-import React, { Fragment, useState } from 'react';
+import React, { Fragment, useState } from "react";
+import { budgets } from "../../Reusable/interests";
 
-function Question7({ changeBudget, changeShow, changeProgress, gender }) {
-  const [radio, setRadio] = useState('0');
-  changeProgress(87.5);
+const Question7 = ({ changeBudget, changeShow, changeProgress }) => {
+  const [radio, setRadio] = useState("0");
+  changeProgress(77.77);
 
-  const changeQuestion = choice => {
+  const changeQuestion = (choice) => {
     changeBudget(Number(choice));
-    changeShow('result');
+    changeShow("question8");
   };
-
-  const budgets = ['Not that costly', 'Moderate', 'Can be expensive!'];
 
   return (
     <div className="question3">
@@ -26,7 +25,7 @@ function Question7({ changeBudget, changeShow, changeProgress, gender }) {
                     checked={Number(radio) === index}
                     value={index}
                     key={index}
-                    onChange={e => setRadio(e.target.value)}
+                    onChange={(e) => setRadio(e.target.value)}
                   />
                   <label onClick={() => setRadio(index)}>{budget}</label>
                 </Fragment>
@@ -44,6 +43,6 @@ function Question7({ changeBudget, changeShow, changeProgress, gender }) {
       </div>
     </div>
   );
-}
+};
 
 export default Question7;

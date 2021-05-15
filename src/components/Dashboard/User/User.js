@@ -1,5 +1,5 @@
-import React from 'react';
-import Guest from '../../../assets/guest.jpg';
+import React from "react";
+import Guest from "../../../assets/guest.jpg";
 
 const User = ({ auth }) => {
   return (
@@ -9,8 +9,8 @@ const User = ({ auth }) => {
         alt="avatar"
         className="user-img"
       />
-      <h3 style={{ color: '#212529', fontSize: '2vh' }}>
-        {auth.currentUser?.displayName ?? 'Guest User'}
+      <h3 style={{ color: "#212529", fontSize: "2vh" }}>
+        {auth.currentUser?.displayName ?? "Guest User"}
       </h3>
     </div>
   );
