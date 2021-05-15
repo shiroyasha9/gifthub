@@ -27,6 +27,7 @@ yarn-error.log*
 /vscode
 
 api/__pycache__
+api/gifthub
 
 
 src/firebaseConfig.js
