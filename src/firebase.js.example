@@ -1,0 +1,15 @@
+import firebase from "firebase";
+
+const firebaseConfig = {
+  apiKey: "your data here",
+  authDomain: "your data here",
+  projectId: "your data here",
+  storageBucket: "your data here",
+  messagingSenderId: "your data here",
+  appId: "your data here",
+  measurementId: "your data here",
+};
+
+firebase.initializeApp(firebaseConfig);
+
+export default firebase;
