@@ -1,44 +1,21 @@
-import React, { Fragment, useState } from 'react';
+import React, { Fragment, useState } from "react";
+import { interests2 } from "../../Reusable/interests";
 
-function Question6({
+const Question6 = ({
   changeInterest2,
   changeShow,
   changeProgress,
   interest1,
   gender,
-}) {
-  const [radio, setRadio] = useState('0');
-  changeProgress(75);
+}) => {
+  const [radio, setRadio] = useState("0");
+  changeProgress(66.66);
 
-  const interests = [
-    [
-      'Football',
-      'Basketball',
-      'Hockey',
-      'Cricket',
-      'Badminton',
-      'Athletics',
-      'Tennis',
-      'Indoor',
-      'Volleyball',
-      'Boxing',
-      'Skating',
-      'Rugby',
-      'Cycling',
-      'Fishing',
-    ],
-    ['Painting', 'Spray Painting', 'Doodle'],
-    ['PC', 'Console', 'Mobile'],
-    ['Classical', 'Western', 'Electronic'],
-    ['Baking', 'Utilities', 'General'],
-    ['Horror', 'Sci-fi', 'Non fiction', 'Drama/Thriller'],
-  ];
+  const indexes = [0, 14, 17, 20, 23, 26, 30, 35];
 
-  const indexes = [0, 14, 17, 20, 23, 26];
-
-  const changeQuestion = choice => {
+  const changeQuestion = (choice) => {
     changeInterest2(Number(choice) + indexes[interest1]);
-    changeShow('question7');
+    changeShow("question7");
   };
 
   return (
@@ -46,10 +23,10 @@ function Question6({
       <h1 className="title-text">Almost There!</h1>
       <div className="questions-card">
         <div className="question">
-          <h3>What is {gender === 0 ? 'his' : 'her'} specific interest?</h3>
+          <h3>What is {gender === 0 ? "his" : "her"} specific interest?</h3>
           <div class="question-form">
             {interest1 !== 0 ? (
-              interests[interest1].map((interest, index) => {
+              interests2[interest1].map((interest, index) => {
                 return (
                   <Fragment>
                     <input
@@ -57,7 +34,7 @@ function Question6({
                       checked={Number(radio) === index}
                       value={index}
                       key={index}
-                      onChange={e => setRadio(e.target.value)}
+                      onChange={(e) => setRadio(e.target.value)}
                     />
                     <label onClick={() => setRadio(index)}>{interest}</label>
                   </Fragment>
@@ -66,11 +43,11 @@ function Question6({
             ) : (
               <select
                 value={radio}
-                onChange={e => {
+                onChange={(e) => {
                   setRadio(e.target.value);
                 }}
               >
-                {interests[0].map((interest, index) => {
+                {interests2[0].map((interest, index) => {
                   return (
                     <Fragment>
                       <option value={index} key={index}>
@@ -93,6 +70,6 @@ function Question6({
       </div>
     </div>
   );
-}
+};
 
 export default Question6;

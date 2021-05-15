@@ -50,8 +50,8 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
-  background-image: url('./assets/newbg.png');
+  font-family: "Poppins", sans-serif;
+  background-image: url("./assets/newbg.png");
   line-height: 1.5;
   font-size: 0.875rem;
   background-repeat: no-repeat;
@@ -100,8 +100,8 @@ h3 {
 }
 
 @font-face {
-  font-family: 'Angelina';
-  src: url('./assets/angelina2.ttf');
+  font-family: "Angelina";
+  src: url("./assets/angelina2.ttf");
 }
 
 /* Button */
@@ -129,7 +129,7 @@ h3 {
 }
 
 .amaranth-btn button:after {
-  content: '';
+  content: "";
   display: block;
   position: absolute;
   top: -36px;
@@ -364,7 +364,7 @@ main {
 }
 
 /* Loading */
-.result-loading {
+.loading {
   display: flex;
   flex-direction: column;
   align-items: center;

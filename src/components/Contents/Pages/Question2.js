@@ -1,15 +1,14 @@
-import React, { Fragment, useState } from 'react';
+import React, { Fragment, useState } from "react";
+import { genders } from "../../Reusable/interests";
 
-function Question2({ changeGender, changeShow, changeProgress }) {
-  const [radio, setRadio] = useState('0');
-  changeProgress(25);
+const Question2 = ({ changeGender, changeShow, changeProgress }) => {
+  const [radio, setRadio] = useState("0");
+  changeProgress(22.22);
 
-  const changeQuestion = choice => {
+  const changeQuestion = (choice) => {
     changeGender(Number(choice));
-    changeShow('question3');
+    changeShow("question3");
   };
-
-  const genders = ['Male', 'Female'];
 
   return (
     <div className="question2">
@@ -26,7 +25,7 @@ function Question2({ changeGender, changeShow, changeProgress }) {
                     checked={Number(radio) === index}
                     value={index}
                     key={index}
-                    onChange={e => setRadio(e.target.value)}
+                    onChange={(e) => setRadio(e.target.value)}
                   />
                   <label onClick={() => setRadio(index)}>{gender}</label>
                 </Fragment>
@@ -44,6 +43,6 @@ function Question2({ changeGender, changeShow, changeProgress }) {
       </div>
     </div>
   );
-}
+};
 
 export default Question2;

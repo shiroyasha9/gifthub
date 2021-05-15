@@ -9,10 +9,12 @@ import Question4 from "./Pages/Question4";
 import Question5 from "./Pages/Question5";
 import Question6 from "./Pages/Question6";
 import Question7 from "./Pages/Question7";
+import Question8 from "./Pages/Question8";
 import Result from "./Pages/Result";
+import History from "./History/History";
 
 const Content = ({ GlassContext }) => {
-  const { auth, show, changeShow } = useContext(GlassContext);
+  const { auth, show, changeShow, firebase, user } = useContext(GlassContext);
   const [age, setAge] = useState(1);
   const [gender, setGender] = useState(0);
   const [relation, setRelation] = useState(0);
@@ -20,6 +22,7 @@ const Content = ({ GlassContext }) => {
   const [interest1, setInterest1] = useState(0);
   const [interest2, setInterest2] = useState(0);
   const [budget, setBudget] = useState(0);
+  const [name, setName] = useState("Loved One");
 
   const [progress, setProgress] = useState(0);
 
@@ -43,6 +46,10 @@ const Content = ({ GlassContext }) => {
   };
   const changeBudget = (choice) => {
     setBudget(choice);
+  };
+
+  const changeName = (choice) => {
+    setName(choice);
   };
 
   useEffect(() => {
@@ -115,6 +122,14 @@ const Content = ({ GlassContext }) => {
             changeProgress={changeProgress}
           />
         )}
+        {show === "question8" && (
+          <Question8
+            changeName={changeName}
+            changeShow={changeShow}
+            changeProgress={changeProgress}
+            gender={gender}
+          />
+        )}
         {show === "result" && (
           <Result
             age={age}
@@ -126,7 +141,12 @@ const Content = ({ GlassContext }) => {
             budget={budget}
             changeShow={changeShow}
             changeProgress={changeProgress}
+            user={user}
+            name={name}
           />
+        )}
+        {show === "history" && (
+          <History auth={auth} changeShow={changeShow} firebase={firebase} />
         )}
         {progress !== 0 && progress !== 100 && <ProgressBar now={progress} />}
       </div>

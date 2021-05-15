@@ -1,3 +1,5 @@
+import firebase from "firebase";
+
 const firebaseConfig = {
   apiKey: "AIzaSyBWeq3fmX7cSht3ChiUZC9KGULCD9aTTI0",
   authDomain: "gifthub-34e0d.firebaseapp.com",
@@ -8,4 +10,6 @@ const firebaseConfig = {
   measurementId: "G-RBHFE6QZBP",
 };
 
-export default firebaseConfig;
+firebase.initializeApp(firebaseConfig);
+
+export default firebase;

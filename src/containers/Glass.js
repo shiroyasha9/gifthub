@@ -3,12 +3,9 @@ import Container from "react-bootstrap/Container";
 import Dashboard from "../components/Dashboard/Dashboard";
 import Content from "../components/Contents/Content";
 import Row from "react-bootstrap/Row";
-import firebase from "firebase/app";
+import firebase from "../firebase";
 import "firebase/auth";
-import firebaseConfig from "../firebaseConfig";
 import { useAuthState } from "react-firebase-hooks/auth";
-
-firebase.initializeApp(firebaseConfig);
 
 const auth = firebase.auth();
 

@@ -1,23 +1,23 @@
-import React, { Fragment, useState } from 'react';
+import React, { Fragment, useState } from "react";
+import { interests1 } from "../../Reusable/interests";
 
-function Question5({ changeInterest1, changeShow, changeProgress, gender }) {
-  const [radio, setRadio] = useState('0');
-  changeProgress(62.5);
+const Question5 = ({ changeInterest1, changeShow, changeProgress, gender }) => {
+  const [radio, setRadio] = useState("0");
+  changeProgress(55.55);
 
-  const changeQuestion = choice => {
+  const changeQuestion = (choice) => {
     changeInterest1(Number(choice));
-    changeShow('question6');
+    changeShow("question6");
   };
 
-  const interests = ['Sports', 'Arts', 'Gaming', 'Music', 'Cooking', 'Reading'];
   return (
     <div className="question3">
       <h1 className="title-text">Great!</h1>
       <div className="questions-card">
         <div className="question">
-          <h3>What is {gender === 0 ? 'his' : 'her'} primary interest?</h3>
+          <h3>What is {gender === 0 ? "his" : "her"} primary interest?</h3>
           <div class="question-form">
-            {interests.map((interest, index) => {
+            {interests1.map((interest, index) => {
               return (
                 <Fragment>
                   <input
@@ -25,7 +25,7 @@ function Question5({ changeInterest1, changeShow, changeProgress, gender }) {
                     checked={Number(radio) === index}
                     value={index}
                     key={index}
-                    onChange={e => setRadio(e.target.value)}
+                    onChange={(e) => setRadio(e.target.value)}
                   />
                   <label onClick={() => setRadio(index)}>{interest}</label>
                 </Fragment>
@@ -43,6 +43,6 @@ function Question5({ changeInterest1, changeShow, changeProgress, gender }) {
       </div>
     </div>
   );
-}
+};
 
 export default Question5;
