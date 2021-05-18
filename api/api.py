@@ -12,24 +12,15 @@ import re
 from bs4 import BeautifulSoup
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
-#from sklearn.svm import SVC
-#from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, confusion_matrix
 
 df = pd.read_csv("./new_data_num.csv")
-#df.head()
 X = df.drop("gift", axis=1)
 y = df["gift"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=42)
 dtree = DecisionTreeClassifier()
 dtree.fit(X_train, y_train)
 predictions = dtree.predict(X_test)
-#svc = SVC()
-#svc.fit(X_train, y_train)
-#svcpredictions = svc.predict(X_test)
-#rtree = RandomForestClassifier()
-#rtree.fit(X_train, y_train)
-#rpredictions = rtree.predict(X_test)
 
 
 def prepdata(data):

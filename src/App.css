@@ -1,4 +1,9 @@
-/* Global variables */
+/**
+ * /* Global variables
+ *
+ * @format
+ */
+
 :root {
   --black: #212529;
   --gunmetal: #343a40;
@@ -50,8 +55,8 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
-  background-image: url("./assets/newbg.png");
+  font-family: 'Poppins', sans-serif;
+  background-image: url('./assets/newbg.png');
   line-height: 1.5;
   font-size: 0.875rem;
   background-repeat: no-repeat;
@@ -100,8 +105,8 @@ h3 {
 }
 
 @font-face {
-  font-family: "Angelina";
-  src: url("./assets/angelina2.ttf");
+  font-family: 'Angelina';
+  src: url('./assets/angelina2.ttf');
 }
 
 /* Button */
@@ -129,7 +134,7 @@ h3 {
 }
 
 .amaranth-btn button:after {
-  content: "";
+  content: '';
   display: block;
   position: absolute;
   top: -36px;
@@ -168,9 +173,9 @@ main {
 
 .glass {
   margin: 0 auto;
-  width: 78vw;
+  width: 72vw;
   min-height: 77vh;
-  max-width: 68vw;
+  max-width: 72vw;
   max-height: 77vh;
   background: linear-gradient(
     to right bottom,
@@ -342,7 +347,7 @@ main {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-bottom: 5vh;
+  margin-bottom: 4.4vh;
 }
 
 /* General Question */
@@ -432,4 +437,48 @@ main {
 
 .result-cards img {
   max-height: 75px;
+}
+
+/* Dismissable Alert */
+.dsalert {
+  border-radius: 1.8vh;
+  padding: 1vh 2vw;
+  margin: 1.7vh 1vw;
+}
+
+/* History */
+.history-card {
+  height: 70vh;
+  overflow-y: auto;
+}
+
+.history-cards {
+  background-color: white;
+  border-radius: 1.8vh;
+  padding: 1.7vh 2vw;
+  margin: 1.7vh 1vw;
+  box-shadow: rgba(230, 46, 80, 0.19) 0px 10px 20px,
+    rgba(230, 46, 80, 0.23) 0px 6px 6px;
+}
+
+/* Close button */
+.close-btn {
+  position: relative;
+  float: right;
+  size: 7vh;
+
+  color: var(--amaranth);
+  transition: color 0.1s ease-in-out;
+}
+
+.close-btn:hover {
+  color: black;
+}
+
+.history-card .title-text {
+  font-size: 3.7vh;
+}
+
+.history-cards:hover {
+  cursor: pointer;
 }
