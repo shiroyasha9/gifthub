@@ -5,7 +5,6 @@ app = Flask(__name__)
 
 import os
 import pandas as pd
-import requests
 import re
 from bs4 import BeautifulSoup
 from sklearn.model_selection import train_test_split
