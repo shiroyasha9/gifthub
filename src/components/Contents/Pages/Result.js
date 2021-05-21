@@ -38,6 +38,7 @@ const Result = ({
 
   useEffect(() => {
     axios.post('/api', userInput).then((response) => {
+      console.log(response.data);
       setTitle(response.data.output[0]);
       setData(response.data.output[1]);
       if (saveToFirebase) {

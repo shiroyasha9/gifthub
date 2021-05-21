@@ -57,3 +57,9 @@
     margin-bottom: 0.2vh;
   }
 }
+
+@media only screen and (max-width: 766px) {
+  .dashboard {
+    display: none;
+  }
+}

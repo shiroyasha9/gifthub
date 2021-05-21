@@ -3,10 +3,8 @@ import flask
 
 app = Flask(__name__)
 
+import os
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 import requests
 import re
 from bs4 import BeautifulSoup
@@ -14,7 +12,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import classification_report, confusion_matrix
 
-df = pd.read_csv("./new_data_num.csv")
+path = os.path.abspath("./new_data_num.csv")
+df = pd.read_csv(path)
 X = df.drop("gift", axis=1)
 y = df["gift"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=42)
