@@ -12,6 +12,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import classification_report, confusion_matrix
 
+budget = 0
+
 path = os.path.abspath("./new_data_num.csv")
 df = pd.read_csv(path)
 X = df.drop("gift", axis=1)
@@ -27,13 +29,13 @@ def prepdata(data):
     return term
 
 
-def scraper(site):
+def scraper(page):
     # getting requests from url
-    r = requests.get(site)
+
     dct = {}
     dct_lst = []
 
-    soup = BeautifulSoup(r.text, "html.parser")
+    soup = BeautifulSoup(page, "html.parser")
     lst = soup.findAll("div", {"class": "KZmu8e"})
     for div in lst:
         anchor = re.findall('(<a[^>]*>)', str(div.a))
@@ -130,7 +132,7 @@ def scraper(site):
     return res_lst
 
 
-def gifthub(age, gender, relation, ocassion, interest1, interest2, budget):
+def get_ml(age, gender, relation, ocassion, interest1, interest2, budget):
     user_input = [[age, gender, relation, ocassion, interest1, interest2, budget]]
 
     df = pd.DataFrame(user_input, columns = ['age', 'gender', 'relation', 'occasion', 'interest_1', 'interest_2', 'budget'])
@@ -140,7 +142,7 @@ def gifthub(age, gender, relation, ocassion, interest1, interest2, budget):
     output = str(output[0])
     prediction = output
     output = output.split(",")  # output list ready ex. ['Audio Sunglasses', ' Gaming Console']
-    
+    links = []
     out_lst = []
     for data in output:
         if age==0:
@@ -161,26 +163,46 @@ def gifthub(age, gender, relation, ocassion, interest1, interest2, budget):
             else:
                 data = data + " for women"
         data = prepdata(data)  # prepping terms from output for scraping
-        site = "https://www.google.com/search?q=" + data + "&source=lnms&tbm=shop&sa=X"
-        lst = scraper(site)
-        out_lst = out_lst + lst
+        links.append(data)
+    return [prediction, links]
+        #site = "https://www.google.com/search?q=" + data + "&source=lnms&tbm=shop&sa=X"
+        #lst = scraper(site)
+        #out_lst = out_lst + lst
 
-    sor_out_lst = sorted(out_lst, key = lambda i: i['price_num']) # sorting all the scraped items
+    #sor_out_lst = sorted(out_lst, key = lambda i: i['price_num']) # sorting all the scraped items
     
-    if user_input[0][6] == 0:
-        return [prediction , sor_out_lst[:len(sor_out_lst)//3] ]
-    elif user_input[0][6] == 1:
-        return [prediction, sor_out_lst[len(sor_out_lst) // 3 : 2 * (len(sor_out_lst) // 3)]]
-    else:
-        return [prediction , sor_out_lst[2*(len(sor_out_lst)//3):]]
+    #if user_input[0][6] == 0:
+    #    return [prediction , sor_out_lst[:len(sor_out_lst)//3] ]
+    #elif user_input[0][6] == 1:
+    #    return [prediction, sor_out_lst[len(sor_out_lst) // 3 : 2 * (len(sor_out_lst) // 3)]]
+    #else:
+    #    return [prediction , sor_out_lst[2*(len(sor_out_lst)//3):]]
 
 
 # ghout = gifthub([[1,0,0,0,0,0,0]])[0:2]
 # print(ghout)
 
+def items(page1, page2):
 
-@app.route("/api", methods=["GET", "POST"])
-def api():
+    out_lst = []
+    if page2 == None:
+        lst = scraper(page1)
+    else:
+        out_list = out_lst + scraper(page1)
+        out_list = out_lst + scraper(page2)
+    
+    sor_out_lst = sorted(out_lst, key = lambda i: i['price_num']) # sorting all the scraped items
+    if budget == 0:
+        return sor_out_lst[:len(sor_out_lst)//3]
+    elif budget == 1:
+       return sor_out_lst[len(sor_out_lst) // 3 : 2 * (len(sor_out_lst) // 3)]
+    else:
+       return sor_out_lst[2*(len(sor_out_lst)//3):]
+
+
+@app.route("/ml", methods=["GET", "POST"])
+def ml():
+    global budget
     # this is the array I am passing from frontend
     json_data = flask.request.json
     if json_data != None:
@@ -194,10 +216,28 @@ def api():
     else:
         return "MUFFIN OP"
     print(json_data)
-    ghout = gifthub(age, gender, relation, ocassion, interest1, interest2, budget)[0:2]
-    
-    
+    ghout = get_ml(age, gender, relation, ocassion, interest1, interest2, budget)
+    # ghout = get_ml(age, gender, relation, ocassion, interest1, interest2, budget)[0:2] 
     # Just trying to return something
+    return {
+        "output": ghout
+    }
+
+@app.route("/link", methods=["GET", "POST"])
+def links():
+    json_data = flask.request.json
+    page1, page2 = None, None
+    if json_data != None:
+        if len(json_data) == 1:
+            page1 = json_data[0]
+        else:
+            page1 = json_data[0]
+            page2 = json_data[1]
+    else:
+        return "JATIN OP"
+    
+    ghout = items(page1, page2)
+
     return {
         "output": ghout
     }
