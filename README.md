@@ -14,3 +14,6 @@
 1. `cd api` cd to api folder
 2. run the command `pip install -r requirements.txt` to install all the requirements
 3. Click the run button or `python api.py` to run the file and start the backend server.
+
+
+###jatin 
