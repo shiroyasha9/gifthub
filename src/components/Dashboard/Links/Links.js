@@ -50,8 +50,13 @@ const Links = ({ auth, user, firebase, changeShow, mobile, clicked }) => {
       >
         <Link Icon={TiMediaRewind} text='History' />
       </div>
-
-      <Link Icon={IoIosInformationCircle} text='About' />
+      <div
+        onClick={() => {
+          mobile ? clicked() || changeShow('about') : changeShow('about');
+        }}
+      >
+        <Link Icon={IoIosInformationCircle} text='About' />
+      </div>
     </div>
   );
 };

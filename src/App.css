@@ -482,3 +482,56 @@ main {
 .history-cards:hover {
   cursor: pointer;
 }
+
+/* About page */
+
+.about-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.about-logo img {
+  height: 12vh;
+}
+
+.about-card {
+  overflow-y: auto;
+}
+
+.about-cards {
+  background-color: white;
+  border-radius: 1.8vh;
+  padding: 1.2vh 8vw;
+  margin: 1.7vh 1vw;
+  box-shadow: rgba(230, 46, 80, 0.19) 0px 10px 20px,
+    rgba(230, 46, 80, 0.23) 0px 6px 6px;
+}
+
+.about-page h2 {
+  font-size: 3.2vh;
+}
+
+.about-page .title-text {
+  color: var(--gunmetal);
+}
+
+.about-cards .gifthub-text {
+  display: block;
+  font-size: 3.5vh;
+}
+
+.about-icon {
+  color: var(--gunmetal);
+  transition: all 0.2s ease-in-out;
+}
+
+.about-icon:hover {
+  color: var(--amaranth);
+}
+
+.heart-icon {
+  color: var(--amaranth);
+}

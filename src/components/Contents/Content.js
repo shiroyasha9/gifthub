@@ -14,6 +14,7 @@ import Question7 from './Pages/Question7';
 import Question8 from './Pages/Question8';
 import Result from './Pages/Result';
 import History from './History/History';
+import About from './About/About';
 
 const Content = ({ AppContext }) => {
   const { auth, show, changeShow, firebase, user } = useContext(AppContext);
@@ -169,6 +170,9 @@ const Content = ({ AppContext }) => {
             changeName={changeName}
             changeSaveToFirebase={changeSaveToFirebase}
           />
+        )}
+        {show === 'about' && (
+          <About changeShow={changeShow} changeProgress={changeProgress} />
         )}
         {progress !== 0 && progress !== 100 && <ProgressBar now={progress} />}
       </div>

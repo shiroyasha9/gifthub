@@ -48,6 +48,8 @@ const History = ({
           console.log('Error');
         }
       });
+    } else {
+      setFetchedHistory('notLoggedIn');
     }
     // eslint-disable-next-line
   }, []);
@@ -88,6 +90,11 @@ const History = ({
     <div className='history-card'>
       {fetchedHistory === false ? (
         <Loading>Getting your History...</Loading>
+      ) : (
+        ''
+      )}
+      {fetchedHistory === 'notLoggedIn' ? (
+        <h2 className='title-text'>Please Login!</h2>
       ) : (
         ''
       )}

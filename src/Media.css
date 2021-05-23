@@ -1,50 +1,12 @@
-/**
- * /* @media only screen and (max-width: 862px) {
- *   .amaranth-btn {
- *     margin-top: 3vh;
- *   }
- *   .home-card {
- *     padding: 2vh 0;
- *   }
- *   .title-text {
- *     font-size: 4.5vh;
- *   }
- * }
- * 
- *   }
- * 
- *   .title-text {
- *     padding: 1vh 1.5vw;
- *   }
- * }
- * 
- *   }
- * }
- * 
- *   }
- * }
- * 
- *   }
- * 
- *   .question1-card .question {
- *     margin: 7.7vh 0;
- *   }
- * }
- * 
- *   }
- * }
- *
- * @format
- * @media only screen and (max-width: 990px) { .home-card { margin: 2vh 0vw;
- * @media only screen and (max-width: 1075px) { .result-card { height: 40vh;
- * @media only screen and (max-width: 1179px) { .question1-card .question { margin: 6.1vh 0;
- * @media only screen and (min-width: 1180px) { .logo img { height: 12vh;
- * @media only screen and (max-width: 1635px) { .glass { max-width: 80vw; width: 80vw;
- */
+/** @format */
 
-@media only screen and (max-width: 962px) {
+@media screen and (max-width: 1111px) {
+}
+
+@media screen and (max-width: 962px) {
   .result-card {
     height: 35vh;
+    overflow-y: scroll;
   }
   .question1-card .question {
     margin: 7.7vh 0;
@@ -58,8 +20,81 @@
   }
 }
 
-@media only screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .dashboard {
     display: none;
+  }
+  .glass {
+    width: 92vw;
+    max-width: 92vw;
+    min-height: 77vh;
+    max-height: 77vh;
+    margin-top: 3vh;
+  }
+  .contents {
+    padding-bottom: 0;
+  }
+
+  .result-cards {
+    padding: 1.2vh 0.5vw;
+    margin: 1.7vh 0vw;
+  }
+
+  .about-cards .gifthub-text {
+    font-size: 3vh;
+  }
+
+  .home-card {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .questions-card .question {
+    margin-top: 7vh;
+  }
+  .title-text {
+    font-size: 5vh;
+  }
+  .question1-card .question {
+    margin: 5vh 0;
+  }
+  .question-7 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .question-7 div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 385px) {
+  .result .title-text {
+    font-size: 3vh;
+  }
+  .result .gifthub-text {
+    font-size: 3vh;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .home-card h2 {
+    font-size: 4vh;
+  }
+  .title-text {
+    font-size: 5vh;
+  }
+  .question {
+    margin: 4vh 0;
+  }
+  .question1-card .question {
+    margin: 3vh 0;
+  }
+}
+
+@media screen and (max-width: 309px) {
+  .about-cards .gifthub-text {
+    font-size: 2.5vh;
   }
 }

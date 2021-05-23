@@ -25,29 +25,14 @@ const Question6 = ({
         <div className='question'>
           <h3>What is {gender === 0 ? 'his' : 'her'} specific interest?</h3>
           <div class='question-form'>
-            {interest1 !== 0 ? (
-              interests2[interest1].map((interest, index) => {
-                return (
-                  <Fragment>
-                    <input
-                      type='radio'
-                      checked={Number(radio) === index}
-                      value={index}
-                      key={index}
-                      onChange={(e) => setRadio(e.target.value)}
-                    />
-                    <label onClick={() => setRadio(index)}>{interest}</label>
-                  </Fragment>
-                );
-              })
-            ) : (
+            {
               <select
                 value={radio}
                 onChange={(e) => {
                   setRadio(e.target.value);
                 }}
               >
-                {interests2[0].map((interest, index) => {
+                {interests2[interest1].map((interest, index) => {
                   return (
                     <Fragment>
                       <option value={index} key={index}>
@@ -57,7 +42,7 @@ const Question6 = ({
                   );
                 })}
               </select>
-            )}
+            }
           </div>
         </div>
         <div className='question-btn'>
