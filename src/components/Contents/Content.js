@@ -15,8 +15,8 @@ import Question8 from './Pages/Question8';
 import Result from './Pages/Result';
 import History from './History/History';
 
-const Content = ({ GlassContext }) => {
-  const { auth, show, changeShow, firebase, user } = useContext(GlassContext);
+const Content = ({ AppContext }) => {
+  const { auth, show, changeShow, firebase, user } = useContext(AppContext);
   const [age, setAge] = useState(1);
   const [gender, setGender] = useState(0);
   const [relation, setRelation] = useState(0);

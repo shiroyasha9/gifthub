@@ -5,6 +5,11 @@ import Loading from '../../Reusable/Loading';
 import DSAlert from '../../Reusable/DSAlert';
 import axios from 'axios';
 import firebase from '../../../firebase';
+// axios.defaults.headers.post['Access-Control-Allow-Origin'] = '*';
+// axios.defaults.headers.post['Content-Type'] =
+//   'application/x-www-form-urlencoded';
+
+// const headers = {};
 
 const Result = ({
   age,
@@ -23,6 +28,7 @@ const Result = ({
   changeProgress(100);
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState([]);
+  // const [searchTerm, setSearchTerm] = useState([]);
   const [title, setTitle] = useState('');
   const [sentToFirebase, setSentToFirebase] = useState(false);
 
@@ -37,15 +43,18 @@ const Result = ({
   ];
 
   useEffect(() => {
-    axios.post('/api', userInput).then((response) => {
-      console.log(response.data);
-      setTitle(response.data.output[0]);
-      setData(response.data.output[1]);
-      if (saveToFirebase) {
-        sendToFirebase(response.data.output[0]);
-      }
-      setLoading(false);
-    });
+    axios
+      .post('https://gifthub.sharedwithexpose.com/api', userInput)
+      .then((response) => {
+        console.log(response.data);
+        setTitle(response.data.output[0]);
+        setData(response.data.output[1]);
+        console.log(response.data.output[1]);
+        if (saveToFirebase) {
+          sendToFirebase(response.data.output[0]);
+        }
+        setLoading(false);
+      });
     // eslint-disable-next-line
   }, []);
 
