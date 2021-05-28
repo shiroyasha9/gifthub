@@ -14,7 +14,7 @@ GiftHub is a web app that allows you to get suggestions of what to buy for your 
 1. Install node js from https://nodejs.org/en/download/
 2. Install yarn by writing `npm install --global yarn` in cmd
 3. Clone this repo and run the command `yarn install` to download all the modules
-4. Create a firebase app on https://console.firebase.com and paste your config in `src\firebase.js` (See firebase.js.example)
+4. Create a firebase app on https://console.firebase.google.com and paste your config in `src\firebase.js` (See firebase.js.example)
 5. Run `yarn start`.
 
 ### For Backend:
