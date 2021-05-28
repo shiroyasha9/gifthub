@@ -2,9 +2,12 @@
 
 # GiftHub
 
+<p align="center">
+  <img src="src/assets/logo.png" width="350" title="GiftHub">
+</p>
 GiftHub is a web app that allows you to get suggestions of what to buy for your loved ones. So no more worrying about what to buy! Just enter the details, and get the suggestion along with the links of what to buy!
 
-## How To Run:
+## Installation:
 
 ### For Frontend:
 
