@@ -43,18 +43,16 @@ const Result = ({
   ];
 
   useEffect(() => {
-    axios
-      .post('https://gifthub.sharedwithexpose.com/api', userInput)
-      .then((response) => {
-        console.log(response.data);
-        setTitle(response.data.output[0]);
-        setData(response.data.output[1]);
-        console.log(response.data.output[1]);
-        if (saveToFirebase) {
-          sendToFirebase(response.data.output[0]);
-        }
-        setLoading(false);
-      });
+    axios.post('http://127.0.0.1:5000/api', userInput).then((response) => {
+      console.log(response.data);
+      setTitle(response.data.output[0]);
+      setData(response.data.output[1]);
+      console.log(response.data.output[1]);
+      if (saveToFirebase) {
+        sendToFirebase(response.data.output[0]);
+      }
+      setLoading(false);
+    });
     // eslint-disable-next-line
   }, []);
 
